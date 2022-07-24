@@ -1,0 +1,11 @@
+Origin: ZenZeq
+Label: ZenZeq tvOS Repo
+Suite: stable
+Version: 1.0
+Codename: ZenZeq
+Architectures: darwin-arm64, appletvos-arm64
+Components: main
+Description: A temporary repo for all nitoTV essentials
+MD5Sum:
+ a2bfa5ed9050cfa2a7726bab332ea042 30965 Packages
+ fa53700a946ea0026e7924b8af863a61 7982 Packages.bz2

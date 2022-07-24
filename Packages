@@ -1,0 +1,832 @@
+Package: com.bingner.snappy
+Version: 1.3.0
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 160
+Depends: firmware (>= 10.3)
+Filename: ./debs/com.bingner.snappy_1.3.0_appletvos-arm64.deb
+Size: 9070
+MD5sum: 457acf802c58ba230fbe35f1f930b80d
+SHA1: 964f86013a991375405a3c5700fc36077dbe07a3
+SHA256: 6e8f2e72e0e180dfe87e270c5a1afbd7dfe838d566da0bed68f1a9e3f6d34bd4
+Section: System
+Description: A Tool for APFS Snapshot Management
+Tag: role::hacker
+Author: Sam Bingner <snappy@bingner.com>
+Name: Snappy
+
+Package: com.cokepokes.tvappstoreplus
+Version: 0.1-2
+Architecture: appletvos-arm64
+Maintainer: CokePokes
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.cokepokes.tvappstoreplus_0.1-2_appletvos-arm64.deb
+Size: 69340
+MD5sum: 4a4336ea775f67a201f6b898e1a70719
+SHA1: 5a77bb0178fd2f1cc152a04ebc6c6be8176d7bfe
+SHA256: 461472b8a98b34221d1d28499e98c101da7399e811234fd7114116336632c66e
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore. Press Play/Pause on GET/OPEN/UPDATE buttons in the AppStore to show options!
+Author: CokePokes
+Name: AppStore++
+
+Package: com.ex.substitute
+Version: 0.1.15
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner
+Installed-Size: 4576
+Pre-Depends: coreutils-bin, dpkg (>=1.17.11)
+Depends: firmware (>= 8.0), cy+cpu.arm64, com.saurik.substrate.safemode, uikittools (>=1.1.13-4), darwintools
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, science.xnu.substitute, mobilesubstrate
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate
+Provides: com.ex.libsubstitute, mobilesubstrate (= 0.9.7100+dummy)
+Filename: ./debs/com.ex.substitute_0.1.15_appletvos-arm64.deb
+Size: 1172536
+MD5sum: 6e3d19ee258e08b109d8c08ae95cd31b
+SHA1: 98274bae319dfed1316ba99c2a8e5b14e740456c
+SHA256: 80a7cc93b9bdea7a5aac796f6d4d99c7dbcb4ab1459d526324391f1f39b95fa6
+Section: System
+Priority: optional
+Description: Substrate substitute for code substitution
+Author: comex <comexk+da@gmail.com>
+Name: Substitute
+
+Package: com.ex.substitute
+Version: 2.0.9
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner
+Installed-Size: 14112
+Pre-Depends: coreutils-bin, dpkg (>=1.17.11)
+Depends: firmware (>= 8.0), cy+cpu.arm64, com.saurik.substrate.safemode (>=0.9.6005), uikittools (>=1.1.13-4), darwintools
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, science.xnu.substitute, mobilesubstrate, ws.hbang.stopcrashingpls (<<1.0.2)
+Breaks: com.saurik.substrate.safemode (<<0.9.6004)
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate
+Provides: com.ex.libsubstitute, mobilesubstrate (= 0.9.7100+dummy)
+Filename: ./debs/com.ex.substitute_2.0.9_appletvos-arm64.deb
+Size: 4688868
+MD5sum: 20856336b999a143ef2ee979cc18ef88
+SHA1: 0f6c52be89aa4251ca298b272cdbff575871f9cd
+SHA256: d7639c7f76c5b4822a84f6f108aa3114818120659dd0b90cba8d4df86127cb30
+Section: System
+Priority: optional
+Description: Substrate substitute for code substitution
+Author: comex <comexk+da@gmail.com>
+Name: Substitute
+
+Package: com.ex.substitute
+Version: 2.1.0
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner
+Installed-Size: 14844
+Pre-Depends: coreutils-bin, dpkg (>=1.17.11)
+Depends: firmware (>= 8.0), cy+cpu.arm64, com.saurik.substrate.safemode (>=0.9.6005), uikittools (>=1.1.13-4), darwintools
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, science.xnu.substitute, mobilesubstrate, ws.hbang.stopcrashingpls (<<1.0.2)
+Breaks: com.saurik.substrate.safemode (<<0.9.6004)
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate
+Provides: com.ex.libsubstitute, mobilesubstrate (= 0.9.7100+dummy)
+Filename: ./debs/com.ex.substitute_2.1.0_appletvos-arm64.deb
+Size: 4895766
+MD5sum: 12a151de2f62c5d66e73dd66a6c94b6a
+SHA1: fee6d7279458888cd170defb19117685edaf18cc
+SHA256: 46bfa21127d1a485bf72efb405e14b1e07dfec7bffd84a013f74c656058e8e9a
+Section: System
+Priority: optional
+Description: Substrate substitute for code substitution
+Author: comex <comexk+da@gmail.com>
+Name: Substitute
+
+Package: com.matchstic.reprovision
+Version: 0.1
+Architecture: appletvos-arm64
+Maintainer: Matt Clarke <matt@incendo.ws>
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.matchstic.reprovision_0.1_appletvos-arm64.deb
+Size: 3103740
+MD5sum: 4ed520545b57c362ebbea5394359b86a
+SHA1: fdc7ccfa5d9392c2d84be06dc1ff526d3ba81042
+SHA256: 83e739f3c181c1449bf37cb91406e0cf2d257b522315a06cd6948e36623ac980
+Section: System
+Priority: optional
+Homepage: https://github.com/Matchstic/ReProvision
+Description: Re-sign applications on your Apple TV. This is a beta version that is unfinished and with minimal testing, buyer beware!
+Author: Matt Clarke <matt@incendo.ws>
+Dev: Matt Clarke <matt@incendo.ws>
+Name: ReProvision
+
+Package: com.matchstic.reprovision
+Version: 0.5.1~release
+Architecture: appletvos-arm64
+Maintainer: Matt Clarke <matt@incendo.ws>
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), com.nito.bulletinh4x (>=1.0-4), com.nito.breezy (>=2.5-1)
+Filename: ./debs/com.matchstic.reprovision_0.5.1~release_appletvos-arm64.deb
+Size: 1685972
+MD5sum: e599d1a731d053ec496b9a054fb47afd
+SHA1: 41282565e99d1e61ebba51daf0062cfdcda8f7c6
+SHA256: 9ca6c975673447a5a7f8edd0ae75693eb0bf618f07680ded1131e4f52c2334dc
+Section: System
+Priority: optional
+Homepage: https://github.com/Matchstic/ReProvision
+Description: Re-sign applications on your Apple TV.
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: https://nitosoft.com/ATV4/repro/repro.json
+Dev: Matt Clarke <matt@incendo.ws>
+Name: ReProvision
+
+Package: com.morpheus.binpack
+Version: 1.0-8
+Architecture: appletvos-arm64
+Maintainer: Jonathan Levin
+Pre-Depends: cy+model.appletv
+Filename: ./debs/com.morpheus.binpack_1.0-8_appletvos-arm64.deb
+Size: 2094384
+MD5sum: deb2cc5d911847e74dea4a960d319a59
+SHA1: 502e273ea80c4c80e8e05d6a82454fe69fb4c366
+SHA256: 99c9b1a3f2444b3abe04f0f3a38b4e7d1184d8ce5fbf6d8c7785b29edcf78191
+Section: Utilities
+Priority: important
+Description: various utilities compiled by Jonathan Levin.
+Depiction: http://newosxbook.com/tools/iOSBinaries.html
+Name: Morpheus Binary Pack
+
+Package: com.morpheus.binpack
+Version: 1.0-9
+Architecture: appletvos-arm64
+Maintainer: Jonathan Levin
+Pre-Depends: cy+model.appletv
+Filename: ./debs/com.morpheus.binpack_1.0-9_appletvos-arm64.deb
+Size: 2093244
+MD5sum: 09d6a3701f6bb01050fbc1e4e4e5660c
+SHA1: 897b88caf53a9cdf6c4c7d2b77ffbc9a300b9345
+SHA256: 5c6ad221141ddc38daac7e9d8645118702a7b837bf9651a90f8a7eaa5c536018
+Section: Utilities
+Priority: important
+Description: various utilities compiled by Jonathan Levin.
+Depiction: http://newosxbook.com/tools/iOSBinaries.html
+Name: Morpheus Binary Pack
+
+Package: com.nito.airmagic
+Version: 1.0-36
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 5048
+Depends: firmware (>= 8.0)
+Filename: ./debs/com.nito.airmagic_1.0-36_appletvos-arm64.deb
+Size: 1883566
+MD5sum: a6296ee0f973f67ff9ef0d915e9b0d9b
+SHA1: 36512357351dbe4295f0b5a4922d4c2669373e8d
+SHA256: 3ccb70abc7ed3f877a24733dc263f688415e161401236064c760a8b1f89780b2
+Section: Tweaks
+Description: A powerful webserver that accepts commands to control on screen navigation and text entry
+Author: Kevin Bradley
+Name: AirMagic
+
+Package: com.nito.airmagic
+Version: 1.0-45
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 5048
+Depends: firmware (>= 8.0)
+Filename: ./debs/com.nito.airmagic_1.0-45_appletvos-arm64.deb
+Size: 1884048
+MD5sum: f931365f24eba94a6d97d8b831b2e935
+SHA1: fa194c758b0d239a87ec2f11bf18630ab085c966
+SHA256: a2d4f1cfddfb4a90811af7875d3bc58acc56f57ef3edba549be94ac9dc577d75
+Section: Tweaks
+Description: A powerful webserver that accepts commands to control on screen navigation and text entry
+Author: Kevin Bradley
+Name: AirMagic
+
+Package: com.nito.breezy
+Version: 2.6-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 604
+Pre-Depends: cy+model.appletv
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.nito.breezy_2.6-1_appletvos-arm64.deb
+Size: 65468
+MD5sum: 34f0a42669cc428914fbd5c8ea313b6d
+SHA1: 0cd528775ec7e632a1ceff75a90f3e6ec8046a67
+SHA256: 1b849c5ff39794943fcb412f908474bf0d324bfc3318ea35bf2e9775998c626c
+Section: Tweak
+Description: Enable AirDrop server in your tvOS Applications
+Author: Kevin Bradley & Ethan Arbuckle
+Depiction: https://nitosoft.com/ATV4/breezy/breezy.json
+Name: Breezy
+
+Package: com.nito.breezy
+Version: 2.6-35
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 504
+Pre-Depends: cy+model.appletv
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.nito.breezy_2.6-35_appletvos-arm64.deb
+Size: 65086
+MD5sum: 3d79c434b6e7869b425fdf8bdf88eb14
+SHA1: 580a0117cf64adb8ea65224af77283a387ecdc1c
+SHA256: 87bbe1db77c827c7c0676c417500c6f2d8caf437d9490655a1e72180e6463239
+Section: Tweak
+Description: Enable AirDrop server in your tvOS Applications
+Author: Kevin Bradley & Ethan Arbuckle
+Depiction: https://nitosoft.com/ATV4/breezy/breezy.json
+Name: Breezy
+
+Package: com.nito.breezy
+Version: 2.6-78
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 624
+Pre-Depends: cy+model.appletv
+Depends: mobilesubstrate, preferenceloader (>=1.2-3)
+Filename: ./debs/com.nito.breezy_2.6-78_appletvos-arm64.deb
+Size: 186560
+MD5sum: 36ad0cc19492afa5afa7b441c0f5eb53
+SHA1: ac07d542ce213a0f009ec5663c3c381c3c76578b
+SHA256: 7e4899e414c233821df7ecb5574cd6e22557339bcb9ae9b14f8b255d217035a9
+Section: Tweak
+Description: Enable AirDrop server in your tvOS Applications
+Author: Kevin Bradley & Ethan Arbuckle
+Depiction: https://nitosoft.com/ATV4/breezy/breezy.json
+Name: Breezy
+
+Package: com.nito.bulletinh4x
+Version: 1.2-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/com.nito.bulletinh4x_1.2-1_appletvos-arm64.deb
+Size: 5656
+MD5sum: 39f9f202bf556d0159c2b42263b62339
+SHA1: 46adc08d619eca93bf26ac07f694f2877583fcc0
+SHA256: dd50dae0de57e622e77a3702305344d88e41074d6b236bcd7bbe99f447e4e308
+Section: Tweaks
+Description: Display Bulletins via NSDistributedNotificationManager powered payloads. Fixed on tvOS 14
+Author: Kevin Bradley
+Name: bulletinh4x
+
+Package: com.nito.nitotv4
+Version: 3.3.1-2
+Architecture: appletvos-arm64
+Essential: yes
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), com.morpheus.binpack (>= 1.0-7), apt7 (>= 0.7.25.3-2), ca-certificates, uikittools (>= 2.0.1-8), com.nito.uicache (>= 0.0.3-26), com.nito.bulletinh4x (>= 1.0-4), com.nito.breezy (>= 2.1-32)
+Conflicts: com.nito.updateBeGone, com.nito.repo-key
+Replaces: com.nito.updateBeGone, com.nito.repo-key
+Provides: com.nito.updateBeGone , com.nito.repo-key
+Filename: ./debs/com.nito.nitotv4_3.3.1-2_appletvos-arm64.deb
+Size: 3757636
+MD5sum: 6c917e2eb688b43e5481eebca6abc747
+SHA1: 22bbfa13349b6541eb082b5ee1a2a04da98a7adf
+SHA256: 911999b63ca580af06a2d3d4ab3711a4a40ff2563ce706bfc022275ce5875820
+Section: Utilities
+Priority: required
+Description: AppleTV 4 Package installer
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/nitotv/nitotv.json
+Icon: https://nitosoft.com/ATV4/nitotv/ntv_icon.png
+Name: nitoTV
+
+Package: com.nito.nitotv4
+Version: 3.4-65
+Architecture: appletvos-arm64
+Essential: yes
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), com.morpheus.binpack (>= 1.0-7), apt7 (>= 0.7.25.3-2), ca-certificates, uikittools (>= 2.0.1-8), com.nito.uicache (>= 0.0.3-26), com.nito.bulletinh4x (>= 1.0-4), com.nito.breezy (>= 2.1-32)
+Conflicts: com.nito.updateBeGone, com.nito.repo-key
+Replaces: com.nito.updateBeGone, com.nito.repo-key
+Provides: com.nito.updateBeGone , com.nito.repo-key
+Filename: ./debs/com.nito.nitotv4_3.4-65_appletvos-arm64.deb
+Size: 3806650
+MD5sum: f717f98902b25d4045ae579eca55c1a4
+SHA1: 038f2a18705f7151c7ff1e84c23241fe34f12537
+SHA256: d30edd21cb1384d299cc26d5f4956c65bea482308c2668ba1b4b1d2d71752c76
+Section: Utilities
+Priority: required
+Description: AppleTV 4 Package installer
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/nitotv/nitotv.json
+Icon: https://nitosoft.com/ATV4/nitotv/ntv_icon.png
+Name: nitoTV
+
+Package: com.nito.uicache
+Version: 0.0.4-4
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 412
+Pre-Depends: cy+model.appletv
+Filename: ./debs/com.nito.uicache_0.0.4-4_appletvos-arm64.deb
+Size: 46028
+MD5sum: 4a0f378069626e6904262eb90356587a
+SHA1: 47bb8288e6f8d82ad263c01f34aeb555f10dd9f7
+SHA256: 83c37a616038c788756e8d1ef6ff1f7cb6a368235f00c79dfdf5219e1d273802
+Section: Library
+Description: Respring and reload any applications added to /Applications
+Author: Kevin Bradley
+Name: uicache
+
+Package: com.saurik.substrate.safemode
+Version: 0.9.6005-2
+Architecture: appletvos-arm64
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.3367+38), uikittools (>=2.0.1-11)
+Conflicts: safe-mode-fixer-ios7
+Replaces: safe-mode-fixer-ios7
+Filename: ./debs/com.saurik.substrate.safemode_0.9.6005-2_appletvos-arm64.deb
+Size: 15340
+MD5sum: a168ce96884a68966208a75913d57b0f
+SHA1: de2e2cfbcae07eb9a87cedfa45668d92c77a1f17
+SHA256: 13ad768ad41328a45836275ee073346da74b7e4664a6201839ff425d42aca76a
+Section: Tweaks
+Priority: optional
+Description: safe mode safety extension (safe)
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/com.saurik.substrate.safemode/
+Name: Substrate Safe Mode
+
+Package: firmware-sbin
+Version: 1-2
+Architecture: appletvos-arm64
+Essential: yes
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 80
+Pre-Depends: dpkg (>= 1.14.25-8), firmware (>= 10), dpkg (>= 1.18.25)
+Depends: system-cmds, coreutils, bash
+Filename: ./debs/firmware-sbin_1-2_appletvos-arm64.deb
+Size: 4014
+MD5sum: 887372bd9b3b3edc28581c6608ebbdf8
+SHA1: 0ef1ed1bf7db1a336695c1b27a9fbac9a911e7ea
+SHA256: 333951d5243cd0b699b98777033ee58cbb5d74b8b80b65f6599e6e9043eb7672
+Section: System
+Priority: required
+Description: represents Elucubratus / iOS conflicts
+
+Package: launchctl
+Version: 25
+Architecture: appletvos-arm64
+Essential: yes
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Replaces: jailbreak-resources (<< 1.0~b27)
+Filename: ./debs/launchctl_25_appletvos-arm64.deb
+Size: 40514
+MD5sum: c402cf0965e010b2a50e7566bd1fe67b
+SHA1: 29b6014cbb8419a3acd2c2919ce0233894c66cb4
+SHA256: 7fef3a5d36b49e137a6de431b668d61a3cabe76e46ecb100228ec977c76dba93
+Section: System
+Priority: required
+Description: Tells launchd what to do
+Name: Launch Daemon Controller
+
+Package: ldid
+Version: 2:2.1.2.7+g5420cb5q-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 464
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libplist3, libssl1.1.1, dpkg (>= 1.18.25-9)
+Filename: ./debs/ldid_2%3a2.1.2.7+g5420cb5q-1_appletvos-arm64.deb
+Size: 52186
+MD5sum: 9e92c1e4b0555bd0432f811b67f2fd22
+SHA1: 441eeb3cc8f0f2a15806a5e9397ccd1d39a0cc08
+SHA256: b249e96818afc17461ca45da483f00cc6db59dff411debebca37957b64fe6f97
+Section: Development
+Priority: optional
+Description: pseudo-codesign Mach-O files
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Name: Link Identity Editor
+
+Package: ldid
+Version: 2:2.1.4-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 488
+Pre-Depends: dpkg (>= 1.14.25-8), libplist3
+Depends: libplist3, libssl1.1.1, dpkg (>= 1.18.25-9)
+Filename: ./debs/ldid_2%3a2.1.4-1_appletvos-arm64.deb
+Size: 57218
+MD5sum: 378d0008022c562c235514cec80ea3a6
+SHA1: 8070acebdd2087b85280b05fd26ecfe2474fe468
+SHA256: 8fe6ebe015d5596a4426f62b0b1da1844e6c54e84cef34c24cb5636dc4e962c6
+Section: Development
+Priority: optional
+Description: pseudo-codesign Mach-O files
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Name: Link Identity Editor
+
+Package: libplist
+Version: 2.2.1-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 8
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libplist-dev, libplist3, libplist++-dev, libplist++3, libplist-utils
+Filename: ./debs/libplist_2.2.1-1_appletvos-arm64.deb
+Size: 650
+MD5sum: d7789d8a99760a464a28de5cd9bdb2eb
+SHA1: 3c85fdb9a2f3fc1708dc8c40ad284dc04d9fdde5
+SHA256: 617052ecb3987f38f84d14618c95db5a405320773ea1bb8b10f04bc14e774232
+Section: Networking
+Priority: standard
+Description: Library for handling Apple binary and XML property lists (metapackage)
+
+Package: libplist++-dev
+Version: 2.2.1-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 128
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libplist++3
+Breaks: libplist (<<2.2.0)
+Replaces: libplist (<<2.2.0)
+Filename: ./debs/libplist++-dev_2.2.1-1_appletvos-arm64.deb
+Size: 3346
+MD5sum: ee849e9f2f6ecbb81fd66c47c359fcce
+SHA1: e46c907794288188c76b89947c5bbff9c437d367
+SHA256: d52b766cf4e81e48f7a2b784700af6644d10cca4d4f02e80c906d106b3172878
+Section: Networking
+Priority: standard
+Description: C++ library for handling Apple binary and XML property lists - dev files
+ libplist is a library for reading and writing the Apple binary and XML
+ property lists format. It's part of the libimobiledevice stack,
+ providing access to iDevices (iPod, iPhone, iPad ...).
+ .
+ This package contains the development files of the liplist++ library.
+
+Package: libplist++3
+Version: 2.2.1-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 232
+Pre-Depends: dpkg (>= 1.14.25-8)
+Breaks: libplist (<<2.2.0)
+Replaces: libplist (<<2.2.0)
+Filename: ./debs/libplist++3_2.2.1-1_appletvos-arm64.deb
+Size: 17028
+MD5sum: 124415839f3fcb2b26a4f5b8318fea16
+SHA1: 806f30a037bfb17c5ef8c49190455b885dea8e83
+SHA256: 89bf6ca1b2851675877598c5b8a3ad43e193ef1a9777392e4cdbad3fa2e19153
+Section: Networking
+Priority: standard
+Description: C++ Library for handling Apple binary and XML property lists
+ libplist is a library for reading and writing the Apple binary and XML
+ property lists format. It's part of the libimobiledevice stack,
+ providing access to iDevices (iPod, iPhone, iPad ...).
+ .
+ This library is the C++ implementation of the libplist API.
+
+Package: libplist-dev
+Version: 2.2.1-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 96
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libplist3
+Breaks: libplist (<<2.2.0)
+Replaces: libplist (<<2.2.0)
+Filename: ./debs/libplist-dev_2.2.1-1_appletvos-arm64.deb
+Size: 6474
+MD5sum: 58832cab98a99c2f51b329a51ac22c9b
+SHA1: f7609def0dee73948efd64f179c28b45351ab33f
+SHA256: 23a823113ecd978470b84358bb0e36aa92dac49e89c402a9f3f4103b21fc3b11
+Section: Networking
+Priority: standard
+Description: Library for handling Apple binary and XML property lists - dev files
+ libplist is a library for reading and writing the Apple binary and XML
+ property lists format. It's part of the libimobiledevice stack,
+ providing access to iDevices (iPod, iPhone, iPad ...).
+ .
+ This package contains the development files of the liplist library.
+
+Package: libplist-utils
+Version: 2.2.1-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 112
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libplist3
+Breaks: libplist (<<2.2.0)
+Replaces: libplist (<<2.2.0)
+Filename: ./debs/libplist-utils_2.2.1-1_appletvos-arm64.deb
+Size: 4116
+MD5sum: b8daeb75e6e07f9856c33bee68db88f0
+SHA1: 9db128b15d259bdf5997e80414b4edd908688056
+SHA256: 0a25e364568cbeb4e93c0ddcdd1f1b12edf2a6890f9814b54f8711f51ec6d014
+Section: Networking
+Priority: standard
+Description: Apple property list converter
+ This package containt tools to convert Apple property list files from
+ binary to XML and vice-versa. It's part of the libimobiledevice stack,
+ providing access to iDevices (iPod, iPhone, iPad ...).
+
+Package: libplist3
+Version: 2.2.1-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 232
+Pre-Depends: dpkg (>= 1.14.25-8)
+Breaks: libplist (<<2.2.0)
+Replaces: libplist (<<2.2.0)
+Filename: ./debs/libplist3_2.2.1-1_appletvos-arm64.deb
+Size: 24324
+MD5sum: d3a28ee0732add8243aa1e89e7379034
+SHA1: 53dae2566ed5c59642096e29939e752c45b47579
+SHA256: d6d15de018ff279090a677caec57c3a8fbe0b6076f0851d43bb3ceb951afdfe5
+Section: Networking
+Priority: standard
+Description: Library for handling Apple binary and XML property lists
+ libplist is a library for reading and writing the Apple binary and XML
+ property lists format. It's part of the libimobiledevice stack,
+ providing access to iDevices (iPod, iPhone, iPad ...).
+ .
+ This library is the C implementation of the libplist API.
+
+Package: libssl1.1.1
+Version: 1.1.1i-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 6688
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ca-certificates
+Filename: ./debs/libssl1.1.1_1.1.1i-1_appletvos-arm64.deb
+Size: 1181408
+MD5sum: 896b25467b8a51fef458692091d22b0a
+SHA1: a78bb825df3d3a034e4acf7d9b2975b2b74dad85
+SHA256: 5e5434edfeb0042802868ed85227758be79425f71f9163d23710795c1f9f5210
+Section: Security
+Priority: standard
+Description: OpenSSL Libraries for version 1.1.1
+Name: OpenSSL 1.1.1 Libraries
+
+Package: openssh
+Version: 8.3-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 10680
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1
+Filename: ./debs/openssh_8.3-1_appletvos-arm64.deb
+Size: 706666
+MD5sum: f32313c1bb656f033a143693ffccf8b3
+SHA1: cf9f416131e98f5fff0d5fc8545b55cc7b37fc59
+SHA256: 0254904eedbc4adf53690c3b84c61e2e539f4e76fdfad78a810c5dc162008af1
+Section: Networking
+Priority: important
+Description: secure remote access between machines
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH
+
+Package: openssh
+Version: 8.4-2
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 8
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, openssh-server, openssh-client, openssh-global-listener
+Filename: ./debs/openssh_8.4-2_appletvos-arm64.deb
+Size: 1022
+MD5sum: 5fbf41e102a09afeb2f7dddbb650c265
+SHA1: 57fbc5c9425c9e6a94f8dcd13d57c49fa9bf33c2
+SHA256: 4aa569480b9443fd15df2dac452d8297e0cd483016fe89f78b21032a192b9d19
+Section: Networking
+Priority: important
+Description: secure shell (SSH) server, for secure access from remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides the sshd server.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH
+
+Package: openssh-client
+Version: 8.4-2
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 8960
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1
+Breaks: openssh (<= 8.4-1)
+Filename: ./debs/openssh-client_8.4-2_appletvos-arm64.deb
+Size: 570264
+MD5sum: c0991a05bdf5caac0cd4c021f47b07fa
+SHA1: c51a9d26aa3123896b81805b700b12d571f738f4
+SHA256: edb84e459c0f628119f9cd9cf6123baca1f675635e09438c9ace0e708440f164
+Section: Networking
+Priority: important
+Description: secure shell (SSH) client, for secure access to remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides the client binaries.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH Clients
+
+Package: openssh-global-listener
+Version: 8.4-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 16
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, openssh-server (>= 8.4)
+Breaks: openssh (<= 8.4-1)
+Filename: ./debs/openssh-global-listener_8.4-1_appletvos-arm64.deb
+Size: 1562
+MD5sum: 699a9c311a8148db9198b2757d393d12
+SHA1: 71c81962ec075bb6d739a1677711a1f7e38e078a
+SHA256: 11d1d5e51a974559228c3f6df818bbc3ff65218b14a4b9e8ec6184ecb199329d
+Section: Networking
+Priority: important
+Description: secure shell (SSH) server, for secure access from remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides a global listener on port 22.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH Global Listener
+
+Package: openssh-global-listener
+Version: 8.4-2
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 32
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, openssh-server (>= 8.4)
+Breaks: openssh (<= 8.4-1)
+Filename: ./debs/openssh-global-listener_8.4-2_appletvos-arm64.deb
+Size: 1762
+MD5sum: a12a60837402fe7657281e4fadccfa80
+SHA1: 88f1b12a35d011e4cca54e2c11f77ce9d22cb205
+SHA256: 5788d01828039265bfd621c5c64b145f1711bea014c0734881ddef8a67e4f123
+Section: Networking
+Priority: important
+Description: secure shell (SSH) server, for secure access from remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides a global listener on port 22.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH Global Listener
+
+Package: openssh-server
+Version: 8.4-2
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1880
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, openssh-client (>= 8.4)
+Breaks: openssh (<= 8.4-1)
+Filename: ./debs/openssh-server_8.4-2_appletvos-arm64.deb
+Size: 290142
+MD5sum: 6c76c5f8de06b959e316c0b00efaae5f
+SHA1: 7556a891d4e6b44c255c24b504dca783ca0255ec
+SHA256: 3d6cf97827c21a7afb84a534a2695886189a19433299f68121b49fe0d163b23f
+Section: Networking
+Priority: important
+Description: secure shell (SSH) server, for secure access from remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides the sshd server.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH Server Binaries
+
+Package: preferenceloader
+Version: 1.1-3
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 76
+Depends: mobilesubstrate (>=0.0.2-1)
+Filename: ./debs/preferenceloader_1.1-3_appletvos-arm64.deb
+Size: 10200
+MD5sum: fbfda520f930862554f8afb8ed48aef7
+SHA1: 7e2f4580476efdba203cecd65e48f668d0d12c31
+SHA256: 926af4dfea284d3e9ca69965aad00e165d80626aa8d17437d47f23f70e0c938b
+Section: System
+Description: load preferences in style, based on Dustin Howett's iOS version.
+Author: Kevin Bradley
+Name: preferenceloader
+
+Package: preferenceloader
+Version: 1.5-15
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/preferenceloader_1.5-15_appletvos-arm64.deb
+Size: 25662
+MD5sum: 6dc26a5d88b4deb660082cee1f6bf3cc
+SHA1: e3c52bf949d06f98b20dcd7012d486134d845ecf
+SHA256: d4b76f11db83580ccb859b2b7cec2176e98dad0ab66ffc4daa06c4ef2283ae4d
+Section: System
+Description: load preferences in style, based on Dustin Howett's iOS version, now properly split into a lib & tweak
+Author: Kevin Bradley & Sam Bingner
+Name: preferenceloader
+
+Package: system-cmds
+Version: 790.30.1-2
+Architecture: appletvos-arm64
+Essential: yes
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 2808
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware-sbin
+Provides: login, passwd, reboot
+Filename: ./debs/system-cmds_790.30.1-2_appletvos-arm64.deb
+Size: 101606
+MD5sum: 5742892c6857244f8c91c5ee4ba12c74
+SHA1: f18aa8e17b9fdadf72740664271a8cf5587f7301
+SHA256: 3a54bbb5659cd12fc31dd72ae0158d7c8807cbbed48f7b50ab38145c1de5c083
+Section: Administration
+Priority: required
+Description: iostat, login, passwd, sync, sysctl
+
+Package: tar
+Version: 1.33-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1128
+Depends: bzip2, gzip, lzma, xz
+Conflicts: dpkg (=1.18.24)
+Filename: ./debs/tar_1.33-1_appletvos-arm64.deb
+Size: 254026
+MD5sum: 20d95c63d8d6165bc947e449f71f68f1
+SHA1: 24a4b78471c2fe957464f1d919210c2b54c10324
+SHA256: a9e42e1cf04b330f0fff587e0575ec22e3f74809c595da7416703799258ab02d
+Section: Archiving
+Priority: required
+Homepage: http://www.gnu.org/software/tar/
+Description: tool for making tape archives
+Name: Tape Archive
+
+Package: uikittools
+Version: 2.0.1-11
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <kevin@nito.tv>
+Filename: ./debs/uikittools_2.0.1-11_appletvos-arm64.deb
+Size: 20868
+MD5sum: 919bc0fc18424e25cbf39cd4be326e0a
+SHA1: 77eff37f7085e7b983cc90b2c3f5705b87672882
+SHA256: ac47e97010cb4afa13c1c375f9d7aff4371ef93d62ceb667f42ba2fa205e592e
+Section: Utilities
+Description: Command line access for UIKit/LaunchServices/CoreServices
+Tag: purpose::console, role::hacker
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: UIKit Tools
+
