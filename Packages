@@ -1,3 +1,19 @@
+Package: com.XsF1re.mcpatchtv
+Version: 0.0.3-2
+Architecture: appletvos-arm64
+Maintainer: XsF1re
+Installed-Size: 68
+Depends: mobilesubstrate
+Filename: ./debs/mcpatchtv.deb
+Size: 3056
+MD5sum: 6cf6d42cad65712c40d7a23aa0f60b87
+SHA1: ff03aba47430b260c5d1e7fbe1c6dd7faa3c1ba6
+SHA256: 154779067d85cb96ea724dca58244ce825caea3f4fabb0971b468e4779bb35c1
+Section: Tweaks
+Description: Allows installing other device beta profiles for the Apple TV. Compatible with tvOS 13.x
+Author: XsF1re
+Name: MCPatchTV
+
 Package: com.bingner.snappy
 Version: 1.3.0
 Architecture: appletvos-arm64
@@ -350,6 +366,38 @@ Description: safe mode safety extension (safe)
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.saurik.substrate.safemode/
 Name: Substrate Safe Mode
+
+Package: com.zenzeq.noreset
+Version: 1.1
+Architecture: appletvos-arm64
+Maintainer: Unknown
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/noreset.1.deb
+Size: 4144
+MD5sum: e70800bc66704e717e3563dd899b321c
+SHA1: 20f86b0c9c6b65258244ff3f919da4e033900f10
+SHA256: 43517a4052317ca30b585a8daa58ea69cb34a4efab9bab4d166b0dbd400924d9
+Section: Tweaks
+Description: A tweak to disable "Reset all content and settings" for Apple TV 4/4K. Compatible with tvOS 10.2.2 - 14.x
+Author: Unknown
+Name: No Reset
+
+Package: com.zenzeq.rebootoops
+Version: 0.0.6-18
+Architecture: appletvos-arm64
+Maintainer: Unknown
+Installed-Size: 80
+Depends: mobilesubstrate
+Filename: ./debs/rebootoops.deb
+Size: 5856
+MD5sum: 26b6ca6e2add90633029e140f9ed154a
+SHA1: de44c757a12aa4bdbcc13c6d8fe815575e7b4176
+SHA256: 10f1d55d8f585243a883ae7cc392a855406b77195a7da5a5f19abf722c7a9037
+Section: Tweaks
+Description: To reboot or not to reboot, that is the question.
+Author: Unknown
+Name: Reboot, Oops!
 
 Package: firmware-sbin
 Version: 1-2
