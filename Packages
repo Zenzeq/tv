@@ -368,15 +368,13 @@ Installed-Size: 344
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.1-27)
 Filename: ./debs/com.nito.airphoto_1.0-22_appletvos-arm64.deb
-Size: 105432
-MD5sum: 96db32e61506cb92fcebd4930407b1d9
-SHA1: 1bca5e8dfad5f9cfa7135acdc02ab30a4446ab04
-SHA256: 9a99323b4b761660b1cebb88507374808fbe2e5aa5da27c464ab9ced07a2f2fb
+Size: 105400
+MD5sum: cdd07c4ad5aba4c6ec89dcd7d71ca993
+SHA1: 3d74334720ec24c867d90f2970c71bd5be3bb5c6
+SHA256: 2ef9e2612a9498180b33cb49a81520142cab6ddfbc43f7e14fc0bdcbabede60f
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/airphoto/airphoto.json
-Icon: https://nitosoft.com/ATV4/airphoto/ap_icon.png
 Name: AirPhoto
 
 Package: com.nito.airphoto
@@ -387,15 +385,13 @@ Installed-Size: 1660
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.2-1)
 Filename: ./debs/com.nito.airphoto_1.1-1_appletvos-arm64.deb
-Size: 885536
-MD5sum: d271844f6d18fa464e0dc15f8dcd478e
-SHA1: 2b0afd74d5e912aee186e0812697c621a412b7c4
-SHA256: f89d299d2be55ddc26db1f0495f68ae4f7cb77b54ef864e00ae406c3fc90fdde
+Size: 885200
+MD5sum: 8e2f633af4bc10166a30f060f08e10ee
+SHA1: 52a3b7e3debbcbc532105df5c29a0658ae694b5d
+SHA256: b625ba5d3dd1183f271935ec8bef058e5c6da3fb8c571b22c0e1bea72e27c8bd
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/airphoto/airphoto.json
-Icon: https://nitosoft.com/ATV4/airphoto/ap_icon.png
 Name: AirPhoto
 
 Package: com.nito.airphoto
@@ -406,15 +402,13 @@ Installed-Size: 1660
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.2-1)
 Filename: ./debs/com.nito.airphoto_1.2-27_appletvos-arm64.deb
-Size: 893300
-MD5sum: 0af06d1ab7c0098290475e4aac696338
-SHA1: 881105e9812c8a1654580b369795b2689e9fe280
-SHA256: 4273eb639e72728f603973f7c809dbed022a6db3719c7548f4b7758bffc23086
+Size: 893264
+MD5sum: cfe91ca58f957b1ee9bbfeb0c0c9ef5a
+SHA1: 6a3a11b20a745850f8aa49455cf31905a3a84b18
+SHA256: fc9966c6e7e66fcdbc5d38bd689da534b1eaf3fe2199121bdce7906bb6bb8b13
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/airphoto/airphoto.json
-Icon: https://nitosoft.com/ATV4/airphoto/ap_icon.png
 Name: AirPhoto
 
 Package: com.nito.airphoto
@@ -425,15 +419,13 @@ Installed-Size: 1652
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.2-1)
 Filename: ./debs/com.nito.airphoto_1.3-18_appletvos-arm64.deb
-Size: 884544
-MD5sum: 9b14c38053d7d7c21e4a8fd60d9b3f71
-SHA1: 469a0518e6133d155f25e8e1adad1925e3169f88
-SHA256: 4473725a2ce983a6a7243f53d88d37437839481cdea4f0ef6ca820910b909551
+Size: 884516
+MD5sum: ef095ce4f8a022015c14134cf29b5dbd
+SHA1: 98ab60184d26ba97ae34dc3fd38c291c47164bba
+SHA256: 264e84f2c1dd05c048dc2e0fd7e06a934a682efac497753661136f74eff883e4
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/airphoto/airphoto.json
-Icon: https://nitosoft.com/ATV4/airphoto/ap_icon.png
 Name: AirPhoto
 
 Package: com.nito.airphoto
@@ -444,15 +436,13 @@ Installed-Size: 1648
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.2-1)
 Filename: ./debs/com.nito.airphoto_1.3-19_appletvos-arm64.deb
-Size: 886864
-MD5sum: 5df0fedde126352140cf382a1cde1f13
-SHA1: e8827893a5f0ee099710685e268021f5e197abaf
-SHA256: ce70f51bad8ffd839bd6fdaf508b8bb3b6d213d8e5205ab9c0bb94eec884b926
+Size: 886828
+MD5sum: df1d4cb68845f6b7991a67d009da2839
+SHA1: a323fe8f1a1fb09fa14c891a76103352a654eb80
+SHA256: 9ea8ec307d8131c0ad47f0ad7699a4b6005dd84260a6ab5b45b7f44831e1f703
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/airphoto/airphoto.json
-Icon: https://nitosoft.com/ATV4/airphoto/ap_icon.png
 Name: AirPhoto
 
 Package: com.nito.bluetooth-control
@@ -773,16 +763,14 @@ Conflicts: com.nito.updateBeGone, com.nito.repo-key
 Replaces: com.nito.updateBeGone, com.nito.repo-key
 Provides: com.nito.updateBeGone , com.nito.repo-key
 Filename: ./debs/com.nito.nitotv4_3.3.1-2_appletvos-arm64.deb
-Size: 3761160
-MD5sum: 63fd8bf8ddb4610def9e62e62db2190d
-SHA1: 37ff1b5e22edb66289e4528727e2a9185f503658
-SHA256: 8653198f05f0e2995a7ad01f2772305dc3523cfed8b961720dd851eeaf472534
+Size: 3761132
+MD5sum: 2db6aa2907786a0d91eb1f9cb374fab2
+SHA1: fbe7b389832b30971c664854ee155e9bd5c450ce
+SHA256: c80b9eea8880c436dee4f92296d42b431160b556daf4f3a8241c0a8e0916ef8c
 Section: Utilities
 Priority: required
 Description: AppleTV 4 Package installer
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/nitotv/nitotv.json
-Icon: https://nitosoft.com/ATV4/nitotv/ntv_icon.png
 Name: nitoTV
 
 Package: com.nito.nitotv4
@@ -796,16 +784,14 @@ Conflicts: com.nito.updateBeGone, com.nito.repo-key
 Replaces: com.nito.updateBeGone, com.nito.repo-key
 Provides: com.nito.updateBeGone , com.nito.repo-key
 Filename: ./debs/com.nito.nitotv4_3.4-65_appletvos-arm64.deb
-Size: 3807576
-MD5sum: f8b449579ba1735f625d1e89219f88ab
-SHA1: d6c66e621b81caad15810c92f3f46bc9edba597e
-SHA256: 45d467fb68d47d17eb9fc64b34c598c491c60ffdab25257c9943daac8c345ce3
+Size: 3813032
+MD5sum: f3e47c4065f8072286bd4f57134ab8db
+SHA1: 3b5f529cca34ccbbbd6d5db762c53020e78cc0cc
+SHA256: e06aa732b641538b1337740cfb1994333fa61d5c5d0394ecbb16b1aff11b49d2
 Section: Utilities
 Priority: required
 Description: AppleTV 4 Package installer
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/nitotv/nitotv.json
-Icon: https://nitosoft.com/ATV4/nitotv/ntv_icon.png
 Name: nitoTV
 
 Package: com.nito.processes-module
