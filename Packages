@@ -1554,11 +1554,12 @@ Maintainer: Zenzeq
 Installed-Size: 76
 Depends: mobilesubstrate
 Filename: ./debs/com.zenzeq.nitoTVfix_1.0-3_appletvos-arm64.deb
-Size: 4440
-MD5sum: a532e6fbcacd73872e87805d576bf46e
-SHA1: 7c0ce0307b8942cb5f1ef56bce9efef68295b20f
-SHA256: 7bbf5958df608d6a0c91e0ea63393eda42878ac399668b0b039aa1f1a7dbc329
+Size: 3840
+MD5sum: 08d5142f001fff7ddcbe15a7c270f96b
+SHA1: 6c82ce1a60fd7403f7fc9d5be68d504de0f33fd4
+SHA256: 2dd963f2699d2ddccbf3f966d1bcbcc553cdaa477ff580941519e34859811d76
 Section: Tweaks
+Priority: important
 Description: An awesome tvOS tweak that *should* help with preventing freezing and using nitoTV online
 Author: Zenzeq
 Name: nitoTVfix
