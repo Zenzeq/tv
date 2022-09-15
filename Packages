@@ -265,10 +265,10 @@ Maintainer: Matt Clarke <matt@incendo.ws>
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.matchstic.reprovision_0.1_appletvos-arm64.deb
-Size: 3103740
-MD5sum: 4ed520545b57c362ebbea5394359b86a
-SHA1: fdc7ccfa5d9392c2d84be06dc1ff526d3ba81042
-SHA256: 83e739f3c181c1449bf37cb91406e0cf2d257b522315a06cd6948e36623ac980
+Size: 5262748
+MD5sum: 16c8eb866587b99738af63b056f448b0
+SHA1: 776874f0b9083a49897e47f183e9e6709506ed91
+SHA256: 84680b5b73391029608995c1c473c9e23bfc18ffe28badec0c7ae4a4810af74d
 Section: System
 Priority: optional
 Homepage: https://github.com/Matchstic/ReProvision
@@ -284,16 +284,15 @@ Maintainer: Matt Clarke <matt@incendo.ws>
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.bulletinh4x (>=1.0-4), com.nito.breezy (>=2.5-1)
 Filename: ./debs/com.matchstic.reprovision_0.5.1~release_appletvos-arm64.deb
-Size: 1685972
-MD5sum: e599d1a731d053ec496b9a054fb47afd
-SHA1: 41282565e99d1e61ebba51daf0062cfdcda8f7c6
-SHA256: 9ca6c975673447a5a7f8edd0ae75693eb0bf618f07680ded1131e4f52c2334dc
+Size: 1227404
+MD5sum: c02baa222ff7c7fa089ea263f384d678
+SHA1: b46681676ecb0d0759ae37a8b7736c336cc620e8
+SHA256: 39d8f48e4d039663284dcd3c9549603a62d91bb7aaa4c800582e79212ccb81cc
 Section: System
 Priority: optional
 Homepage: https://github.com/Matchstic/ReProvision
 Description: Re-sign applications on your Apple TV.
 Author: Matt Clarke <matt@incendo.ws>
-Depiction: https://nitosoft.com/ATV4/repro/repro.json
 Dev: Matt Clarke <matt@incendo.ws>
 Name: ReProvision
 
@@ -369,10 +368,10 @@ Installed-Size: 344
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.1-27)
 Filename: ./debs/com.nito.airphoto_1.0-22_appletvos-arm64.deb
-Size: 105338
-MD5sum: 380b969c160cacf0fa9cc0ce4f76d66e
-SHA1: e721129d2b40c7bfac590c7057c9958b6b34c7d1
-SHA256: 943153e4ab8448656b3c992b6e856d4640aa22f3103fa134cd3972c3b397e871
+Size: 105432
+MD5sum: 96db32e61506cb92fcebd4930407b1d9
+SHA1: 1bca5e8dfad5f9cfa7135acdc02ab30a4446ab04
+SHA256: 9a99323b4b761660b1cebb88507374808fbe2e5aa5da27c464ab9ced07a2f2fb
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
@@ -388,10 +387,10 @@ Installed-Size: 1660
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.2-1)
 Filename: ./debs/com.nito.airphoto_1.1-1_appletvos-arm64.deb
-Size: 885324
-MD5sum: 5b469427ec033680014e208e15bd8341
-SHA1: 64536803e6f5cbc18e0830b814e4b7e48350c9fb
-SHA256: e67fe0cf6f980a44b668669efca2b1582aa498552f888edfc4b0d1901ce10911
+Size: 885536
+MD5sum: d271844f6d18fa464e0dc15f8dcd478e
+SHA1: 2b0afd74d5e912aee186e0812697c621a412b7c4
+SHA256: f89d299d2be55ddc26db1f0495f68ae4f7cb77b54ef864e00ae406c3fc90fdde
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
@@ -407,10 +406,10 @@ Installed-Size: 1660
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.2-1)
 Filename: ./debs/com.nito.airphoto_1.2-27_appletvos-arm64.deb
-Size: 893294
-MD5sum: b0847d50b423ca49f9aff4e4e3dfdedc
-SHA1: badbc8bb499776b9d0be72e91319de3700f040be
-SHA256: c8fc75ec0fdde29d902ee03b17962d176929e85bc6649c4b7d3aa7aa41663ddf
+Size: 893300
+MD5sum: 0af06d1ab7c0098290475e4aac696338
+SHA1: 881105e9812c8a1654580b369795b2689e9fe280
+SHA256: 4273eb639e72728f603973f7c809dbed022a6db3719c7548f4b7758bffc23086
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
@@ -426,10 +425,10 @@ Installed-Size: 1652
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.2-1)
 Filename: ./debs/com.nito.airphoto_1.3-18_appletvos-arm64.deb
-Size: 884332
-MD5sum: 35cd1f32bec4c80682ea661fcc9ccc6e
-SHA1: 7c30c50f8c7d7686da76fe2319dde406954d4f1c
-SHA256: fe3ccaeef475f62200925932cac326f2585359c8885c50195febadc2c28586cb
+Size: 884544
+MD5sum: 9b14c38053d7d7c21e4a8fd60d9b3f71
+SHA1: 469a0518e6133d155f25e8e1adad1925e3169f88
+SHA256: 4473725a2ce983a6a7243f53d88d37437839481cdea4f0ef6ca820910b909551
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
@@ -445,10 +444,10 @@ Installed-Size: 1648
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.2-1)
 Filename: ./debs/com.nito.airphoto_1.3-19_appletvos-arm64.deb
-Size: 886940
-MD5sum: fba406e77943c4d47a9b846056b56fb4
-SHA1: 231c161dd49c684fd1dc011e415ab4ce46f04cce
-SHA256: a26b9e4ed1605ee7d6f4aaf63c6ae31a90430c88dc1aa222ce7407ff2222cf45
+Size: 886864
+MD5sum: 5df0fedde126352140cf382a1cde1f13
+SHA1: e8827893a5f0ee099710685e268021f5e197abaf
+SHA256: ce70f51bad8ffd839bd6fdaf508b8bb3b6d213d8e5205ab9c0bb94eec884b926
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
@@ -463,14 +462,13 @@ Maintainer: Kevin Bradley
 Installed-Size: 120
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0), com.nito.tvsettings-link
 Filename: ./debs/com.nito.bluetooth-control_1.0-3_appletvos-arm64.deb
-Size: 48694
-MD5sum: 4416c84592f4438cea6dbbd0b8df2fa1
-SHA1: 9a8bdbcf8563b47a7f9f556f02ed7e47d76eef2e
-SHA256: fefd3f5e2fd61a35eae984dd8593f57f481dbcb2cab4b21495c876986cf89ff7
+Size: 48676
+MD5sum: f128159a740c03f66cbc41f694535b67
+SHA1: d414644f640f2d5a127bf7391e522357db0f759e
+SHA256: 8aab1febb4a7c5a781e3f092ca53e99aa7cc2108fd50305e511da71716e0b9d0
 Section: Tweaks
 Description: Access Bluetooth pairing view through a control center widget!
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/btc/btc.json
 Name: Bluetooth Control
 
 Package: com.nito.bluetooth-control
@@ -480,15 +478,13 @@ Maintainer: Kevin Bradley
 Installed-Size: 120
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0), com.nito.tvsettings-link
 Filename: ./debs/com.nito.bluetooth-control_1.0-5_appletvos-arm64.deb
-Size: 48706
-MD5sum: ebad0156ae0f0135bb84d718d600cdd0
-SHA1: 79c874834da9b849067440b4a5e28660546cc20b
-SHA256: 2d12dbb54cb24997202170053ef372c7712555565322ae1e3054bd614280d2f4
+Size: 48668
+MD5sum: df320da3bb24993d1b0a043409dcd469
+SHA1: 9f511a36f1a985630601ed3412a142b02dc7718c
+SHA256: 2ce9d144260434d8988d7e51ec3194f14a9f9ed26bfb0f4cd828347aa09b935b
 Section: Tweaks
 Description: Access Bluetooth pairing view through a control center widget!
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/btcc/btcc.json
-Icon: https://nitosoft.com/ATV4/btcc/icon.png
 Name: Bluetooth Control
 
 Package: com.nito.bluetooth-control
@@ -498,15 +494,13 @@ Maintainer: Kevin Bradley
 Installed-Size: 120
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0), com.nito.tvsettings-link
 Filename: ./debs/com.nito.bluetooth-control_1.0-6_appletvos-arm64.deb
-Size: 48696
-MD5sum: 0ab702bb95410745d46eaa9c6467a4c9
-SHA1: 82f4ade6f8ccff154cabf3ef16129eb3b0c3d9ce
-SHA256: 6bd6d68096daf724235798359bf3a778a403d5a70cd737c9b1360b26aa471985
+Size: 48680
+MD5sum: 7c47b29b3bbb1426d2f4afd216e2f237
+SHA1: 14c05c7e7f6685eb4b4f884fa55947cdaba5e748
+SHA256: e2499da84169a07152cc7728e308616c8b5916beb371f3e08eecee5c62274e26
 Section: Tweaks
 Description: Access Bluetooth pairing view through a control center widget!
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/btcc/btcc.json
-Icon: https://nitosoft.com/ATV4/btcc/icon.png
 Name: Bluetooth Control
 
 Package: com.nito.bluetooth-control
@@ -516,15 +510,13 @@ Maintainer: Kevin Bradley
 Installed-Size: 76
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0), com.nito.tvsettings-link
 Filename: ./debs/com.nito.bluetooth-control_1.0-7_appletvos-arm64.deb
-Size: 7236
-MD5sum: 4bdeba1fa1d5042a22990cba72229c8a
-SHA1: 444454c3b2fa607ad325c497c60482af45f88899
-SHA256: da83b3bb03a46803be4b4cc9c1c8b3b3d43f208109301e6fb05584a21b56c3de
+Size: 7216
+MD5sum: 366f0a1333320f7519b08f611a670490
+SHA1: 43e1d06700ee023812036d754c57db882f6d0a9e
+SHA256: f615600842a35df663de9d58c274af1e28520f95364b3b637b7afb1e253acdc8
 Section: Tweaks
 Description: Access Bluetooth pairing view through a control center widget!
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/btcc/btcc.json
-Icon: https://nitosoft.com/ATV4/btcc/icon.png
 Name: Bluetooth Control
 
 Package: com.nito.breezy
@@ -535,14 +527,13 @@ Installed-Size: 604
 Pre-Depends: cy+model.appletv
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.nito.breezy_2.6-1_appletvos-arm64.deb
-Size: 65468
-MD5sum: 34f0a42669cc428914fbd5c8ea313b6d
-SHA1: 0cd528775ec7e632a1ceff75a90f3e6ec8046a67
-SHA256: 1b849c5ff39794943fcb412f908474bf0d324bfc3318ea35bf2e9775998c626c
+Size: 62888
+MD5sum: 8e780312998036b8772e3e0141b286dc
+SHA1: e2efbb60b9e2fd307f1aa2bb3d2087cc65049bbc
+SHA256: e7eda9258284a89be753f2ac733085700977a3a7107cfdfeab17340405ff6b3b
 Section: Tweak
 Description: Enable AirDrop server in your tvOS Applications
 Author: Kevin Bradley & Ethan Arbuckle
-Depiction: https://nitosoft.com/ATV4/breezy/breezy.json
 Name: Breezy
 
 Package: com.nito.breezy
@@ -553,14 +544,13 @@ Installed-Size: 504
 Pre-Depends: cy+model.appletv
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.nito.breezy_2.6-35_appletvos-arm64.deb
-Size: 65086
-MD5sum: 3d79c434b6e7869b425fdf8bdf88eb14
-SHA1: 580a0117cf64adb8ea65224af77283a387ecdc1c
-SHA256: 87bbe1db77c827c7c0676c417500c6f2d8caf437d9490655a1e72180e6463239
+Size: 62376
+MD5sum: 2883909bb442b49da0478736840b17ef
+SHA1: fbd3a754b212d8ccbe58013b2b9851c27d2f357e
+SHA256: 38606aba4181d8da76aa55bd894759228943a9d3e46ed7a2068a5b03cf02514e
 Section: Tweak
 Description: Enable AirDrop server in your tvOS Applications
 Author: Kevin Bradley & Ethan Arbuckle
-Depiction: https://nitosoft.com/ATV4/breezy/breezy.json
 Name: Breezy
 
 Package: com.nito.breezy
@@ -571,14 +561,13 @@ Installed-Size: 624
 Pre-Depends: cy+model.appletv
 Depends: mobilesubstrate, preferenceloader (>=1.2-3)
 Filename: ./debs/com.nito.breezy_2.6-78_appletvos-arm64.deb
-Size: 186560
-MD5sum: 36ad0cc19492afa5afa7b441c0f5eb53
-SHA1: ac07d542ce213a0f009ec5663c3c381c3c76578b
-SHA256: 7e4899e414c233821df7ecb5574cd6e22557339bcb9ae9b14f8b255d217035a9
+Size: 183324
+MD5sum: c103dd0a4f5a605f02c47164da7c33bc
+SHA1: 1a40b275a2a038b8a64417461285f09f5c203244
+SHA256: 1ba6f33f5fef0d16262fd46ff8beb60b6dc666c3e23eaba0953f0e695d8157a0
 Section: Tweak
 Description: Enable AirDrop server in your tvOS Applications
 Author: Kevin Bradley & Ethan Arbuckle
-Depiction: https://nitosoft.com/ATV4/breezy/breezy.json
 Name: Breezy
 
 Package: com.nito.bulletinh4x
@@ -604,15 +593,13 @@ Maintainer: Kevin Bradley
 Installed-Size: 100
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0), com.nito.tvsettings-link
 Filename: ./debs/com.nito.ccnetwork_1.0-2_appletvos-arm64.deb
-Size: 30480
-MD5sum: 0597cce24f98a3e2e0531d4d6bea7b36
-SHA1: 8305fe9bc9a9ad2de1f08ed897027e428819c5be
-SHA256: d27c22e8bc04279f1d8979661a81d9b48e750a43b3c86c590944a51c84fea3c2
+Size: 30416
+MD5sum: 38b395d135c65f5ec60da09009fb8d5b
+SHA1: 276923dfe5a2cbcd94f2025cf1f84018f49c5b39
+SHA256: ad870ad9c8ff5398828f0a8aaa957eb1d46689974dbc65b4c4ba54959d56d6f4
 Section: Tweaks
 Description: Quick access to network settings through control center
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/netcc/netcc.json
-Icon: https://nitosoft.com/ATV4/netcc/icon.png
 Name: CCNetwork
 
 Package: com.nito.ccnetwork
@@ -622,15 +609,13 @@ Maintainer: Kevin Bradley
 Installed-Size: 76
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0), com.nito.tvsettings-link
 Filename: ./debs/com.nito.ccnetwork_1.0-3_appletvos-arm64.deb
-Size: 7364
-MD5sum: 5d95f582143d8b7735809fe8f68e9e93
-SHA1: b064a94dfc96176750d781880dcd6d421b2a640f
-SHA256: 1573ef60385f959cffa9563edd456a378c13eb4d9ff3db496cd333a8e989489a
+Size: 7308
+MD5sum: d0b5c56ab91ec895967134cb012357b5
+SHA1: c71915e7ae19598ccf84a1c944f44ec89bf8defc
+SHA256: d6c03b7ebc3deff4546734a43da8cc81681f9c59b28336b532402ec39ea995e0
 Section: Tweaks
 Description: Quick access to network settings through control center
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/netcc/netcc.json
-Icon: https://nitosoft.com/ATV4/netcc/icon.png
 Name: CCNetwork
 
 Package: com.nito.flexinjected
@@ -640,10 +625,10 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.1.1a-1)
 Filename: ./debs/com.nito.flexinjected_1.0.0-2_appletvos-arm64.deb
-Size: 119946
-MD5sum: dbb1888bd04a7c1ab19a309b098aa004
-SHA1: 79175f09f7cdcd1b398fee6c2c3b71094e04dc17
-SHA256: c62ac6b273a97a2de3e3e669fabc7fa3a471eb23c0d78f26537c05cda3fa0ecf
+Size: 119836
+MD5sum: 215088f7f431843a12131525253baff3
+SHA1: ed18ac73e4141aac0e4ac1c5e582a48fc4307759
+SHA256: 5d59e8cfe8cabc4f50081500b0d182915b7d4dc4b66ddd88d540125b692920e5
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
@@ -656,10 +641,10 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.1.1b-6)
 Filename: ./debs/com.nito.flexinjected_1.2-11_appletvos-arm64.deb
-Size: 120632
-MD5sum: 14202e4ca3b205b8c60bda7bc0451ccc
-SHA1: b91d268bf06e284faa35ed5b0df576b1adca9593
-SHA256: 79d9cc0d596e59c0c2acb517442f1d02b106fcdc3c0b3e7f1d4bcff3c34b86d3
+Size: 120468
+MD5sum: 2792b3d4e49e17c7816c7ba409249fbc
+SHA1: 2d6df942bac88701bd531fc7f9796036aa19d921
+SHA256: 210a741698ff9f53f590d7f0d8d97fd9c759d5b07c52770d3d39980922ba6801
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
@@ -672,10 +657,10 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.1.1b-1)
 Filename: ./debs/com.nito.flexinjected_1.2-3_appletvos-arm64.deb
-Size: 120570
-MD5sum: 9f5968faa603369018978713b7b9063b
-SHA1: a3115d66aa7903c0031672f127701c57736168e3
-SHA256: dd8c436e65fbd397713c1277bda023728b4db916d1cf7e5ba43c01e41f640e72
+Size: 120396
+MD5sum: 89b0155fc5e66d056183148743644456
+SHA1: c5c624c9aaf86ee44688f5d10facf977c6cb4b21
+SHA256: be8dbfed7824503ad3ea0be8ae617855f6e06d37e5e26038d0ef3f751d3c8351
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
@@ -688,10 +673,10 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.1.1b-1)
 Filename: ./debs/com.nito.flexinjected_1.2-4_appletvos-arm64.deb
-Size: 120598
-MD5sum: 0e6b13d2fe9f4b13a737bf81d415c1f3
-SHA1: e8d969ca293a231fe375342e8a30fd54191ffc8a
-SHA256: 761937bc04eaebc722f2742b3e3cc5b4c9abba6c669bb382ea19368538724be9
+Size: 120424
+MD5sum: e78de6c22edce19c5ebf6dd666ccb074
+SHA1: da5c9e1f3b38e2ac934542bd4cfa45d5e6884007
+SHA256: e77b8274da38d5c9e1af824c94596db9378bfbd3d4a080a47ae9799de6e53c24
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
@@ -704,10 +689,10 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.1.1b-5)
 Filename: ./debs/com.nito.flexinjected_1.2-6_appletvos-arm64.deb
-Size: 120600
-MD5sum: 161921368bceaaf69d236d9892aa4974
-SHA1: 8c825d02a9464f1e06708dba66c98d84aeb1beb0
-SHA256: 68ee9375b68607af075639119cd46e946f6c4ce580deafe83f23b7aef1c194e3
+Size: 120436
+MD5sum: 1ac186db6a0ec33de1d558620687501d
+SHA1: 938906121dbe25b68af06f4c3e6b56f9a535e591
+SHA256: e731972dc68ce7dd57a0964ff3c5389b435f6aac9cde6c0e919505cd006e7d1d
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
@@ -720,10 +705,10 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.1.1b-5)
 Filename: ./debs/com.nito.flexinjected_1.2-9_appletvos-arm64.deb
-Size: 120626
-MD5sum: 46993b63f2f895fb68e59a07d4d630ff
-SHA1: 3a9324037294be726828f28de16f5dfaff72ca5d
-SHA256: 5bdfcc652db45b8215917dac0184d68cbe0e0e57f1e89aad3d3f67cec7dc4a96
+Size: 120476
+MD5sum: 3b6d1420bd907b6b827f5cebf7fdd56f
+SHA1: 1ad706a48ee9d86ed340ca0a1a28e3a54bca9d00
+SHA256: 68de3eb7e9318bd17c796c803d8d21449bb5e00fd2e5ed299ee95798f10a6dee
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
@@ -736,10 +721,10 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.1.1b-6)
 Filename: ./debs/com.nito.flexinjected_1.3-2_appletvos-arm64.deb
-Size: 120910
-MD5sum: 4f798338ba874701767f58d6eb0876f9
-SHA1: 158f869e20dc53f2d04ca2fc4a6645dfd34f2bbc
-SHA256: 17d5c8fe70b33a56dbf1f13d852900a6161f1ae1436e6af9ce5c2e00984b6b34
+Size: 120732
+MD5sum: 8797629c41ee41c2d30a4a51f7cf538f
+SHA1: a5a839cf9dc4469a80ca5180a7b29c514fa7a99f
+SHA256: 0c2037f5ebbfa905c2c0be6ee593b4de447ad35169c7ccccd7a4309e3a10c626
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
@@ -752,14 +737,13 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.3.0-1)
 Filename: ./debs/com.nito.flexinjected_1.4-4_appletvos-arm64.deb
-Size: 120986
-MD5sum: bb4c2092b35bdaf6973a8b4a168b0550
-SHA1: 32a9054878f9af16676dd825cf66e30aa3e57cf6
-SHA256: 06f443a6838b4524c3267da1ecd10af0bd299343a984aebef609aae7674e3c21
+Size: 120772
+MD5sum: fcb109991c6b05e886a2bb8f5e42886d
+SHA1: 1099d4a0cefa97fac607ebdc893bff0085e57841
+SHA256: cb41adb92c6a41dcc38dbed9fae4c08b980c94a4caab82e58fd3aaac6c15f3d8
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/flex/flex.json
 Name: FLEXInjected
 
 Package: com.nito.flexinjected
@@ -769,14 +753,13 @@ Maintainer: Kevin Bradley
 Installed-Size: 76
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.3.0-6)
 Filename: ./debs/com.nito.flexinjected_1.5-3_appletvos-arm64.deb
-Size: 5468
-MD5sum: 3c9eda8f8a0c81e182f2dfb7df0c36bc
-SHA1: a6f59571bd7026a34adc5444820f2450df584a3a
-SHA256: e1e56f6dddb421fbd88f77806f4d117447dc2d3fbd1557b257b495ed127b4872
+Size: 5364
+MD5sum: cb0d942f13f54712c39e20fded3322db
+SHA1: 63e4a66c6667c9b5b8821fe58df021716ac3628c
+SHA256: b14f6610f3ef8872c1206040bcf9002417da8e9aa9a5657e4c5a27883d46d9f6
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/flex/flex.json
 Name: FLEXInjected
 
 Package: com.nito.nitotv4
@@ -790,10 +773,10 @@ Conflicts: com.nito.updateBeGone, com.nito.repo-key
 Replaces: com.nito.updateBeGone, com.nito.repo-key
 Provides: com.nito.updateBeGone , com.nito.repo-key
 Filename: ./debs/com.nito.nitotv4_3.3.1-2_appletvos-arm64.deb
-Size: 3757636
-MD5sum: 6c917e2eb688b43e5481eebca6abc747
-SHA1: 22bbfa13349b6541eb082b5ee1a2a04da98a7adf
-SHA256: 911999b63ca580af06a2d3d4ab3711a4a40ff2563ce706bfc022275ce5875820
+Size: 3761160
+MD5sum: 63fd8bf8ddb4610def9e62e62db2190d
+SHA1: 37ff1b5e22edb66289e4528727e2a9185f503658
+SHA256: 8653198f05f0e2995a7ad01f2772305dc3523cfed8b961720dd851eeaf472534
 Section: Utilities
 Priority: required
 Description: AppleTV 4 Package installer
@@ -813,10 +796,10 @@ Conflicts: com.nito.updateBeGone, com.nito.repo-key
 Replaces: com.nito.updateBeGone, com.nito.repo-key
 Provides: com.nito.updateBeGone , com.nito.repo-key
 Filename: ./debs/com.nito.nitotv4_3.4-65_appletvos-arm64.deb
-Size: 3806650
-MD5sum: f717f98902b25d4045ae579eca55c1a4
-SHA1: 038f2a18705f7151c7ff1e84c23241fe34f12537
-SHA256: d30edd21cb1384d299cc26d5f4956c65bea482308c2668ba1b4b1d2d71752c76
+Size: 3807576
+MD5sum: f8b449579ba1735f625d1e89219f88ab
+SHA1: d6c66e621b81caad15810c92f3f46bc9edba597e
+SHA256: 45d467fb68d47d17eb9fc64b34c598c491c60ffdab25257c9943daac8c345ce3
 Section: Utilities
 Priority: required
 Description: AppleTV 4 Package installer
@@ -832,15 +815,13 @@ Maintainer: Kevin Bradley
 Installed-Size: 96
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0)
 Filename: ./debs/com.nito.processes-module_1.0-2_appletvos-arm64.deb
-Size: 24112
-MD5sum: d21cff6d4c03d47112304ba3b124003d
-SHA1: 1bc9fd682edd37d86348d215af787e5cee460ff5
-SHA256: ea144e6ba598ef5c83a9d1b8a098a9e244058a55a66a9e68eb1fef589c7dcb3c
+Size: 24076
+MD5sum: 7910bbd3d3e299a6bda808d9f0133d70
+SHA1: 4e18a607d42c7904b109d05273c875d95911187b
+SHA256: 9b9c331cf7c325d07c8616f22f2f0506f98c46c6d115efcbe41c82cdafe9e92a
 Section: Tweaks
 Description: Control center module that is a shortcut to the Running Processing section in nitoTV, inspect, inject and quit any running process
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/proc/proc.json
-Icon: https://nitosoft.com/ATV4/proc/proc_icon.png
 Name: ProcessesModule
 
 Package: com.nito.processes-module
@@ -850,15 +831,13 @@ Maintainer: Kevin Bradley
 Installed-Size: 76
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0)
 Filename: ./debs/com.nito.processes-module_1.0-3_appletvos-arm64.deb
-Size: 7558
-MD5sum: a2c63f0894ae32ebcf35e7200fbd0799
-SHA1: b9d5dc6f69b0b4809c9f8fc4411f347158d29106
-SHA256: dd8f9fa4f3343aff81ac8bde61a9e6fa094bc90ec6b57cb93c5963b3e7cbba05
+Size: 7536
+MD5sum: 4b4468f5d4f49e320f6aaf73e5fe92ca
+SHA1: 0017eddf8686f553e60256f6b822f25f0deb873f
+SHA256: 9215b21ab3f0d44939bf543f1e5b1c9446db27af7dcf6f372817651ebdb33ae9
 Section: Tweaks
 Description: Control center module that is a shortcut to the Running Processing section in nitoTV, inspect, inject and quit any running process
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/proc/proc.json
-Icon: https://nitosoft.com/ATV4/proc/proc_icon.png
 Name: ProcessesModule
 
 Package: com.nito.romulator
@@ -869,14 +848,13 @@ Installed-Size: 376
 Pre-Depends: cy+model.appletv
 Depends: mobilesubstrate, preferenceloader, com.nito.breezy (>= 1.2-1), com.nito.bulletinh4x
 Filename: ./debs/com.nito.romulator_1.0-1_appletvos-arm64.deb
-Size: 260088
-MD5sum: eee0f84c356d640928927a2187ef06fc
-SHA1: d0a1162ce59987e3dcd04784f25362342ad4f121
-SHA256: e1efd38514b58dec0bd2017ea4d8e007c2b97d576f43df8b65d6ade5eb3fe342
+Size: 258392
+MD5sum: 3871272b42b48baaad14ae1333bc3be4
+SHA1: 724d11cacd1f7e2706d77d2b4968aa0840ca9223
+SHA256: db5808333a7d3994aaaefd66c56657895b483c0e8d255c09921b8b121b90744f
 Section: Library
 Description: AirDrop roms files to import to Provenance and other emulators in the future
 Author: Kevin Bradley
-Depiction: http://nitosoft.com/ATV4/romu/romu.json
 Name: Romulator
 
 Package: com.nito.romulator
@@ -887,14 +865,13 @@ Installed-Size: 376
 Pre-Depends: cy+model.appletv
 Depends: mobilesubstrate, preferenceloader, com.nito.breezy (>= 1.2-1), com.nito.bulletinh4x
 Filename: ./debs/com.nito.romulator_1.0-2_appletvos-arm64.deb
-Size: 260092
-MD5sum: b07d5d3f31416c8c0b0fd341505e605f
-SHA1: 50d2070c8a83ef3ec0ed8397f0bfb2f4c8b79a34
-SHA256: b27db9e9ac876529b78cdc04748e84fe09ccb7e9c649e03be3dc1e167bbbc346
+Size: 258428
+MD5sum: 141a19d9ca59b766eced4120c6b72550
+SHA1: 22fd7a6fa47a8b0d3446a8274ec4e3f2d51ddf1b
+SHA256: cbb7b1e53e7b58cf4d841050f97656912f8d677bc0f1a05aba6597017cbd8565
 Section: Library
 Description: AirDrop roms files to import to Provenance and other emulators in the future
 Author: Kevin Bradley
-Depiction: http://nitosoft.com/ATV4/romu/romu.json
 Name: Romulator
 
 Package: com.nito.romulator
@@ -905,14 +882,13 @@ Installed-Size: 176
 Pre-Depends: cy+model.appletv
 Depends: mobilesubstrate, preferenceloader, com.nito.breezy (>= 1.2-1), com.nito.bulletinh4x
 Filename: ./debs/com.nito.romulator_1.0-9_appletvos-arm64.deb
-Size: 68406
-MD5sum: 8b238e50a45d9c663d709bd9427e62ff
-SHA1: 96ea24d010a92717c4994cf5124e18dae6099977
-SHA256: d4e9fe698af1980b96424a6cd06199ef3f0c004ccdc1d50c055d1dd251f01381
+Size: 67464
+MD5sum: a5543f25c2e2cabbca1d672dd885b99a
+SHA1: 96bbfc4cde439d121c76dba0b19e6ca25d662b8e
+SHA256: 1d488b4e3e800d6b242b9f2df96ce7a6b222a2403c6c5c518352c73877090a91
 Section: Library
 Description: AirDrop roms files to import to Provenance and other emulators in the future
 Author: Kevin Bradley
-Depiction: http://nitosoft.com/ATV4/romu/romu.json
 Name: Romulator
 
 Package: com.nito.romulator
@@ -923,14 +899,13 @@ Installed-Size: 192
 Pre-Depends: cy+model.appletv
 Depends: mobilesubstrate, preferenceloader, com.nito.breezy (>= 1.3-2), com.nito.bulletinh4x
 Filename: ./debs/com.nito.romulator_1.2-1_appletvos-arm64.deb
-Size: 75486
-MD5sum: 82420df36e8d93627cf89b7140cb035b
-SHA1: e29a1c11d5822c239ecfc7a8f64a2b6d00ac9e1c
-SHA256: 7e24268d7d83ef77cf1893c0a1bb7d5a0815726063b7d40e073fac9ed9b4e5fd
+Size: 74156
+MD5sum: 90938d69e4bee1d5485a7c457a64a816
+SHA1: f12a9bd586d53315d7fd453b1b8a3caefb5d917c
+SHA256: f3aceaa39787547fb0317444c0503fa54ba7e0a0c1109ffe11e08ab1d00492ae
 Section: Library
 Description: AirDrop roms files to import to Provenance and other emulators in the future
 Author: Kevin Bradley
-Depiction: http://nitosoft.com/ATV4/romu/romu.json
 Name: Romulator
 
 Package: com.nito.screencapture
@@ -1167,10 +1142,10 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.nito.tvcontrolcenter_1.0-2_appletvos-arm64.deb
-Size: 2644
-MD5sum: 82cd75c2f1999b556a563aeae3118d2c
-SHA1: ebfef99f128305640aeeb3567772d9da179e749f
-SHA256: c8adf6fd4845d141930893df3d89c63497fe8d2c7b93829275f0b72ced1fd393
+Size: 2720
+MD5sum: be71d629e49efab7bec857f9bf67069a
+SHA1: 86b5d4c34be927fe293fc453979854f7d8e6820a
+SHA256: 681ca36a0aec906f0e27d2623d913757e0906703a0a3880c0aecd180e07c9633
 Section: Tweaks
 Description: Load your own control center bundles!
 Author: Kevin Bradley
@@ -1183,10 +1158,10 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.nito.tvcontrolcenter_1.1-3_appletvos-arm64.deb
-Size: 4014
-MD5sum: b434ff8d0dec049f42b3e2cf018f8dfa
-SHA1: ff7995a19cda3771e947eef53deea578cb6242ff
-SHA256: 0b3a241e57f8c9466bdeb093a44d0fbb39c9db1f5459f0ee67f34b357114fdad
+Size: 4036
+MD5sum: 12319a58e4869136b28fcdf0f8e631eb
+SHA1: 3641adf2bff182dca35823d5bbd1b11ceeaa0314
+SHA256: ff1dc4b2ac94750483ab1643879fafda67c0b22903c5e933b5450b7c120d76f7
 Section: Tweaks
 Description: Load your own control center bundles!
 Author: Kevin Bradley
@@ -1199,14 +1174,13 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.nito.tvcontrolcenter_1.2-13_appletvos-arm64.deb
-Size: 3416
-MD5sum: 7274048b24e10f920267b3cc1917ea94
-SHA1: 224b38164363d0d596901b4479ab1fee102e8931
-SHA256: f12eb12cc8ea1b2186e377d963298aaf74e1be7dd685d7ad472f3a3c0333b28c
+Size: 3444
+MD5sum: a7b8ee31fe4f287dfbd5248705507ff0
+SHA1: 329ea8307f8bb954494d8daa6e607e69dcbdb3f7
+SHA256: 89a0131bf6d36e7cd85d4ba9416ab40c41414b2c1e4e0fcb400704f3ebd52a66
 Section: Tweaks
 Description: Load your own control center bundles!
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/tvcontrol/tvcontrol.json
 Name: TVControlCenter
 
 Package: com.nito.tvcontrolcenter
@@ -1216,14 +1190,13 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.nito.tvcontrolcenter_1.2-16_appletvos-arm64.deb
-Size: 3532
-MD5sum: 21eb3b10339798870c4677175b4d54d0
-SHA1: d15f6c49016df60652cc257a8fc637b5447181fb
-SHA256: ac4e176b789f9793bbaaf87bd17f8f1350102d1efb3dc1daedb2a236328a7f84
+Size: 3540
+MD5sum: b473f2f269e1fd86ca3a04ae4365b73b
+SHA1: 33130e49cd9fe055ed26bf055e7dbbb89753fedd
+SHA256: ca1340e4de55d6e65dc6d66ecc70beae9754ceb7f425cce5a011e109a4fcf74f
 Section: Tweaks
 Description: Load your own control center bundles!
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/tvcontrol/tvcontrol.json
 Name: TVControlCenter
 
 Package: com.nito.tvcontrolcenter
@@ -1233,14 +1206,13 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.nito.tvcontrolcenter_1.2-2_appletvos-arm64.deb
-Size: 3198
-MD5sum: 72eb4c94d28bba84b7f128a2260796e8
-SHA1: f78745b2589ad39355c3d4f4816072393c5f5257
-SHA256: 89bf9c9f85386552fd857ae0f21b040b25fdf60ab43e003963b8628f249faccb
+Size: 3212
+MD5sum: ba1b856fa16f31779079299b71cf5327
+SHA1: d270e3675624805c90a1278aa8dbf36f5f5c971b
+SHA256: ffc5adba06551ab1bb2472da7eca28a89005432c120d35daa4444eff029bf883
 Section: Tweaks
 Description: Load your own control center bundles!
 Author: Kevin Bradley
-Depiction: https://nitosoft.com/ATV4/tvcontrol/tvcontrol.json
 Name: TVControlCenter
 
 Package: com.nito.tvsettings-link
@@ -1477,15 +1449,14 @@ Installed-Size: 21688
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/com.splinter.gondola-tvos_1.1-3_appletvos-arm64.deb
-Size: 11475096
-MD5sum: 545928aac46062d75df19adfbdf97f56
-SHA1: 116888910e181258246521ebf0edb596c9fb3096
-SHA256: 57bfe71f87bed11292373578d3a3f8b2d553b6a894608fee836eeb3530fe6848
+Size: 11475636
+MD5sum: 5e3d9f382ee93637db0f50bc1dd40a3e
+SHA1: 184452a0dd349807407150db827a35cfe57f93ce
+SHA256: 54a3e535559b41c2a7d8291b3c3091e458f5490afc234838b58bb85dbc9574e0
 Section: Multimedia
 Priority: Extra
 Description: Apple TV client for Gondola media server
 Author: Chris Hulbert <chris.hulbert@gmail.com>
-Depiction: http://nitosoft.com/ATV4/gondola/gondola.json
 Name: Gondola
 
 Package: com.sts.browser
@@ -1589,6 +1560,22 @@ Homepage: https://github.com/yoshisuga/MAME4iOS
 Description: This is a port of MAME 0.139u1 for iOS and tvOS. MAME stands for Multi Arcade Machine Emulator, and lets you play arcade games from the past 30+ years on a device that fits in your pocket! My teenage self from decades ago would be replaying that "mind blown GIF" over and over again, but that GIF did not exist back then.
 Author: David Valdeita
 Name: MAME4tvOS
+
+Package: com.zenzeq.nitoTVfix
+Version: 1.0-3
+Architecture: appletvos-arm64
+Maintainer: Zenzeq
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/com.zenzeq.nitoTVfix_1.0-3_appletvos-arm64.deb
+Size: 4440
+MD5sum: a532e6fbcacd73872e87805d576bf46e
+SHA1: 7c0ce0307b8942cb5f1ef56bce9efef68295b20f
+SHA256: 7bbf5958df608d6a0c91e0ea63393eda42878ac399668b0b039aa1f1a7dbc329
+Section: Tweaks
+Description: An awesome tvOS tweak that *should* help with preventing freezing and using nitoTV online
+Author: Zenzeq
+Name: nitoTVfix
 
 Package: com.zenzeq.noreset
 Version: 1.1
