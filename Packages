@@ -1,3 +1,224 @@
+Package: applist
+Version: 1.0-14
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
+Filename: ./debs/applist_1.0-14_appletvos-arm64.deb
+Size: 26016
+MD5sum: ac092b235b3e20fb261037c9dc4a52af
+SHA1: 60396cac60b02ba4550ab89b9f0670860a112701
+SHA256: ffdb338f1721f78b15f061c150d8677060f712a3c2bc3a9e48a629622e27c663
+Section: System
+Description: Allow extensions to read the list of installed apps, for tvOS!
+Tag: role::developer
+Author: Kevin Bradley & Ryan Petrich
+Name: AppList
+
+Package: applist
+Version: 1.0-15
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
+Filename: ./debs/applist_1.0-15_appletvos-arm64.deb
+Size: 26026
+MD5sum: 5b112387b6981055429c73923cf415b7
+SHA1: 92a514845cfdd1e5aa1529da1dc0ece36669894e
+SHA256: 135d93fd2663e6a12731492b36a528ec5c52f385e1a1520b72af0e94235cbbcd
+Section: System
+Description: Allow extensions to read the list of installed apps, for tvOS!
+Tag: role::developer
+Author: Kevin Bradley & Ryan Petrich
+Name: AppList
+
+Package: applist
+Version: 1.0-16
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
+Filename: ./debs/applist_1.0-16_appletvos-arm64.deb
+Size: 26072
+MD5sum: b1cac055f0bf59e74150140e7afdfe72
+SHA1: b6a7e7078ffb5d26f53b4184a65e927cf550da6d
+SHA256: a1c401cadf0d6afd4c0d0bdbfc78a25c7c23aeae5c18c95da47db3c627b1225e
+Section: System
+Description: Allow extensions to read the list of installed apps, for tvOS!
+Tag: role::developer
+Author: Kevin Bradley & Ryan Petrich
+Name: AppList
+
+Package: applist
+Version: 1.0-21
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 192
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
+Filename: ./debs/applist_1.0-21_appletvos-arm64.deb
+Size: 26872
+MD5sum: 7937bffada1e8d62f249f0378cf0d82e
+SHA1: 963076720b956bbf9d62c8051694dfdeed1a8107
+SHA256: 23111d3955cf47452df91e7811a9ca41f085fe6b39e18bc6745f2d56848859a1
+Section: System
+Description: Allow extensions to read the list of installed apps, for tvOS!
+Tag: role::developer
+Author: Kevin Bradley & Ryan Petrich
+Name: AppList
+
+Package: applist
+Version: 1.0-33
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 192
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
+Filename: ./debs/applist_1.0-33_appletvos-arm64.deb
+Size: 27402
+MD5sum: 627acf0bed4730ecc376f84acee44bd7
+SHA1: 933c4a3b4309a600a8d197ceb6b7e8da7a4e5370
+SHA256: ee0fd542bf3aaa36a428b234921076bfb4fba06990fd9c36fbd3da2056d1ecbb
+Section: System
+Description: Allow extensions to read the list of installed apps, for tvOS!
+Tag: role::developer
+Author: Kevin Bradley & Ryan Petrich
+Name: AppList
+
+Package: applist
+Version: 1.0-38
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 192
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
+Filename: ./debs/applist_1.0-38_appletvos-arm64.deb
+Size: 27786
+MD5sum: 5f3bf2c535f81ade27176bf4b1e72f09
+SHA1: a4b9048f745b053ce7f559f8c367fcc39a2ac10b
+SHA256: 8cb69f093ec7774c0d87340110636b5d3511f8bf31d215d919614b61f3df2fdb
+Section: System
+Description: Allow extensions to read the list of installed apps, for tvOS!
+Tag: role::developer
+Author: Kevin Bradley & Ryan Petrich
+Name: AppList
+
+Package: applist
+Version: 1.0-6
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
+Filename: ./debs/applist_1.0-6_appletvos-arm64.deb
+Size: 25924
+MD5sum: af06b8bd66410e686f3396d45cec6a77
+SHA1: 554255641da2a8e82f605f6884e8991d63f66c4c
+SHA256: bccf7225c558170fc7d0a4c15f2ed0b8f8850c9ba3df56473ea2d783cc5d84c9
+Section: System
+Description: Allow extensions to read the list of installed apps, for tvOS!
+Tag: role::developer
+Author: Kevin Bradley & Ryan Petrich
+Name: AppList
+
+Package: applist
+Version: 1.1-8
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 252
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
+Filename: ./debs/applist_1.1-8_appletvos-arm64.deb
+Size: 86860
+MD5sum: 0feb356bf224bee6747d79bd6db01130
+SHA1: fb1ce7f13b631aeb241aa64259d3a75c11923aeb
+SHA256: 6169067fdc3136ef3ced436da0ba3baa456bc435713a3017d19120df5967c543
+Section: System
+Description: Allow extensions to read the list of installed apps, for tvOS!
+Tag: role::developer
+Author: Kevin Bradley & Ryan Petrich
+Name: AppList
+
+Package: applist
+Version: 1.2-2
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
+Filename: ./debs/applist_1.2-2_appletvos-arm64.deb
+Size: 92302
+MD5sum: b00349e4b346e928efb55a1dbd91c1d3
+SHA1: 0c952b0b0d47b486347c94afffbf45e16fd5e3b7
+SHA256: dabcb2b8fef3f108224d70bb44a2379148d47aaa82c9913809b6718d621b1ea5
+Section: System
+Description: Allow extensions to read the list of installed apps, for tvOS!
+Tag: role::developer
+Author: Kevin Bradley & Ryan Petrich
+Name: AppList
+
+Package: applist
+Version: 1.2-5
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-14)
+Filename: ./debs/applist_1.2-5_appletvos-arm64.deb
+Size: 91944
+MD5sum: 4d3e7b4b61cc7fa84a7801657d41bf65
+SHA1: ab8f66cde7ecb6e2c92fb6e5f6577c82a5fb7008
+SHA256: 993a8c0f148ccaf180e345b528584807ace6dbd3400fad4b606428156ebe2f44
+Section: System
+Description: Allow extensions to read the list of installed apps, for tvOS!
+Tag: role::developer
+Author: Kevin Bradley & Ryan Petrich
+Name: AppList
+
+Package: applist
+Version: 1.2.1-2
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 252
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.5-1)
+Filename: ./debs/applist_1.2.1-2_appletvos-arm64.deb
+Size: 90498
+MD5sum: de608c49735fb5c2b5ebe15028642108
+SHA1: 02703e5bfe9c0d740e3b84e2609590d4412cf6b1
+SHA256: d0c5ed6d8d2b36b7a2ada16049b09c3da281881eb8cafc254e89a14798f58222
+Section: System
+Description: Allow extensions to read the list of installed apps, for tvOS!
+Tag: role::developer
+Author: Kevin Bradley & Ryan Petrich
+Name: AppList
+
+Package: applist
+Version: 1.3-11
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.5-15)
+Filename: ./debs/applist_1.3-11_appletvos-arm64.deb
+Size: 90786
+MD5sum: e440c42ccfd3e2297c7602e33521847a
+SHA1: b1806ed524e4b1d57f9f9e2436048a45ae35f69c
+SHA256: 297463c8ce7d0395b713663820bbb79ca6af99faa7a3da5de4cbbb3ab9f60442
+Section: System
+Description: Allow extensions to read the list of installed apps, for tvOS!
+Tag: role::developer
+Author: Kevin Bradley & Ryan Petrich
+Name: AppList
+
+Package: applist
+Version: 1.3-2
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.5-15)
+Filename: ./debs/applist_1.3-2_appletvos-arm64.deb
+Size: 91142
+MD5sum: e2a541bef0ac027d9af3e128b8a2515a
+SHA1: 18bbd74ade1a050ba4577ae2c7c9302b693580ec
+SHA256: 3d3e9bb234f1f31b677a15b3fa1299b86930cdb09eceefa683d6e943cf32ac98
+Section: System
+Description: Allow extensions to read the list of installed apps, for tvOS!
+Tag: role::developer
+Author: Kevin Bradley & Ryan Petrich
+Name: AppList
+
 Package: com.XsF1re.mcpatchtv
 Version: 0.0.3-2
 Architecture: appletvos-arm64
@@ -1317,6 +1538,143 @@ Description: A tvOS client for Twitch
 Author: Benoit Layer
 Name: Twitch
 
+Package: com.provenance.provenance-tvos
+Version: 1.2.7
+Architecture: appletvos-arm64
+Maintainer: James Addyman
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.provenance.provenance-1.2.7_appletvos-arm64.deb
+Size: 9670574
+MD5sum: 4803c50a7c9aa32e37227ccc33025935
+SHA1: 97b2784b9c9d231629b56f784511a980361f80c7
+SHA256: f5520af54369b8e176851b48dbcd1af43a4c9e36272c8bbd322d57f1ce817f0a
+Section: Multimedia
+Priority: Extra
+Description: An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, Game Gear/Master System, Sega CD, SNES, NES, GB/GBC and GBA.
+Author: James Addyman
+Name: Provenance
+
+Package: com.provenance.provenance-tvos
+Version: 1.4-29
+Architecture: appletvos-arm64
+Maintainer: James Addyman
+Installed-Size: 78364
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.provenance.provenance-tvos_1.4-29_appletvos-arm64.deb
+Size: 18962526
+MD5sum: e708e161b05156821c24fa9cedb8e2f4
+SHA1: 34c7f1a74102fb5e634066cf5506b2a9a9862cab
+SHA256: b8b5c22cefbdd097a340fca862aa72384c93700c6b572c707138e9e4b3dc6541
+Section: Multimedia
+Priority: Extra
+Description: An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, Game Gear/Master System, Sega CD, SNES, NES, GB/GBC and GBA.
+Author: James Addyman
+Name: Provenance
+
+Package: com.provenance.provenance-tvos
+Version: 1.4-32
+Architecture: appletvos-arm64
+Maintainer: James Addyman
+Installed-Size: 76032
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.provenance.provenance-tvos_1.4-32_appletvos-arm64.deb
+Size: 18419914
+MD5sum: 7e3ffc632c6f1408304fa97dbd0eeb17
+SHA1: 5c3927e04abda9d6aee13fb6663ec1cf29960ca8
+SHA256: 57df0d675c44ce1e30cdaa46937b3905ed499cdb8dd36020be2c523f0e3d6429
+Section: Multimedia
+Priority: Extra
+Description: An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, Game Gear/Master System, Sega CD, SNES, NES, GB/GBC and GBA.
+Author: James Addyman
+Name: Provenance
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.10~beta1
+Architecture: appletvos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.10~beta1_appletvos-arm64.deb
+Size: 14794
+MD5sum: 74a50111b23c0429e16f89c84486518e
+SHA1: 43d5f2656e7e044f9840b2dbc51c64120ae2986f
+SHA256: c40a0557e8194f7daaf0feff792a19947d1cb9d39c14cdb24700335acd0be993
+Section: Tweaks
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.10~beta2
+Architecture: appletvos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.10~beta2_appletvos-arm64.deb
+Size: 18278
+MD5sum: a66ef90a5d13ebcc4c86c4eb6dde385b
+SHA1: 9810e44c50d23c4899a1bba7b4687157f10fe84b
+SHA256: 95c31da5652026ae6a3152f53d8eb90944c2ad1fd6026a2f5683c17c6802e7c5
+Section: Tweaks
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.4
+Architecture: appletvos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.4_appletvos-arm64.deb
+Size: 25328
+MD5sum: 01701f89eea76fce5a97fd017795d332
+SHA1: 6cd35a76ee5c109b3179739c29eb9a391a76b169
+SHA256: 5d8ef5efcb897a5737756aef1efbeec66f6d902baeddf8300540f41050003a66
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/rocketbootstrap/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: http://rpetri.ch/cydia/rocketbootstrap/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.4-1
+Architecture: appletvos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.4-1_appletvos-arm64.deb
+Size: 25290
+MD5sum: f06d2110d2d147209ef8c0a8d5010cf5
+SHA1: 8ea80aba977381c28df954308f81fc853e47e396
+SHA256: 29d67f5fc8162019169f26e334d3441eb892ad076cd8c0fbd221212dfbb02e7a
+Section: Tweaks
+Homepage: http://rpetri.ch/cydia/rocketbootstrap/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: http://rpetri.ch/cydia/rocketbootstrap/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.rpetrich.videopace
 Version: 1.1.1-32
 Architecture: appletvos-arm64
@@ -1596,6 +1954,117 @@ Description: To reboot or not to reboot, that is the question.
 Author: Unknown
 Name: Reboot, Oops!
 
+Package: crash-reporter
+Version: 0.0.1
+Architecture: appletvos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>=4.0)
+Depends: coreutils, dpkg, grep, jp.ashikase.libcrashreport (>= 1.1.0), jp.ashikase.libpackageinfo (>= 1.1.0), mobilesubstrate, preferenceloader
+Filename: ./debs/crash-reporter_0.0.1_appletvos-arm64.deb
+Size: 90934
+MD5sum: e472421012ba341b766aec403dbffe0e
+SHA1: 132169e3fc83fd8d15c080a842fb4f697defc48e
+SHA256: eefa4b56db1c1cbaefaec0c1406d38dd99ffa8b9e067f41c3528a826acc6afe6
+Section: System
+Homepage: http://github/ashikase/CrashReporter/
+Description: Send useful crash info to developers.
+Tag: purpose::uikit, role::enduser
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crashreporterData
+Dev: ashikase
+Name: CrashReporter
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: crash-reporter
+Version: 0.1.0
+Architecture: appletvos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>=4.0)
+Depends: coreutils, dpkg, grep, mobilesubstrate, preferenceloader
+Conflicts: jp.ashikase.libcrashreport, jp.ashikase.libpackageinfo, jp.ashikase.libsymbolicate
+Replaces: jp.ashikase.libcrashreport, jp.ashikase.libpackageinfo, jp.ashikase.libsymbolicate
+Provides: jp.ashikase.libcrashreport, jp.ashikase.libpackageinfo, jp.ashikase.libsymbolicate
+Filename: ./debs/crash-reporter_0.1.0_appletvos-arm64.deb
+Size: 632266
+MD5sum: 11b9c34b274f3b51822ee1a9b170fc4a
+SHA1: b766f508d4b3add2edfc4fff8becf24880585296
+SHA256: f8c98aeb96f559ea2e2284243b0ce3b7232df3a0d9df08a9eea0583e25ec97b0
+Section: System
+Homepage: http://github/ashikase/CrashReporter/
+Description: Send useful crash info to developers.
+Tag: purpose::uikit, role::enduser
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crashreporterData
+Dev: ashikase
+Name: CrashReporterTV
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: curl
+Version: 7.50.1-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl
+Filename: ./debs/curl_7.50.1-1_appletvos-arm64.deb
+Size: 1322172
+MD5sum: 551645cfd13cb6ead9aea4295b07006b
+SHA1: 7db842e15121348438987b35e387c512dce16992
+SHA256: 210f2d20eae924591423372cb216e69253db9992285f2e526071c1ed62e3e53d
+Section: Networking
+Priority: standard
+Homepage: http://curl.haxx.se/
+Description: flexible multi-protocol file transfers
+Name: cURL
+
+Package: curl
+Version: 7.50.1-2
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Pre-Depends: dpkg (>= 1.18.23-2)
+Depends: openssl
+Filename: ./debs/curl_7.50.1-2_appletvos-arm64.deb
+Size: 428890
+MD5sum: 8a959c648d3b144e07116c163be3e7c4
+SHA1: 73eb9c133aaae5f9334e8b48f12f2da179a45502
+SHA256: 37f42b51bb140b911904e81cf203b6be707fe4b670a4cb3a8556e7bae10aaf70
+Section: Networking
+Priority: standard
+Homepage: http://curl.haxx.se/
+Description: flexible multi-protocol file transfers
+Name: cURL
+
+Package: curl-dev
+Version: 7.50.1-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Depends: curl
+Filename: ./debs/curl-dev_7.50.1-1_appletvos-arm64.deb
+Size: 40954
+MD5sum: e7399886282fec1d25e0e4da7d450ef9
+SHA1: b4478d325696cba68914c03b6183a8f79a6d7664
+SHA256: 094c4d19762a01f665ac0f95b616f32adb29d493babdd29bb91544bae7bf73cb
+Section: Development
+Priority: optional
+Homepage: http://curl.haxx.se/
+Description: flexible multi-protocol file transfers
+Name: cURL
+
+Package: curl-doc
+Version: 7.50.1-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Depends: curl
+Filename: ./debs/curl-doc_7.50.1-1_appletvos-arm64.deb
+Size: 165454
+MD5sum: 878187d0649553485d76114f9e2ec832
+SHA1: 7c075fb57f816ae9f450b581f910563726c3f163
+SHA256: d6281486ae057d205cb85f575dc02d649c3f03386eb7bb60eaaeabbc67a48bd3
+Section: Development
+Priority: optional
+Homepage: http://curl.haxx.se/
+Description: flexible multi-protocol file transfers
+Name: cURL
+
 Package: cycript
 Version: 0.9.594
 Architecture: appletvos-arm64
@@ -1692,6 +2161,162 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cycript/
 Name: Cycript
 
+Package: darwintools
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: Maintainer: Kevin Bradley <maintainer@nito.tv>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/darwintools_1.0-1_appletvos-arm64.deb
+Size: 2848
+MD5sum: c4d2887ef82ce0e043891c2e6cececa2
+SHA1: 03e84af0727b9e2fcb8c8e158939b029adc2c86b
+SHA256: 95252fb272d8c96eff6403c36a7ffe655a78a36b24cc2e6e3861ab3190318e03
+Section: Administration
+Priority: required
+Description: sw_vers
+Name: Darwin Tools
+
+Package: diffutils
+Version: 3.6-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/diffutils_3.6-1_appletvos-arm64.deb
+Size: 132670
+MD5sum: 3c5747e17095522c67494531d3101cb4
+SHA1: 4f3f800eec00dbdbab378037ebf74293c73cc120
+SHA256: 0ec06b72826e16d90cad149f54fe365b06bb34c1f811928aa41a3bf4494f24b0
+Section: Development
+Priority: important
+Homepage: http://www.gnu.org/software/diffutils/
+Description: compare two files for differences
+Name: Diff Utilities
+
+Package: diffutils-doc
+Version: 3.6-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/diffutils-doc_3.6-1_appletvos-arm64.deb
+Size: 56174
+MD5sum: 0c83299f72c36414d6b79e8b2ae16aa8
+SHA1: 1a97fd30f05b8a290729d724c99b95599682c923
+SHA256: d551d592daf13c643009cc96b9181e19d4c618b67368bd9cd56f7442ffb31333
+Section: Development
+Priority: optional
+Homepage: http://www.gnu.org/software/diffutils/
+Description: compare two files for differences
+Name: Diff Utilities
+
+Package: dpkg
+Version: 1.18.23-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Depends: bzip2, coreutils, diffutils, findutils, xz, tar
+Filename: ./debs/dpkg_1.18.23-1_appletvos-arm64.deb
+Size: 405796
+MD5sum: 6b931a75be9991d4a59fceddd3c550f1
+SHA1: 25e893ac5a9b9532367cbc0d8542f33439b205d3
+SHA256: b5679e5880f6e5e56b1ce0664040c4bed69a8b478c7a0890be6a902a1efb1ea2
+Section: Packaging
+Priority: required
+Homepage: http://wiki.debian.org/Teams/Dpkg
+Description: package maintainance tools from Debian
+Name: Debian Packager
+
+Package: dpkg
+Version: 1.18.23-2
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Depends: bzip2, coreutils, diffutils, findutils, xz, tar
+Filename: ./debs/dpkg_1.18.23-2_appletvos-arm64.deb
+Size: 405404
+MD5sum: 3fe189853824ba3817bd22a9aa1148b4
+SHA1: 90214d13ba6993123ff8ba92d10d978bfe6371f2
+SHA256: ec06b42b89c870bb91da13d2d1ce17b2c453845907c0010b098ffe7a021b911d
+Section: Packaging
+Priority: required
+Homepage: http://wiki.debian.org/Teams/Dpkg
+Description: package maintainance tools from Debian
+Name: Debian Packager
+
+Package: dpkg-dev
+Version: 1.18.23-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Depends: dpkg
+Filename: ./debs/dpkg-dev_1.18.23-1_appletvos-arm64.deb
+Size: 18444
+MD5sum: 3f43ea3f74f8cbc64b2c425a8574c5a0
+SHA1: f90fd4ed93b06832a82d8c33fd13f71720b844a0
+SHA256: 22f2e450bba1a1566cd77958375cd1b663fbfad054770816d849a079671fe8c8
+Section: Development
+Priority: optional
+Homepage: http://wiki.debian.org/Teams/Dpkg
+Description: package maintainance tools from Debian
+Name: Debian Packager
+
+Package: dpkg-doc
+Version: 1.18.23-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Depends: dpkg
+Filename: ./debs/dpkg-doc_1.18.23-1_appletvos-arm64.deb
+Size: 122288
+MD5sum: be284b5c0d8e97ca62571ed17552b110
+SHA1: 4fb73ce66d7bbc6f70394631d1de60ffbecb2d23
+SHA256: 8cabc5f9edb9586f7d084403a44ff0ccda1722d0bac4f5a2a61ef0d7bf0c1f40
+Section: Development
+Priority: optional
+Homepage: http://wiki.debian.org/Teams/Dpkg
+Description: package maintainance tools from Debian
+Name: Debian Packager
+
+Package: file
+Version: 4.23-3+arm64
+Architecture: appletvos-arm64
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 1804
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/file_4.23-3+arm64_appletvos-arm64.deb
+Size: 250856
+MD5sum: 7bc7fe0aab82fbdb01c3c910a72bd1db
+SHA1: 0189361159ac83f2946c0a2473f97e8b08325924
+SHA256: 336f1bccf45caeefdb82703329ba2961dfd7f6a32a99777a91bb264601fac15e
+Section: Utilities
+Priority: important
+Description: guesses the type of a file from contents
+
+Package: findutils
+Version: 4.6.0-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/findutils_4.6.0-1_appletvos-arm64.deb
+Size: 175868
+MD5sum: c35fbec4e25add8a2a40d247a9db2d89
+SHA1: 99a2a3cd252d70436f12e8b46b323b446decc95a
+SHA256: 2159113d0258cdb10936d369d022342417bf4359e4c720c5301e103362e2d26f
+Section: Utilities
+Priority: important
+Homepage: https://www.gnu.org/software/findutils/
+Description: indexes and searches filesystems
+Name: Find Utilities
+
+Package: findutils-doc
+Version: 4.6.0-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/findutils-doc_4.6.0-1_appletvos-arm64.deb
+Size: 112014
+MD5sum: ebbe76a2c29f5a3bef767cdeeac04af5
+SHA1: 0982472703dc019040d7596d14ed89dcc19c0c3c
+SHA256: 0f41abe77c0be1af73d7fde9fa440d0467f1c583f6cfaf0e0b9c1165e80d9225
+Section: Development
+Priority: optional
+Homepage: https://www.gnu.org/software/findutils/
+Description: indexes and searches filesystems
+Name: Find Utilities
+
 Package: firmware-sbin
 Version: 1-2
 Architecture: appletvos-arm64
@@ -1708,6 +2333,39 @@ SHA256: 333951d5243cd0b699b98777033ee58cbb5d74b8b80b65f6599e6e9043eb7672
 Section: System
 Priority: required
 Description: represents Elucubratus / iOS conflicts
+
+Package: gnupg
+Version: 2.2.3-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libgcrypt, libnpth, libassuan, libksba, libntbtls
+Filename: ./debs/gnupg_2.2.3-1_appletvos-arm64.deb
+Size: 1292490
+MD5sum: ba983db935f1ce7feee20c4b88df1c8a
+SHA1: c44e4f5c497815358d9d1d0813ea3204513f2929
+SHA256: 033265c5dce6dc2a7d36ae70b55b0a88b152a01257841ae4f0d6d06e7a54b0bc
+Section: Archiving
+Priority: required
+Homepage: http://www.gnupg.org/
+Description: newer encryption compatible with OpenPGP
+Name: GNU Privacy Guard
+
+Package: gnupg-doc
+Version: 2.2.3-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Depends: gnupg
+Filename: ./debs/gnupg-doc_2.2.3-1_appletvos-arm64.deb
+Size: 233456
+MD5sum: e3bbc577aa79eefff032915c390639f5
+SHA1: 9904530f09f3deda0a5e7ae948932f665662e547
+SHA256: c473374c22e7a2025b23e2161905f134124155aa683fcce3d114d095408e8bdb
+Section: Development
+Priority: optional
+Homepage: http://www.gnupg.org/
+Description: newer encryption compatible with OpenPGP
+Name: GNU Privacy Guard
 
 Package: io.github.ddv.class-dump-ios
 Version: 1.0.1-6
@@ -2208,6 +2866,129 @@ Priority: standard
 Description: OpenSSL Libraries for version 1.1.1
 Name: OpenSSL 1.1.1 Libraries
 
+Package: mobilesubstrate
+Version: 0.9.7100~b3
+Architecture: appletvos-arm64
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: com.saurik.substrate.safemode
+Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap
+Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
+Replaces: cycript (<= 0.9.594)
+Filename: ./debs/mobilesubstrate_0.9.7100~b3_appletvos-arm64.deb
+Size: 1293324
+MD5sum: f091de89574ebf1ed6387681d3c9296a
+SHA1: 54944758db39647659c8bbddb7396753c4d18f1e
+SHA256: e2f4edc3343e24e480fe9128034341b79b19bf4f4db7996050dfa1eaf85e017d
+Section: System
+Priority: optional
+Description: powerful code insertion platform
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/mobilesubstrate/
+Name: Cydia Substrate
+
+Package: mobilesubstrate
+Version: 0.9.7100~b6
+Architecture: appletvos-arm64
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: com.saurik.substrate.safemode
+Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap
+Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
+Replaces: cycript (<= 0.9.594)
+Filename: ./debs/mobilesubstrate_0.9.7100~b6_appletvos-arm64.deb
+Size: 1301814
+MD5sum: 155be330379dc1394a7b70235a2a42ad
+SHA1: 0430aa25f6bd1add94c9f5a01fc44197133d04ac
+SHA256: d4bebd334ac56c32cf85d1d895b166c127092621d57add40c4c76a8d98043e63
+Section: System
+Priority: optional
+Description: powerful code insertion platform
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/mobilesubstrate/
+Name: Cydia Substrate
+
+Package: mobilesubstrate
+Version: 0.9.7112
+Architecture: appletvos-arm64
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: com.saurik.substrate.safemode
+Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap
+Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
+Replaces: cycript (<= 0.9.594)
+Filename: ./debs/mobilesubstrate_0.9.7112_appletvos-arm64.deb
+Size: 1311468
+MD5sum: e93f5f8791a1fae9ca82ee26e6fbca2e
+SHA1: 24f763856114e423a9b9cb457f9378291c2191b1
+SHA256: 72050b5c3b61bc007ec63d1826fb8c6e062f53373f8feee12ff2253cd5fc0b19
+Section: System
+Priority: optional
+Description: powerful code insertion platform
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/mobilesubstrate/
+Name: Cydia Substrate
+
+Package: ncurses
+Version: 6.0-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/ncurses_6.0-1_appletvos-arm64.deb
+Size: 349674
+MD5sum: eadcf2e8c60fe0441eeb0f715e658c00
+SHA1: 8af0a7b96cea9d134b047ba44ab0097695a6e71c
+SHA256: 5b6749d6d0973d6b744755274617f462477e01b6fda474ff762209e10c27ede8
+Section: System
+Priority: required
+Homepage: https://www.gnu.org/software/ncurses/ncurses.html
+Description: feature-complete terminal library
+Name: New Curses
+
+Package: ncurses
+Version: 6.0-2
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/ncurses_6.0-2_appletvos-arm64.deb
+Size: 391596
+MD5sum: 85c1f252d49dc5f9f6d15be0ec6fce34
+SHA1: 0cb266a3de7cc53051a8bedd9eb017012c10eb4b
+SHA256: 872867bb91924550128652c233f21b7fd09ff52ea9e7b5249a805c4934feacf9
+Section: System
+Priority: required
+Homepage: https://www.gnu.org/software/ncurses/ncurses.html
+Description: feature-complete terminal library
+Name: New Curses
+
+Package: ncurses-dev
+Version: 6.0-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/ncurses-dev_6.0-1_appletvos-arm64.deb
+Size: 52732
+MD5sum: d574e5a0119211c1b38e71e8fe8c9bdb
+SHA1: a8f9f2540718036fa7410dd763425688a8c48309
+SHA256: 3837b952f8f74b1daf29aff599b93fc3f8a1f11b3c2ba493b06efb4596458249
+Section: Development
+Priority: optional
+Homepage: https://www.gnu.org/software/ncurses/ncurses.html
+Description: feature-complete terminal library
+Name: New Curses
+
+Package: ncurses-doc
+Version: 6.0-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/ncurses-doc_6.0-1_appletvos-arm64.deb
+Size: 148728
+MD5sum: 894fe2d2e88925b6cf7ff7b1397e6fef
+SHA1: d7622acfd3954c9d11d140940fbe0786d5c71675
+SHA256: d276591d240fa8aa4b964b56846c7e9389124f8d39928a5e65d33061821c1763
+Section: Development
+Priority: optional
+Homepage: https://www.gnu.org/software/ncurses/ncurses.html
+Description: feature-complete terminal library
+Name: New Curses
+
 Package: net.limneos.classdump-dyld
 Version: 1.1
 Architecture: appletvos-arm64
@@ -2273,6 +3054,78 @@ Tag: purpose::extension, role::developer
 Author: Elias Limneos <limneoselias@gmail.com>
 Dev: limneos
 Name: classdump-dyld
+
+Package: openssh
+Version: 7.6p1-4
+Architecture: appletvos-arm64
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl, cy+cpu.arm64
+Filename: ./debs/openssh_7.6p1-4_appletvos_arm64.deb
+Size: 532056
+MD5sum: cbf55f40babe97139801f23f3eeaeefc
+SHA1: ff89f9420745e2f0b605928c8a0884ababd28458
+SHA256: d958bd7112e946413a3020a73d887b1bcd41bc5a730d7a6c9dfa84b9dd433684
+Section: Networking
+Priority: important
+Description: secure remote access between machines
+Tag: purpose::daemon, purpose::console, role::enduser
+Depiction: https://cydia.saurik.com/info/openssh/
+Name: OpenSSH
+
+Package: openssh
+Version: 7.6p1-4
+Architecture: appletvos-arm64
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl, cy+cpu.arm64
+Filename: ./debs/openssh_7.6p1-4_appletvos-arm64.deb
+Size: 532208
+MD5sum: 99936e02ddf6db383cfa35e45aa1a42e
+SHA1: 17f1ca6df5a2b2dbbe5bf5b8a79108b421f2dd8b
+SHA256: ed94495f17834e3ba9f8261dbc8231d4beec34bfe6deb68ab50ca3d5edf9f9eb
+Section: Networking
+Priority: important
+Description: secure remote access between machines
+Tag: purpose::daemon, purpose::console, role::enduser
+Depiction: https://cydia.saurik.com/info/openssh/
+Name: OpenSSH
+
+Package: openssh
+Version: 7.6p1-5
+Architecture: appletvos-arm64
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl, cy+cpu.arm64
+Filename: ./debs/openssh_7.6p1-5_appletvos-arm64.deb
+Size: 531856
+MD5sum: 29f30ec3cbcbffccd72d39e156ce9c8e
+SHA1: 5d0260b2b585c53f24a9bc94b6c3f4af3644b3d5
+SHA256: 6bb3c3ce81a05650763efec5a606dd43f6317f734db55c92427d3aa06cb2d790
+Section: Networking
+Priority: important
+Description: secure remote access between machines
+Tag: purpose::daemon, purpose::console, role::enduser
+Depiction: https://cydia.saurik.com/info/openssh/
+Name: OpenSSH
+
+Package: openssh
+Version: 7.6p1-6
+Architecture: appletvos-arm64
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl, cy+cpu.arm64
+Filename: ./debs/openssh_7.6p1-6_appletvos-arm64.deb
+Size: 542524
+MD5sum: 9f37a1ba99acc02824beb90c0db1e356
+SHA1: f822ecdefda641463a516ef8d32a0d84ced0f8a1
+SHA256: 177949c52f5377f84a278888a6283492d4aeef7fc83c60eda621e0d9178727a7
+Section: Networking
+Priority: important
+Description: secure remote access between machines
+Tag: purpose::daemon, purpose::console, role::enduser
+Depiction: https://cydia.saurik.com/info/openssh/
+Name: OpenSSH
 
 Package: openssh
 Version: 8.3-1
@@ -2456,6 +3309,84 @@ Description: secure shell (SSH) server, for secure access from remote machines
 Depiction: http://cydia.saurik.com/info/openssh/
 Name: OpenSSH Server Binaries
 
+Package: openssl
+Version: 1.0.2n
+Architecture: appletvos-arm64
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64
+Filename: ./debs/openssl_1.0.2n_appletvos-arm64.deb
+Size: 1422148
+MD5sum: 29a49f23c1205f974d1251fa32a3956b
+SHA1: 1c762a1c2047de42efb6487da712a6be13878d54
+SHA256: e25b2a9c11f79f106ab94619c36a3fec740a439348074a683ab40e4f9fe8c5c5
+Section: Security
+Priority: standard
+Description: SSL library and cryptographic tools
+Name: OpenSSL
+
+Package: openssl
+Version: 1.1.0-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/openssl_1.1.0-1_appletvos-arm64.deb
+Size: 3581390
+MD5sum: 9dc8fd5fd2d5eccc29dc648664c5f92c
+SHA1: 69b78f049296fdd85cf1f9f6e9da9f9b65c26a45
+SHA256: 33ae6b97eb994e270e487f463b70b549484b53ea3a025dbeedba639bc8d53687
+Section: Security
+Priority: standard
+Homepage: https://www.openssl.org
+Description: SSL library and cryptographic tools
+Name: OpenSSL
+
+Package: openssl
+Version: 1.1.0-2
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Pre-Depends: dpkg (>= 1.18.23-2)
+Filename: ./debs/openssl_1.1.0-2_appletvos-arm64.deb
+Size: 5082948
+MD5sum: 70a202a71e73da6667e075d09768dbf6
+SHA1: dceec71960ce23dc1dc686bad3eb9656f5a175eb
+SHA256: f00312ce4b2ee311011d6e0b7b7707ae25fe3316464cd6be39075be3048ad5a2
+Section: Security
+Priority: standard
+Homepage: https://www.openssl.org
+Description: SSL library and cryptographic tools
+Name: OpenSSL
+
+Package: openssl-dev
+Version: 1.1.0-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/openssl-dev_1.1.0-1_appletvos-arm64.deb
+Size: 178176
+MD5sum: 1a94092f19a73c0b974dc1b6018071e4
+SHA1: 4e905cfb9c4e688e0a4d6183f64883a41b10bfe8
+SHA256: 7b9bcb513d8d7663ebf1daaaa74da63988a513ab62edefcecc911db226007487
+Section: Development
+Priority: optional
+Homepage: https://www.openssl.org
+Description: SSL library and cryptographic tools
+Name: OpenSSL
+
+Package: openssl-doc
+Version: 1.1.0-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/openssl-doc_1.1.0-1_appletvos-arm64.deb
+Size: 658620
+MD5sum: d16d7ea931c177b5cb45a49cadef9f8b
+SHA1: 3428742d8c6f8322d59d740b1911f1c1821037b9
+SHA256: 1cae4ac9552040f842f1b9adc1fd9ae3c903773b2ef6aa9d8ed12fe3ddb483fd
+Section: Development
+Priority: optional
+Homepage: https://www.openssl.org
+Description: SSL library and cryptographic tools
+Name: OpenSSL
+
 Package: preferenceloader
 Version: 1.1-3
 Architecture: appletvos-arm64
@@ -2488,6 +3419,77 @@ Description: load preferences in style, based on Dustin Howett's iOS version, no
 Author: Kevin Bradley & Sam Bingner
 Name: preferenceloader
 
+Package: readline
+Version: 7.0-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/readline_7.0-1_appletvos-arm64.deb
+Size: 117730
+MD5sum: 64c01054344a56f4e7de438d51a79261
+SHA1: 38b84744f95a7307117fcb808cb9fd7ec8610a55
+SHA256: f917b2235517b3ac33ce3f3ce2f2bf755cc7552eb8148bdaf0b41421b0a17646
+Section: Development
+Priority: required
+Homepage: https://tiswww.cwru.edu/php/chet/readline/rltop.html
+Description: command-line history management
+
+Package: readline-dev
+Version: 7.0-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/readline-dev_7.0-1_appletvos-arm64.deb
+Size: 16346
+MD5sum: 5c5e7d67c2d4dc67608076fad3df93b2
+SHA1: 8ccec877d605713852158019d94f9e3aca31f379
+SHA256: b77e7451406237030348dede406a21c1b9c0009f49c51fbe373033a1aadb5579
+Section: Development
+Priority: optional
+Homepage: https://tiswww.cwru.edu/php/chet/readline/rltop.html
+Description: command-line history management
+
+Package: readline-doc
+Version: 7.0-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/readline-doc_7.0-1_appletvos-arm64.deb
+Size: 100488
+MD5sum: 5baeb1962f4dddf46f3dcaefe3d56117
+SHA1: 4a32770d6e1c0786fa7b7f2d82006c396b7f4d63
+SHA256: f0908ac194582c61e0694b5e73900a418bc455fa83de7ebfa2f581c3e8b7945b
+Section: Development
+Priority: optional
+Homepage: https://tiswww.cwru.edu/php/chet/readline/rltop.html
+Description: command-line history management
+
+Package: sed
+Version: 4.4-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/sed_4.4-1_appletvos-arm64.deb
+Size: 86996
+MD5sum: 51efd48afa1c39ecdd578e1461cabf71
+SHA1: 0f26943ab0311f94e58b3382de3d9afcf0406f90
+SHA256: 29b3bf4a41c2ab650c3feafd68693554355e37acd2d46a25c271876f9de9be3d
+Section: Utilities
+Priority: important
+Homepage: http://www.gnu.org/software/sed/
+Description: edits streams of text using patterns
+
+Package: sed-doc
+Version: 4.4-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/sed-doc_4.4-1_appletvos-arm64.deb
+Size: 49606
+MD5sum: 80632ec44be52798fb8e7b6ccbe2d914
+SHA1: 0dd1fdbc21155241ad58f2fdec6437aa31434341
+SHA256: 56c34b5fcb07e44525ef86dc3301260afcd7a4a02d2d5d8e2719a3033703c720
+Section: Development
+Priority: optional
+Homepage: http://www.gnu.org/software/sed/
+Description: edits streams of text using patterns
+
 Package: system-cmds
 Version: 790.30.1-2
 Architecture: appletvos-arm64
@@ -2507,6 +3509,23 @@ Priority: required
 Description: iostat, login, passwd, sync, sysctl
 
 Package: tar
+Version: 1.30-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Depends: bzip2, xz
+Filename: ./debs/tar_1.30-1_appletvos-arm64.deb
+Size: 244192
+MD5sum: bbd325a10812c880223e6a4bfa771c85
+SHA1: 24f023de979a144f27e7fe02718eaeaae1b31ed8
+SHA256: b527f05817a170aa89d36ef26ec51bef29370a0ba3c2772bfd2883564512bd8b
+Section: Archiving
+Priority: required
+Homepage: http://www.gnu.org/software/tar/
+Description: tool for making tape archives
+Tag: purpose::console, role::hacker
+Name: Tape Archive
+
+Package: tar
 Version: 1.33-1
 Architecture: appletvos-arm64
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
@@ -2524,6 +3543,23 @@ Homepage: http://www.gnu.org/software/tar/
 Description: tool for making tape archives
 Name: Tape Archive
 
+Package: tar-doc
+Version: 1.30-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Depends: tar
+Filename: ./debs/tar-doc_1.30-1_appletvos-arm64.deb
+Size: 161434
+MD5sum: 4cc35b5c2ad6ff9e510f4173a3980399
+SHA1: fef05d312fb76acf567c22749e6df3cad4a6f31e
+SHA256: 73caf2c17b2770e7446ec4a3fd6c9b9d8d9e35b332ed3662924b2b8435c9faad
+Section: Development
+Priority: optional
+Homepage: http://www.gnu.org/software/tar/
+Description: tool for making tape archives
+Tag: purpose::console, role::hacker
+Name: Tape Archive
+
 Package: uikittools
 Version: 2.0.1-11
 Architecture: appletvos-arm64
@@ -2538,6 +3574,36 @@ Description: Command line access for UIKit/LaunchServices/CoreServices
 Tag: purpose::console, role::hacker
 Author: CoolStar <coolstarorganization@gmail.com>
 Name: UIKit Tools
+
+Package: unzip
+Version: 6.0
+Architecture: appletvos-arm64
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: cy+cpu.arm64
+Filename: ./debs/unzip_6.0_appletvos-arm64.deb
+Size: 74282
+MD5sum: aee3fd4cf5afdaa4422140ac20c2fc28
+SHA1: 3a05d16ff6c7ce652155c1166dae3a2bc4eb95fd
+SHA256: e5a7627f739036f9ae2f405b4f5fc4db4cf11fc1332e823df4e59d4f9ec36c87
+Section: Archiving
+Priority: important
+Description: de-compesses files in zip format
+Tag: purpose::console, role::hacker
+
+Package: unzip
+Version: 6.0-1
+Architecture: appletvos-arm64
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: cy+cpu.arm64
+Filename: ./debs/unzip_6.0-1_appletvos-arm64.deb
+Size: 75134
+MD5sum: a78a0265617e880475fddc7803ec667d
+SHA1: 8a8e66025764010846b9ec2c74902f755a36253f
+SHA256: ddfbfbc38450dca5a37970a7774d547cb3597cf092e8d69eb7e3e53f7ba97ec3
+Section: Archiving
+Priority: important
+Description: de-compesses files in zip format
+Tag: purpose::console, role::hacker
 
 Package: us.diatr.wiivamptv
 Version: 1.0b3
@@ -2588,4 +3654,97 @@ Priority: important
 Description: universally unique identifiers
 Tag: purpose::library, purpose::console, role::developer
 Name: UUID Generator
+
+Package: xz
+Version: 5.2.3-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Depends: grep, sed
+Filename: ./debs/xz_5.2.3-1_appletvos-arm64.deb
+Size: 108084
+MD5sum: b064a534a64afad7b3145e1d44e33acf
+SHA1: 635bf25b9b7b0ab238e918a67c9184d20c5982ca
+SHA256: 0fde6d632e1618bc7b76ef87ec8b10a7170fc94bbeda153bef0bbf4ffb867f97
+Section: Archiving
+Priority: important
+Homepage: http://tukaani.org/xz/
+Description: XZ Utils are the successor to LZMA Utils
+Name: XZ Utils
+
+Package: xz-dev
+Version: 5.2.3-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Depends: xz
+Filename: ./debs/xz-dev_5.2.3-1_appletvos-arm64.deb
+Size: 35444
+MD5sum: 9c324385dd35059a9dd0158402125fe0
+SHA1: d3115f4a4b82877cb516cae84ef4a9d6ec308d85
+SHA256: 6d6ebe4635817d80fda2a30a8ccf4314cd5ac0a3d574963d64a2ab9f18e541bb
+Section: Development
+Priority: optional
+Homepage: http://tukaani.org/xz/
+Description: XZ Utils are the successor to LZMA Utils
+Name: XZ Utils
+
+Package: xz-doc
+Version: 5.2.3-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Depends: xz
+Filename: ./debs/xz-doc_5.2.3-1_appletvos-arm64.deb
+Size: 63408
+MD5sum: 7e3c7489315e740f1fc07421eec3dab7
+SHA1: 5b44085aa1c856449a181a6063fa85fbe18b2c37
+SHA256: ef07bd1cfdc4600587142204a98d086cbfc74a0adb278e46e36881f742a95041
+Section: Development
+Priority: optional
+Homepage: http://tukaani.org/xz/
+Description: XZ Utils are the successor to LZMA Utils
+Name: XZ Utils
+
+Package: zlib
+Version: 1.2.11-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/zlib_1.2.11-1_appletvos-arm64.deb
+Size: 38924
+MD5sum: 1c68244679f332625f85137b0130f527
+SHA1: 284e45acfc892e5eb879b91bb815b71eb1653ea2
+SHA256: b4ffd53387968379df278249591dba1305471eb07b44fb60d2f3d5e815d85af9
+Section: Archiving
+Priority: important
+Homepage: http://zlib.net/
+Description: Massively spiffy yet delicately unobtrusive compression library
+Name: zlib
+
+Package: zlib-dev
+Version: 1.2.11-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/zlib-dev_1.2.11-1_appletvos-arm64.deb
+Size: 27632
+MD5sum: 4e0f3a448b7ceabbac81ec976a904a7c
+SHA1: c743a0cf56838b9b29ca088cd47381f0c506dbb1
+SHA256: 3bb3c8b32830c3d86b55a22fcabc39e8085ec9df695881a77cd22223d59e3377
+Section: Development
+Priority: optional
+Homepage: http://zlib.net/
+Description: Massively spiffy yet delicately unobtrusive compression library
+Name: zlib
+
+Package: zlib-doc
+Version: 1.2.11-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/zlib-doc_1.2.11-1_appletvos-arm64.deb
+Size: 2888
+MD5sum: e269f4aa74e6efbcba531425eef69267
+SHA1: 23f0c72395b3dbebfd4ce1c7b49a4b4440f1a6fa
+SHA256: 3686aab5b9eb76777640c1c7da6263c4c74d4a2730d77612b4ef870454756bf2
+Section: Development
+Priority: optional
+Homepage: http://zlib.net/
+Description: Massively spiffy yet delicately unobtrusive compression library
+Name: zlib
 
