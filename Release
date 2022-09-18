@@ -5,6 +5,7 @@ Version: 1.0
 Codename: ZenZeq
 Architectures: darwin-arm64, appletvos-arm64
 Components: main
+Icon: https://zenzeq.github.io/tv/icon.png
 Description: A temporary repo for all nitoTV essentials
 MD5Sum:
  4048b65c3dc69d697fc4ae4801f576f7 133792 Packages
