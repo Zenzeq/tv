@@ -226,13 +226,14 @@ Maintainer: XsF1re
 Installed-Size: 68
 Depends: mobilesubstrate
 Filename: ./debs/mcpatchtv.deb
-Size: 3056
-MD5sum: 6cf6d42cad65712c40d7a23aa0f60b87
-SHA1: ff03aba47430b260c5d1e7fbe1c6dd7faa3c1ba6
-SHA256: 154779067d85cb96ea724dca58244ce825caea3f4fabb0971b468e4779bb35c1
+Size: 3096
+MD5sum: 7c8b3f70ddc77bd6ebcca749bf017b46
+SHA1: b5c10a91d8e1aec370a0b7bdc702d0ce404a89a2
+SHA256: f659f63b148b9211d183f4dd713f96df464d48a10e836c71d25af58597dab62b
 Section: Tweaks
 Description: Allows installing other device beta profiles for the Apple TV. Compatible with tvOS 13.x
 Author: XsF1re
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: MCPatchTV
 
 Package: com.aerickson.tvpong
@@ -242,13 +243,14 @@ Maintainer: Andrew Erickson
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/com.aerickson.tvpong-1.0-1_appletvos-arm64.deb
-Size: 1374446
-MD5sum: 1d55871183087e31cc2ef9be5266880d
-SHA1: ed5aa1fc9417d1ca3142e5878a3f5bdaa97d1650
-SHA256: 313a25e63304d1391cf4dd8e12181e0b65634df5fd8df446ce27a9098a3ec436
+Size: 1375140
+MD5sum: 0298db86ee3a10fd48997940ec48466c
+SHA1: e7588d33fa81d85af1143573e386d00707ca3806
+SHA256: 8a9c16c848e8acda8a9bc0d4552def26ef4aaea92edecc6f9bea3ec2b29ee9c7
 Section: Game
 Description: Pong for tvOS
 Author: Andrew Erickson
+Icon: https://zenzeq.github.io/tv/game.png
 Name: Pong
 
 Package: com.aerickson.tvpong
@@ -258,13 +260,14 @@ Maintainer: Andrew Erickson
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/com.aerickson.tvpong-1.0-2_appletvos-arm64.deb
-Size: 1369858
-MD5sum: c1b0c815e4b47979eee0c50450072811
-SHA1: f773bf62b6ac565f7431ec9f8f2ca6810c6803a7
-SHA256: 57183f072133f62cd9daf255254052b5228abcf0264e8e4bd28a48b64e05c192
+Size: 1370832
+MD5sum: a180ae6c7d41316ec4e77142deb07b30
+SHA1: 3e726f50ba0adf493575236e6f5bd9d64ccab961
+SHA256: 38b9eaf3e4fac87d8e3293d0e711d6b1a39b300fc8c850050da60af6741e9b1f
 Section: Game
 Description: Pong for tvOS
 Author: Andrew Erickson
+Icon: https://zenzeq.github.io/tv/game.png
 Name: Pong
 
 Package: com.bingner.snappy
@@ -274,14 +277,15 @@ Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 160
 Depends: firmware (>= 10.3)
 Filename: ./debs/com.bingner.snappy_1.3.0_appletvos-arm64.deb
-Size: 9070
-MD5sum: 457acf802c58ba230fbe35f1f930b80d
-SHA1: 964f86013a991375405a3c5700fc36077dbe07a3
-SHA256: 6e8f2e72e0e180dfe87e270c5a1afbd7dfe838d566da0bed68f1a9e3f6d34bd4
+Size: 9252
+MD5sum: 3e663846803713c04618663e830123cc
+SHA1: bd55ee803a4bff92690fdae7b0fa3f350e51d509
+SHA256: e9cce6b9298c1c8a9b92d75187cbf34a226d847aa58e00592db26c5bab3db308
 Section: System
 Description: A Tool for APFS Snapshot Management
 Tag: role::hacker
 Author: Sam Bingner <snappy@bingner.com>
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Snappy
 
 Package: com.cokepokes.tvappstoreplus
@@ -290,14 +294,15 @@ Architecture: appletvos-arm64
 Maintainer: CokePokes
 Depends: firmware (>= 13.0), mobilesubstrate
 Filename: ./debs/com.cokepokes.tvappstoreplus_0.1-2_appletvos-arm64.deb
-Size: 69340
-MD5sum: 4a4336ea775f67a201f6b898e1a70719
-SHA1: 5a77bb0178fd2f1cc152a04ebc6c6be8176d7bfe
-SHA256: 461472b8a98b34221d1d28499e98c101da7399e811234fd7114116336632c66e
+Size: 48892
+MD5sum: 31e52cf41de2565b640692e86ea53a27
+SHA1: 66b6322e454cdf07ee8324422083d827e6b0d92a
+SHA256: b4ff7778da96cb296bca6d909abc1d6030a37c5dfe4bc41b43e9bea6df697d6a
 Section: Tweaks
 Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore. Press Play/Pause on GET/OPEN/UPDATE buttons in the AppStore to show options!
 Author: CokePokes
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: AppStore++
 
 Package: com.ex.substitute
@@ -372,14 +377,15 @@ Maintainer: Nate Murray
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/com.fullstackio.flappybird_1.0-1_appletvos-arm64.deb
-Size: 1741736
-MD5sum: 2ba71f5b632c2d21d909c09bf79eea13
-SHA1: e35d5ccde5097a7537c16305afc66931724bc55c
-SHA256: a03de36bfd55537d8cfdb4a2b364cf363caf21e1230c08a6a83d083e99f51dd9
+Size: 1742604
+MD5sum: e6538156464ec1baf0a9c0fce369368a
+SHA1: 52364ad10b7c4524d9b40e0bc9d24a640d9303ca
+SHA256: 2e5c3a30f835175b0874621f73971a1b553f7ab82cd2756f89383283b5968baf
 Section: Game
 Priority: Extra
 Description: flappy bird
 Author: Nate Murray
+Icon: https://zenzeq.github.io/tv/game.png
 Name: flappy bird
 
 Package: com.fullstackio.flappybird
@@ -389,14 +395,15 @@ Maintainer: Nate Murray
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.fullstackio.flappybird_1.0-2_appletvos-arm64.deb
-Size: 1741658
-MD5sum: 15f8f49d04fcb0dd7fb777da06de9a5f
-SHA1: e446e77424bb228aa089f8a84d0f4b415bbf1967
-SHA256: 940a0ffcee2b7e7f81cd4f53e201c3e1cbe91476d6e9791a18e96bb7afd5a7a0
+Size: 1742528
+MD5sum: 580ac55c4e9e6a425ec8bc6dd2c34227
+SHA1: ab860a08cba22d34f7792fc35eb512d0ac2b20ab
+SHA256: 692b07d28d8aabbadfbbd4bf60c812b40d942c31f01e907528b2072f4dd5d42f
 Section: Game
 Priority: Extra
 Description: flappy bird
 Author: Nate Murray
+Icon: https://zenzeq.github.io/tv/game.png
 Name: flappy bird
 
 Package: com.level3tjg.bfdecrypt
@@ -405,14 +412,15 @@ Architecture: appletvos-arm64
 Maintainer: level3tjg <tjaygrantham@gmail.com>
 Depends: firmware(>=11.0), preferenceloader, com.nito.breezy (>=1.4-9)
 Filename: ./debs/com.level3tjg.bfdecrypt_1.3.2-3_appletvos-arm64.deb
-Size: 72896
-MD5sum: 03774bb946002833d21e0e51774fcb32
-SHA1: 54bc77ab82422f480922a4dff058c9795136989e
-SHA256: ca4613b28bdd176aef182bfbde02afef79ad1a0178c8943906232082d1c0a935
+Size: 73136
+MD5sum: 0e63f6a9637ef5b90d8c92dc3f096de4
+SHA1: 766e61a7258bb6d0d20f6a89f9d9790b87221f76
+SHA256: 0b85b5dcd8c90b45722f51fd38d9f7849149bdb03094adbaf262d25fd51e423d
 Section: System
 Description: bfdecrypt for iOS 11 to 12.1.2
 Author: level3tjg <tjaygrantham@gmail.com>
 Depiction: https://level3tjg.xyz/repo/depictions/?p=com.level3tjg.bfdecrypt
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: bfdecrypt
 
 Package: com.level3tjg.bfdecrypt
@@ -421,14 +429,15 @@ Architecture: appletvos-arm64
 Maintainer: level3tjg <tjaygrantham@gmail.com>
 Depends: firmware(>=11.0), preferenceloader, com.nito.breezy (>=1.4-9), applist
 Filename: ./debs/com.level3tjg.bfdecrypt_1.3.2-4_appletvos-arm64.deb
-Size: 55730
-MD5sum: 746c4ea0828a73025fb6dbaaa7f96cf1
-SHA1: 457becf6f3ea259566ae2ba029108c4b04e94942
-SHA256: 452013fd4aa61f1ecec7866dcef2257a429c0b666122ffc6a69e56308e35905f
+Size: 55860
+MD5sum: 13b1546a109982239ae91c2af2bdf41c
+SHA1: cb5d6a8cd5f00790eed49a6c173ce320cf9d52c8
+SHA256: 61195dda6f8392f41e7188ab159751556acfc50017abba20bd781ee4803bda54
 Section: System
 Description: bfdecrypt for iOS 11 to 12.1.2
 Author: level3tjg <tjaygrantham@gmail.com>
 Depiction: https://level3tjg.xyz/repo/depictions/?p=com.level3tjg.bfdecrypt
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: bfdecrypt
 
 Package: com.level3tjg.bfdecrypt
@@ -437,14 +446,15 @@ Architecture: appletvos-arm64
 Maintainer: level3tjg <tjaygrantham@gmail.com>
 Depends: firmware(>=11.0), preferenceloader, com.nito.breezy (>=1.4-9), applist
 Filename: ./debs/com.level3tjg.bfdecrypt_1.3.2-5_appletvos-arm64.deb
-Size: 58542
-MD5sum: 2ce76614196ffa0d6f88936f166cf18c
-SHA1: cacd2555e624aaa3302e3a4a7d51ff9d9994d741
-SHA256: ae7e644e8475021a57d34eb4c301d3cb5f20848c10934fadfa451f3e25cb36e5
+Size: 58324
+MD5sum: f8b145656975da48572901af9f8bcaa7
+SHA1: 076c2788820c1409cf1db91ded58ae43fe66a263
+SHA256: ef907f5c672e38719e6c256795897a2c3e72cd58aac91d3b338d41e77fab5f2f
 Section: System
 Description: bfdecrypt for iOS 11 to 12.1.2
 Author: level3tjg <tjaygrantham@gmail.com>
 Depiction: https://level3tjg.xyz/repo/depictions/?p=com.level3tjg.bfdecrypt
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: bfdecrypt
 
 Package: com.level3tjg.bfdecrypt
@@ -453,14 +463,15 @@ Architecture: appletvos-arm64
 Maintainer: level3tjg <tjaygrantham@gmail.com>
 Depends: firmware(>=11.0), preferenceloader, com.nito.breezy (>=1.4-9), applist
 Filename: ./debs/com.level3tjg.bfdecrypt_1.3.2-7_appletvos-arm64.deb
-Size: 58204
-MD5sum: 588c39315d05ed224a7af01c4f4ff190
-SHA1: 556e0c93060d8370f68c44528dcf26411128882f
-SHA256: ec38b24757bd4a6b38338583cdf77ac49ab73264b06f892b44516ef7b3b0717b
+Size: 58348
+MD5sum: 3514914b8717681cd9a46e7c4ab26adb
+SHA1: 2ec7b81ce4879109f667fedfcaeb77802e5134db
+SHA256: 66e71c3253bc76a1c77cdcbb47aedd6040be19d69d625d0b4a6db82e1d59f402
 Section: System
 Description: bfdecrypt for iOS 11 to 14+
 Author: level3tjg <tjaygrantham@gmail.com>
 Depiction: https://level3tjg.xyz/repo/depictions/?p=com.level3tjg.bfdecrypt
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: bfdecrypt
 
 Package: com.level3tjg.bfdecrypt
@@ -469,14 +480,15 @@ Architecture: appletvos-arm64
 Maintainer: level3tjg <tjaygrantham@gmail.com>
 Depends: firmware(>=11.0), preferenceloader (>=1.5-15), com.nito.breezy (>=1.4-9), applist (>=1.3-2)
 Filename: ./debs/com.level3tjg.bfdecrypt_1.3.2-8_appletvos-arm64.deb
-Size: 58184
-MD5sum: 7cbd6d64f5c4aa90f7c8995bdb64d222
-SHA1: 3d63250f157e073be057fedbc3fdef23a2b476c5
-SHA256: 68168a74e3c7970b9360e9a78c0b9e5bbeb1f0b9b08cbabfb109d8a6d03f3376
+Size: 58292
+MD5sum: a44c73ab8d89c52ae0fcd07fa0d894fe
+SHA1: adf96605cd7e372eaa10229838e5644e41e25d30
+SHA256: 799a0d37aa6139c6842b5f08b955a0a09092dc9d253e9d6c857acb954649e0cd
 Section: System
 Description: bfdecrypt for iOS 11 to 14+
 Author: level3tjg <tjaygrantham@gmail.com>
 Depiction: https://level3tjg.xyz/repo/depictions/?p=com.level3tjg.bfdecrypt
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: bfdecrypt
 
 Package: com.matchstic.reprovision
@@ -523,14 +535,15 @@ Architecture: appletvos-arm64
 Maintainer: Jonathan Levin
 Pre-Depends: cy+model.appletv
 Filename: ./debs/com.morpheus.binpack_1.0-8_appletvos-arm64.deb
-Size: 2094384
-MD5sum: deb2cc5d911847e74dea4a960d319a59
-SHA1: 502e273ea80c4c80e8e05d6a82454fe69fb4c366
-SHA256: 99c9b1a3f2444b3abe04f0f3a38b4e7d1184d8ce5fbf6d8c7785b29edcf78191
+Size: 2093148
+MD5sum: 15b79cc8c6ae2b905c3918d4fbefad1f
+SHA1: b26e04cb32e5a32fd9633ae092e7d34c04c2edc1
+SHA256: bbe19b175f3102b770e7ae24e3f727fcdc1a6186ef19d12c149af1c17a161a6e
 Section: Utilities
 Priority: important
 Description: various utilities compiled by Jonathan Levin.
 Depiction: http://newosxbook.com/tools/iOSBinaries.html
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Morpheus Binary Pack
 
 Package: com.morpheus.binpack
@@ -539,14 +552,15 @@ Architecture: appletvos-arm64
 Maintainer: Jonathan Levin
 Pre-Depends: cy+model.appletv
 Filename: ./debs/com.morpheus.binpack_1.0-9_appletvos-arm64.deb
-Size: 2093244
-MD5sum: 09d6a3701f6bb01050fbc1e4e4e5660c
-SHA1: 897b88caf53a9cdf6c4c7d2b77ffbc9a300b9345
-SHA256: 5c6ad221141ddc38daac7e9d8645118702a7b837bf9651a90f8a7eaa5c536018
+Size: 2093104
+MD5sum: 5b727976b97a65e97a878e5b78f78829
+SHA1: 543f548d6744a33420ed7e01417797f9f18d6c72
+SHA256: f254982c0eb6812ee8a3a8f2207360eb5d676e0a5bfeb8d444778c15deb9235e
 Section: Utilities
 Priority: important
 Description: various utilities compiled by Jonathan Levin.
 Depiction: http://newosxbook.com/tools/iOSBinaries.html
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Morpheus Binary Pack
 
 Package: com.nito.airmagic
@@ -589,13 +603,14 @@ Installed-Size: 344
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.1-27)
 Filename: ./debs/com.nito.airphoto_1.0-22_appletvos-arm64.deb
-Size: 105400
-MD5sum: cdd07c4ad5aba4c6ec89dcd7d71ca993
-SHA1: 3d74334720ec24c867d90f2970c71bd5be3bb5c6
-SHA256: 2ef9e2612a9498180b33cb49a81520142cab6ddfbc43f7e14fc0bdcbabede60f
+Size: 105360
+MD5sum: c7997c8879b99efd553b7c0e94644e5f
+SHA1: 7aa7cb713abf2ce66cc8aa81c842caf9aad0c8ca
+SHA256: 7ab3906ffb1774f07d852ac1d4774cdc72b96e2966154988ce7234adc4494239
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: AirPhoto
 
 Package: com.nito.airphoto
@@ -606,13 +621,14 @@ Installed-Size: 1660
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.2-1)
 Filename: ./debs/com.nito.airphoto_1.1-1_appletvos-arm64.deb
-Size: 885200
-MD5sum: 8e2f633af4bc10166a30f060f08e10ee
-SHA1: 52a3b7e3debbcbc532105df5c29a0658ae694b5d
-SHA256: b625ba5d3dd1183f271935ec8bef058e5c6da3fb8c571b22c0e1bea72e27c8bd
+Size: 885220
+MD5sum: 4b68b14f935e1ae62a45576c474d496e
+SHA1: 3f7a63fa7e8f6344372dadeb63a7c3abe2079fc0
+SHA256: ca529b182d2a4d77b222d786172831cee882a58d7a3f6c4c09f3fae940923ec9
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: AirPhoto
 
 Package: com.nito.airphoto
@@ -623,13 +639,14 @@ Installed-Size: 1660
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.2-1)
 Filename: ./debs/com.nito.airphoto_1.2-27_appletvos-arm64.deb
-Size: 893264
-MD5sum: cfe91ca58f957b1ee9bbfeb0c0c9ef5a
-SHA1: 6a3a11b20a745850f8aa49455cf31905a3a84b18
-SHA256: fc9966c6e7e66fcdbc5d38bd689da534b1eaf3fe2199121bdce7906bb6bb8b13
+Size: 893136
+MD5sum: e7ca2c976ba381b216db956f46fe3d97
+SHA1: 589af6775243e3f52bcb33cdd25938f65d0e7df5
+SHA256: 28dc8f65dbf31867ef90cfaf535de0fc436707513488f365f832e82626446c36
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: AirPhoto
 
 Package: com.nito.airphoto
@@ -640,13 +657,14 @@ Installed-Size: 1652
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.2-1)
 Filename: ./debs/com.nito.airphoto_1.3-18_appletvos-arm64.deb
-Size: 884516
-MD5sum: ef095ce4f8a022015c14134cf29b5dbd
-SHA1: 98ab60184d26ba97ae34dc3fd38c291c47164bba
-SHA256: 264e84f2c1dd05c048dc2e0fd7e06a934a682efac497753661136f74eff883e4
+Size: 884468
+MD5sum: 7b75b2d28191887538f8a3ab16430cc2
+SHA1: d3e6c102b34b450ff458e42ad627599b00213116
+SHA256: b1c0ea309a08035133d492aa4557b9dfe2e199b7413201039c766c428e2e06e2
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: AirPhoto
 
 Package: com.nito.airphoto
@@ -657,13 +675,14 @@ Installed-Size: 1648
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.breezy (>= 2.2-1)
 Filename: ./debs/com.nito.airphoto_1.3-19_appletvos-arm64.deb
-Size: 886828
-MD5sum: df1d4cb68845f6b7991a67d009da2839
-SHA1: a323fe8f1a1fb09fa14c891a76103352a654eb80
-SHA256: 9ea8ec307d8131c0ad47f0ad7699a4b6005dd84260a6ab5b45b7f44831e1f703
+Size: 886968
+MD5sum: ea083e2b412e1a70b926b2abfb795dbf
+SHA1: 2accfcf4e546c9e6f00575697833c479890451d2
+SHA256: 9c09a5b189555316c19256a795366a15e499a662677399698897050c57cf4879
 Section: Tweaks
 Description: View AirDropped photos utilizing breezy
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: AirPhoto
 
 Package: com.nito.bluetooth-control
@@ -673,13 +692,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 120
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0), com.nito.tvsettings-link
 Filename: ./debs/com.nito.bluetooth-control_1.0-3_appletvos-arm64.deb
-Size: 48676
-MD5sum: f128159a740c03f66cbc41f694535b67
-SHA1: d414644f640f2d5a127bf7391e522357db0f759e
-SHA256: 8aab1febb4a7c5a781e3f092ca53e99aa7cc2108fd50305e511da71716e0b9d0
+Size: 48700
+MD5sum: 2c60d21a9a33834117b005f051b37488
+SHA1: 7bb00104731253450e9af8ee69874162ee0554c0
+SHA256: cd1c5bca556628f35a2a2ea653e05f3d60a3a9f53d1b5aa267ec97c8ca057111
 Section: Tweaks
 Description: Access Bluetooth pairing view through a control center widget!
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Bluetooth Control
 
 Package: com.nito.bluetooth-control
@@ -689,13 +709,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 120
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0), com.nito.tvsettings-link
 Filename: ./debs/com.nito.bluetooth-control_1.0-5_appletvos-arm64.deb
-Size: 48668
-MD5sum: df320da3bb24993d1b0a043409dcd469
-SHA1: 9f511a36f1a985630601ed3412a142b02dc7718c
-SHA256: 2ce9d144260434d8988d7e51ec3194f14a9f9ed26bfb0f4cd828347aa09b935b
+Size: 48708
+MD5sum: 31e8db42e1f42688e06c66e18a921b60
+SHA1: 93330fecf429c2b3c10a9c3feb8ebfae0b5758db
+SHA256: 7d04c9448bd06111bc76acad8de4a1f5154d7793eb36be40eee40f7704af287e
 Section: Tweaks
 Description: Access Bluetooth pairing view through a control center widget!
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Bluetooth Control
 
 Package: com.nito.bluetooth-control
@@ -705,13 +726,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 120
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0), com.nito.tvsettings-link
 Filename: ./debs/com.nito.bluetooth-control_1.0-6_appletvos-arm64.deb
-Size: 48680
-MD5sum: 7c47b29b3bbb1426d2f4afd216e2f237
-SHA1: 14c05c7e7f6685eb4b4f884fa55947cdaba5e748
-SHA256: e2499da84169a07152cc7728e308616c8b5916beb371f3e08eecee5c62274e26
+Size: 48716
+MD5sum: 817141181bc6cbcd181dfa33a1da2699
+SHA1: 31df1f9e61ac962d242bb2fd13e5768f82175a8d
+SHA256: 1c7e289192e6acbf081d52b56cd1e71130465194a2899b8b0d40331bb183eafc
 Section: Tweaks
 Description: Access Bluetooth pairing view through a control center widget!
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Bluetooth Control
 
 Package: com.nito.bluetooth-control
@@ -721,13 +743,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 76
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0), com.nito.tvsettings-link
 Filename: ./debs/com.nito.bluetooth-control_1.0-7_appletvos-arm64.deb
-Size: 7216
-MD5sum: 366f0a1333320f7519b08f611a670490
-SHA1: 43e1d06700ee023812036d754c57db882f6d0a9e
-SHA256: f615600842a35df663de9d58c274af1e28520f95364b3b637b7afb1e253acdc8
+Size: 7248
+MD5sum: 2d845dfc11a154edc97813ab0bb2c467
+SHA1: 2a9cdda48aa59914dd2462c686ccf443645d868c
+SHA256: e2f6cb72520f67fd8503dcb343947645c3561bde004053854c119798d215835d
 Section: Tweaks
 Description: Access Bluetooth pairing view through a control center widget!
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Bluetooth Control
 
 Package: com.nito.breezy
@@ -738,13 +761,14 @@ Installed-Size: 604
 Pre-Depends: cy+model.appletv
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.nito.breezy_2.6-1_appletvos-arm64.deb
-Size: 62888
-MD5sum: 8e780312998036b8772e3e0141b286dc
-SHA1: e2efbb60b9e2fd307f1aa2bb3d2087cc65049bbc
-SHA256: e7eda9258284a89be753f2ac733085700977a3a7107cfdfeab17340405ff6b3b
+Size: 62968
+MD5sum: da8690672513f8e7131726a6dd59a168
+SHA1: 35ce5c1522f95eb17e3277f6ba0c4f80e72f4c65
+SHA256: 4c15344b035b26214b890fc7ff4147b6e8dce3a03b316fcb2a59d0416c0070df
 Section: Tweak
 Description: Enable AirDrop server in your tvOS Applications
 Author: Kevin Bradley & Ethan Arbuckle
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Breezy
 
 Package: com.nito.breezy
@@ -755,13 +779,14 @@ Installed-Size: 504
 Pre-Depends: cy+model.appletv
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.nito.breezy_2.6-35_appletvos-arm64.deb
-Size: 62376
-MD5sum: 2883909bb442b49da0478736840b17ef
-SHA1: fbd3a754b212d8ccbe58013b2b9851c27d2f357e
-SHA256: 38606aba4181d8da76aa55bd894759228943a9d3e46ed7a2068a5b03cf02514e
+Size: 62448
+MD5sum: 12679bc17afdd28907b78bab67c4e75c
+SHA1: f7efea87b9d894ef85497456fb21519e45db7100
+SHA256: ce000fcd0446a89f08f8e607595a2d5f9c9291bb75ff548d721a272430426cb1
 Section: Tweak
 Description: Enable AirDrop server in your tvOS Applications
 Author: Kevin Bradley & Ethan Arbuckle
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Breezy
 
 Package: com.nito.breezy
@@ -772,13 +797,14 @@ Installed-Size: 624
 Pre-Depends: cy+model.appletv
 Depends: mobilesubstrate, preferenceloader (>=1.2-3)
 Filename: ./debs/com.nito.breezy_2.6-78_appletvos-arm64.deb
-Size: 183324
-MD5sum: c103dd0a4f5a605f02c47164da7c33bc
-SHA1: 1a40b275a2a038b8a64417461285f09f5c203244
-SHA256: 1ba6f33f5fef0d16262fd46ff8beb60b6dc666c3e23eaba0953f0e695d8157a0
+Size: 183372
+MD5sum: a5c76dd253b518c6ef4a151a22b3d509
+SHA1: 1b8e40100a1197ffab1ad63396cd9d801a8c1de8
+SHA256: c561b50700aff5ee5f6474574922946f27138bc093f988d1f59ac259536a1057
 Section: Tweak
 Description: Enable AirDrop server in your tvOS Applications
 Author: Kevin Bradley & Ethan Arbuckle
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Breezy
 
 Package: com.nito.bulletinh4x
@@ -804,13 +830,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 100
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0), com.nito.tvsettings-link
 Filename: ./debs/com.nito.ccnetwork_1.0-2_appletvos-arm64.deb
-Size: 30416
-MD5sum: 38b395d135c65f5ec60da09009fb8d5b
-SHA1: 276923dfe5a2cbcd94f2025cf1f84018f49c5b39
-SHA256: ad870ad9c8ff5398828f0a8aaa957eb1d46689974dbc65b4c4ba54959d56d6f4
+Size: 30452
+MD5sum: 8da92686ccc4d63b9ea5d91dc1be7f3b
+SHA1: d222c4bc52119c89566418052ac788fe6b4f718a
+SHA256: 731b038297d3ddbaca5a4846e807ac41af9822f237f278dbe661c934a677f756
 Section: Tweaks
 Description: Quick access to network settings through control center
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: CCNetwork
 
 Package: com.nito.ccnetwork
@@ -820,13 +847,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 76
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0), com.nito.tvsettings-link
 Filename: ./debs/com.nito.ccnetwork_1.0-3_appletvos-arm64.deb
-Size: 7308
-MD5sum: d0b5c56ab91ec895967134cb012357b5
-SHA1: c71915e7ae19598ccf84a1c944f44ec89bf8defc
-SHA256: d6c03b7ebc3deff4546734a43da8cc81681f9c59b28336b532402ec39ea995e0
+Size: 7340
+MD5sum: 0c1fe53ffbeb8e76e7ce246b9dde26ef
+SHA1: ab233e4eaa6146b1257fb1d5a4792e4935a7f1c7
+SHA256: 6dc2cf08f0977215349b667c80e211d405fa5b0aa41c464f9d027b4ff6131c2d
 Section: Tweaks
 Description: Quick access to network settings through control center
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: CCNetwork
 
 Package: com.nito.flexinjected
@@ -836,13 +864,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.1.1a-1)
 Filename: ./debs/com.nito.flexinjected_1.0.0-2_appletvos-arm64.deb
-Size: 119836
-MD5sum: 215088f7f431843a12131525253baff3
-SHA1: ed18ac73e4141aac0e4ac1c5e582a48fc4307759
-SHA256: 5d59e8cfe8cabc4f50081500b0d182915b7d4dc4b66ddd88d540125b692920e5
+Size: 119876
+MD5sum: 9d0f81e77305bc9af81c995f05ad9ce0
+SHA1: 9f4939b3edc1f7a5c6a6fee8a7fee59ef45cf893
+SHA256: ab8d4706aedc5a866e568adee406fe68638a0dbac31efc03012125eb3dab09e6
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: FLEXInjected
 
 Package: com.nito.flexinjected
@@ -852,13 +881,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.1.1b-6)
 Filename: ./debs/com.nito.flexinjected_1.2-11_appletvos-arm64.deb
-Size: 120468
-MD5sum: 2792b3d4e49e17c7816c7ba409249fbc
-SHA1: 2d6df942bac88701bd531fc7f9796036aa19d921
-SHA256: 210a741698ff9f53f590d7f0d8d97fd9c759d5b07c52770d3d39980922ba6801
+Size: 120500
+MD5sum: a44f05639964c1579d6b413aa36766c0
+SHA1: ad6de70f36099d890dd04f3bcd5f06c6144019bd
+SHA256: a5f5ef2687f88f45b3b773bf389faa2f54b706d4c35631ab053a70cf6bf54997
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: FLEXInjected
 
 Package: com.nito.flexinjected
@@ -868,13 +898,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.1.1b-1)
 Filename: ./debs/com.nito.flexinjected_1.2-3_appletvos-arm64.deb
-Size: 120396
-MD5sum: 89b0155fc5e66d056183148743644456
-SHA1: c5c624c9aaf86ee44688f5d10facf977c6cb4b21
-SHA256: be8dbfed7824503ad3ea0be8ae617855f6e06d37e5e26038d0ef3f751d3c8351
+Size: 120432
+MD5sum: 9225ed7c8998e3f8596495147b9589cf
+SHA1: 8396e069742b68356b34cd8f22730b98eb4add1e
+SHA256: 75758289b0d976ed9fa5552fa244ce5f8042ffeb2cc796ddce6506761a4d4b56
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: FLEXInjected
 
 Package: com.nito.flexinjected
@@ -884,13 +915,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.1.1b-1)
 Filename: ./debs/com.nito.flexinjected_1.2-4_appletvos-arm64.deb
-Size: 120424
-MD5sum: e78de6c22edce19c5ebf6dd666ccb074
-SHA1: da5c9e1f3b38e2ac934542bd4cfa45d5e6884007
-SHA256: e77b8274da38d5c9e1af824c94596db9378bfbd3d4a080a47ae9799de6e53c24
+Size: 120480
+MD5sum: 3c750679bc3c9547d796967ebea09cc3
+SHA1: cfd166fbd1a57393237a7a7bdbf82d1c726ac425
+SHA256: 5d62d33a323a214a9bf803f5a6ec6f4c1dc4d3b42fd06e7a95683ca9e8927a47
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: FLEXInjected
 
 Package: com.nito.flexinjected
@@ -900,13 +932,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.1.1b-5)
 Filename: ./debs/com.nito.flexinjected_1.2-6_appletvos-arm64.deb
-Size: 120436
-MD5sum: 1ac186db6a0ec33de1d558620687501d
-SHA1: 938906121dbe25b68af06f4c3e6b56f9a535e591
-SHA256: e731972dc68ce7dd57a0964ff3c5389b435f6aac9cde6c0e919505cd006e7d1d
+Size: 120468
+MD5sum: 364d8a36ce950f96a1f20b4941cb788f
+SHA1: dcc97b4a110001e1a5413d231f05af42be9fd654
+SHA256: 2c03d18b84649c2701abb930741320bc9c718ce540ea2d27336e6868141620b3
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: FLEXInjected
 
 Package: com.nito.flexinjected
@@ -916,13 +949,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.1.1b-5)
 Filename: ./debs/com.nito.flexinjected_1.2-9_appletvos-arm64.deb
-Size: 120476
-MD5sum: 3b6d1420bd907b6b827f5cebf7fdd56f
-SHA1: 1ad706a48ee9d86ed340ca0a1a28e3a54bca9d00
-SHA256: 68de3eb7e9318bd17c796c803d8d21449bb5e00fd2e5ed299ee95798f10a6dee
+Size: 120524
+MD5sum: 406ad76eb459ee907ad54096ed78094d
+SHA1: cd967e39b4c873b296b48a272e10f42a3a66505e
+SHA256: 1397bb880161b508ed955f02005351194adedcc945b2e7917e1dcff6fe5592f1
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: FLEXInjected
 
 Package: com.nito.flexinjected
@@ -932,13 +966,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.1.1b-6)
 Filename: ./debs/com.nito.flexinjected_1.3-2_appletvos-arm64.deb
-Size: 120732
-MD5sum: 8797629c41ee41c2d30a4a51f7cf538f
-SHA1: a5a839cf9dc4469a80ca5180a7b29c514fa7a99f
-SHA256: 0c2037f5ebbfa905c2c0be6ee593b4de447ad35169c7ccccd7a4309e3a10c626
+Size: 120776
+MD5sum: e2ca54c26f6bf671d18b22cd97633fa2
+SHA1: 4cdd5cb126e6446c596b0a7b0358828c802998c2
+SHA256: f4849521ca788630077cf2ba45194e7945b9ec21c707d4e24984dc8ea4a8b970
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: FLEXInjected
 
 Package: com.nito.flexinjected
@@ -948,13 +983,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.3.0-1)
 Filename: ./debs/com.nito.flexinjected_1.4-4_appletvos-arm64.deb
-Size: 120772
-MD5sum: fcb109991c6b05e886a2bb8f5e42886d
-SHA1: 1099d4a0cefa97fac607ebdc893bff0085e57841
-SHA256: cb41adb92c6a41dcc38dbed9fae4c08b980c94a4caab82e58fd3aaac6c15f3d8
+Size: 120808
+MD5sum: 4aacbb986954267e277b2d40e7b60a8a
+SHA1: 054f73e5f1ae15dcc3bdda65d4f1ef6ec5166045
+SHA256: 843903132ae04e2507303b5d8a7db776ef72c312d038388725cd3f820c471ca3
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: FLEXInjected
 
 Package: com.nito.flexinjected
@@ -964,13 +1000,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 76
 Depends: mobilesubstrate, preferenceloader (>=1.5-15), applist (>=1.3-11), libflex (>=4.3.0-6)
 Filename: ./debs/com.nito.flexinjected_1.5-3_appletvos-arm64.deb
-Size: 5364
-MD5sum: cb0d942f13f54712c39e20fded3322db
-SHA1: 63e4a66c6667c9b5b8821fe58df021716ac3628c
-SHA256: b14f6610f3ef8872c1206040bcf9002417da8e9aa9a5657e4c5a27883d46d9f6
+Size: 5408
+MD5sum: 06012fdef3657985054cd84855e79cc0
+SHA1: f0ec74a3a7d75f149b2ddf2d1f63d175c31636c3
+SHA256: b984d7bde87df3de71b79dba479d657c02f242d6e649fded614f1e52cce73b72
 Section: Tweaks
 Description: Inject FLEX into your favorite Applications utilizing applist
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: FLEXInjected
 
 Package: com.nito.nitotv4
@@ -1022,13 +1059,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 96
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0)
 Filename: ./debs/com.nito.processes-module_1.0-2_appletvos-arm64.deb
-Size: 24076
-MD5sum: 7910bbd3d3e299a6bda808d9f0133d70
-SHA1: 4e18a607d42c7904b109d05273c875d95911187b
-SHA256: 9b9c331cf7c325d07c8616f22f2f0506f98c46c6d115efcbe41c82cdafe9e92a
+Size: 24108
+MD5sum: 670cf3a0ed7d80f1bad317bd752f4c91
+SHA1: 60e6170b9c01017e1d6e75703f9f897509b486c8
+SHA256: 612de5a882a9684853f628e1e65dbbe19540de61f664ab065b1006422a2f8ab7
 Section: Tweaks
 Description: Control center module that is a shortcut to the Running Processing section in nitoTV, inspect, inject and quit any running process
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: ProcessesModule
 
 Package: com.nito.processes-module
@@ -1038,13 +1076,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 76
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0)
 Filename: ./debs/com.nito.processes-module_1.0-3_appletvos-arm64.deb
-Size: 7536
-MD5sum: 4b4468f5d4f49e320f6aaf73e5fe92ca
-SHA1: 0017eddf8686f553e60256f6b822f25f0deb873f
-SHA256: 9215b21ab3f0d44939bf543f1e5b1c9446db27af7dcf6f372817651ebdb33ae9
+Size: 7572
+MD5sum: b66fe946061b585ea19a2c20800957f4
+SHA1: 8c6287053d9ffae7194987dc69d116637088ab06
+SHA256: 562574e1696844bd52a19b80d9b60a84939b07aab7d7a5bb33b4e031f6befb6c
 Section: Tweaks
 Description: Control center module that is a shortcut to the Running Processing section in nitoTV, inspect, inject and quit any running process
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: ProcessesModule
 
 Package: com.nito.romulator
@@ -1055,13 +1094,14 @@ Installed-Size: 376
 Pre-Depends: cy+model.appletv
 Depends: mobilesubstrate, preferenceloader, com.nito.breezy (>= 1.2-1), com.nito.bulletinh4x
 Filename: ./debs/com.nito.romulator_1.0-1_appletvos-arm64.deb
-Size: 258392
-MD5sum: 3871272b42b48baaad14ae1333bc3be4
-SHA1: 724d11cacd1f7e2706d77d2b4968aa0840ca9223
-SHA256: db5808333a7d3994aaaefd66c56657895b483c0e8d255c09921b8b121b90744f
+Size: 258424
+MD5sum: 4e91aa9660ee8156f35d5e4931c50233
+SHA1: 5d7fd10d1d5779091307d991a0066c4fb64e49e5
+SHA256: 1520a49470ec01814f617dca80ccdda8b0fac54ce68117933834b5121619183a
 Section: Library
 Description: AirDrop roms files to import to Provenance and other emulators in the future
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Romulator
 
 Package: com.nito.romulator
@@ -1072,13 +1112,14 @@ Installed-Size: 376
 Pre-Depends: cy+model.appletv
 Depends: mobilesubstrate, preferenceloader, com.nito.breezy (>= 1.2-1), com.nito.bulletinh4x
 Filename: ./debs/com.nito.romulator_1.0-2_appletvos-arm64.deb
-Size: 258428
-MD5sum: 141a19d9ca59b766eced4120c6b72550
-SHA1: 22fd7a6fa47a8b0d3446a8274ec4e3f2d51ddf1b
-SHA256: cbb7b1e53e7b58cf4d841050f97656912f8d677bc0f1a05aba6597017cbd8565
+Size: 258440
+MD5sum: 565d64a8b503d4d890e52ec8087edd9a
+SHA1: d79ea66c287473760f571791098685ff81097566
+SHA256: 500cf3301624da14df6e7eb4c66c8ab24e99b1e28d6d767f7ccaf02120d15e2c
 Section: Library
 Description: AirDrop roms files to import to Provenance and other emulators in the future
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Romulator
 
 Package: com.nito.romulator
@@ -1089,13 +1130,14 @@ Installed-Size: 176
 Pre-Depends: cy+model.appletv
 Depends: mobilesubstrate, preferenceloader, com.nito.breezy (>= 1.2-1), com.nito.bulletinh4x
 Filename: ./debs/com.nito.romulator_1.0-9_appletvos-arm64.deb
-Size: 67464
-MD5sum: a5543f25c2e2cabbca1d672dd885b99a
-SHA1: 96bbfc4cde439d121c76dba0b19e6ca25d662b8e
-SHA256: 1d488b4e3e800d6b242b9f2df96ce7a6b222a2403c6c5c518352c73877090a91
+Size: 67492
+MD5sum: a203b832725f6c0e0ebffd6ec234623a
+SHA1: 0b06e1f0112329426a7941a705a5554b0f2481f2
+SHA256: 90d571b350453c60b5965d5d3c17c79221201bb0972f2f9982f75936b64dc91f
 Section: Library
 Description: AirDrop roms files to import to Provenance and other emulators in the future
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Romulator
 
 Package: com.nito.romulator
@@ -1106,13 +1148,14 @@ Installed-Size: 192
 Pre-Depends: cy+model.appletv
 Depends: mobilesubstrate, preferenceloader, com.nito.breezy (>= 1.3-2), com.nito.bulletinh4x
 Filename: ./debs/com.nito.romulator_1.2-1_appletvos-arm64.deb
-Size: 74156
-MD5sum: 90938d69e4bee1d5485a7c457a64a816
-SHA1: f12a9bd586d53315d7fd453b1b8a3caefb5d917c
-SHA256: f3aceaa39787547fb0317444c0503fa54ba7e0a0c1109ffe11e08ab1d00492ae
+Size: 74184
+MD5sum: 9db498e2ee75568b5a7264928eeddb8f
+SHA1: 8b20c1ee684cc784ef53ff3b7196de2c6b7cd205
+SHA256: a22220c16238edfd31004621181c5a4629bab880dd331e2aee1d211ac7b86546
 Section: Library
 Description: AirDrop roms files to import to Provenance and other emulators in the future
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Romulator
 
 Package: com.nito.screencapture
@@ -1121,14 +1164,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Installed-Size: 152
 Filename: ./debs/com.nito.screencapture_0.0.1-15_appletvos-arm64.deb
-Size: 7882
-MD5sum: 5e959e5fcd44f338b588206abf0c86c1
-SHA1: 51cebbcb1701305d0ff8ca6500f7b89d14f260a0
-SHA256: 3d1ebd8d76b09ef92977f707a9952d8f6ffe05dec09cb3125823105308406280
+Size: 6172
+MD5sum: f2578b0d3da124e711972b15b071e0a6
+SHA1: 7871e1c336a2042bb639eca8afb51eb630b0a957
+SHA256: 30913bc1fab3baf69d0fcf78f920aca19623b27dfcfde739149d69548347ca0a
 Section: System
 Description: Take screen shots on your AppleTV
 Tag: role::hacker
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: screencapture
 
 Package: com.nito.screencapture
@@ -1137,14 +1181,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Installed-Size: 140
 Filename: ./debs/com.nito.screencapture_0.0.1-24_appletvos-arm64.deb
-Size: 6142
-MD5sum: 66db757356af3788a50083e9d5c78227
-SHA1: 00637c900bc8386df8983042d7f9c2ea89ca164c
-SHA256: dd85394269e5fa45e6a410485d83124910774f7d67932e231a21ace293046a30
+Size: 4824
+MD5sum: a435cb641381140e1ba4f7bba7fa52f1
+SHA1: 872706893da5c10871aaf9e27db6feb2ed8dbf4e
+SHA256: 9d27a1b667311feefb9cb16f118ce21ebfa626a7101bce64b24eeff38fb1ac3c
 Section: System
 Description: Take screen shots on your AppleTV
 Tag: role::hacker
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: screencapture
 
 Package: com.nito.screencapture
@@ -1153,14 +1198,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Installed-Size: 140
 Filename: ./debs/com.nito.screencapture_0.0.1-25_appletvos-arm64.deb
-Size: 6204
-MD5sum: 0f418325158e30a829a6dad99c3f2776
-SHA1: c9991a4c48ee1e834f01ef209e01e24d01d16080
-SHA256: 3be63f5b101cacc43eb5e3aed03286d9b7d2668c35f055a8c7150f0886afdb90
+Size: 4884
+MD5sum: 6401e1be339d0b84023d4435f2e3ad03
+SHA1: fa2a97efd4ec6b14004340ca26d4d36e9549b3d5
+SHA256: bfb092adc808462b4dab09e77a3efb106c1cf498dd60ba18a629da031f444186
 Section: System
 Description: Take screen shots on your AppleTV
 Tag: role::hacker
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: screencapture
 
 Package: com.nito.screencapture
@@ -1169,14 +1215,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Installed-Size: 68
 Filename: ./debs/com.nito.screencapture_1.0-1_appletvos-arm64.deb
-Size: 2682
-MD5sum: 830e7eace0b478602296967120e50bea
-SHA1: 2ad6a5ba81483b64ed8a795a63552f64ae1acd58
-SHA256: cf964767437429fad98bdd8f0f75252545e21f14eefcde20ca6881b4a9895bbf
+Size: 2796
+MD5sum: 919845363bb8c8503addab63b834c917
+SHA1: 5925b06fa4a95b2e875e79199fd2a996b83fe2b4
+SHA256: 5aba6ce65a527dbe12cc4396eb69f92400e6d1a2fcdd0e557a40c62d2581b14c
 Section: System
 Description: Take screen shots on your AppleTV
 Tag: role::hacker
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: screencapture
 
 Package: com.nito.screencapture
@@ -1185,14 +1232,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: com.nito.breezy (>=1.4-9)
 Filename: ./debs/com.nito.screencapture_1.0-2_appletvos-arm64.deb
-Size: 2898
-MD5sum: 941dec785f0d4a3d174f1110969f6b49
-SHA1: 9d661d1c792e57fdcf1b7cd65c05afdaf3fd64ea
-SHA256: 257ee9bf3a6f7de636a7be2235906bf54dbe52174f9a33115b691ba26c707e38
+Size: 3016
+MD5sum: 4714eb678de979efb414300d41f8d60d
+SHA1: 134e3b1531a4783efd305f5f64a78e2269711ae4
+SHA256: 33f1569a6970bb8670bed24ce8847b5008ab0bb1dd45f42c36709b26efadcde8
 Section: System
 Description: Take screen shots on your AppleTV
 Tag: role::hacker
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: screencapture
 
 Package: com.nito.screencapture
@@ -1202,14 +1250,15 @@ Maintainer: Kevin Bradley
 Installed-Size: 172
 Depends: com.nito.breezy (>=1.4-9)
 Filename: ./debs/com.nito.screencapture_1.0-2-11_appletvos-arm64.deb
-Size: 35068
-MD5sum: 7f6188c31494580ef390c6f60524b2b5
-SHA1: 18b90b2302e742305f0e702ad8af9a484bbb1a3e
-SHA256: 67a94afc7089918391836a6642868521c4da133ba013b569d0445012c185ad01
+Size: 34960
+MD5sum: 8d8e8003d7a0a4a7e92df1e92e6b1e0a
+SHA1: 16e5fbdb652f420d3dfba0be554e988f577aa0d9
+SHA256: c15273c2327d537f25a91b5549ee1e828976e0deae7713545ea389b753bc21d8
 Section: System
 Description: Take screen shots on your AppleTV
 Tag: role::hacker
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: screencapture
 
 Package: com.nito.sleepspring
@@ -1349,13 +1398,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.nito.tvcontrolcenter_1.0-2_appletvos-arm64.deb
-Size: 2720
-MD5sum: be71d629e49efab7bec857f9bf67069a
-SHA1: 86b5d4c34be927fe293fc453979854f7d8e6820a
-SHA256: 681ca36a0aec906f0e27d2623d913757e0906703a0a3880c0aecd180e07c9633
+Size: 2756
+MD5sum: 41d1e2d212b133ab20d05d6d8fb70c09
+SHA1: d4287f78256db5632da39a9d923797c4e7b3d59f
+SHA256: 12ca01de656f9df605baf901078191ee7d9abee5cd704a47c3f16e9c258c9921
 Section: Tweaks
 Description: Load your own control center bundles!
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: TVControlCenter
 
 Package: com.nito.tvcontrolcenter
@@ -1365,13 +1415,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.nito.tvcontrolcenter_1.1-3_appletvos-arm64.deb
-Size: 4036
-MD5sum: 12319a58e4869136b28fcdf0f8e631eb
-SHA1: 3641adf2bff182dca35823d5bbd1b11ceeaa0314
-SHA256: ff1dc4b2ac94750483ab1643879fafda67c0b22903c5e933b5450b7c120d76f7
+Size: 4072
+MD5sum: 295fb0d65fbec05a56c29d92b6b393aa
+SHA1: aeae3d6f11ea3043ac9d488c1730a4c85e5287fa
+SHA256: ccd5ff0dc608c3341ebd7fecf6e9ca712b2b39d5f3185cc900ced58858352c3b
 Section: Tweaks
 Description: Load your own control center bundles!
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: TVControlCenter
 
 Package: com.nito.tvcontrolcenter
@@ -1381,13 +1432,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.nito.tvcontrolcenter_1.2-13_appletvos-arm64.deb
-Size: 3444
-MD5sum: a7b8ee31fe4f287dfbd5248705507ff0
-SHA1: 329ea8307f8bb954494d8daa6e607e69dcbdb3f7
-SHA256: 89a0131bf6d36e7cd85d4ba9416ab40c41414b2c1e4e0fcb400704f3ebd52a66
+Size: 3464
+MD5sum: e16972cf852b2dba3f44cd88bfd02b23
+SHA1: 6ca56ab159e36cebea040e2aa498734e34b41889
+SHA256: ed222ee3be06f0757df1bd50a81a240b4affb932b200bd1261db0f906fdb2bc5
 Section: Tweaks
 Description: Load your own control center bundles!
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: TVControlCenter
 
 Package: com.nito.tvcontrolcenter
@@ -1397,13 +1449,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.nito.tvcontrolcenter_1.2-16_appletvos-arm64.deb
-Size: 3540
-MD5sum: b473f2f269e1fd86ca3a04ae4365b73b
-SHA1: 33130e49cd9fe055ed26bf055e7dbbb89753fedd
-SHA256: ca1340e4de55d6e65dc6d66ecc70beae9754ceb7f425cce5a011e109a4fcf74f
+Size: 3580
+MD5sum: 09ef2b6b7c8a5a0fe8759288e918fbcc
+SHA1: 43ad99652f687d5138efe849f898b17d852dc827
+SHA256: fa48e0043a521acf8cfbb04153084bf7989bec177872e18d620376ec560c1a38
 Section: Tweaks
 Description: Load your own control center bundles!
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: TVControlCenter
 
 Package: com.nito.tvcontrolcenter
@@ -1413,13 +1466,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.nito.tvcontrolcenter_1.2-2_appletvos-arm64.deb
-Size: 3212
-MD5sum: ba1b856fa16f31779079299b71cf5327
-SHA1: d270e3675624805c90a1278aa8dbf36f5f5c971b
-SHA256: ffc5adba06551ab1bb2472da7eca28a89005432c120d35daa4444eff029bf883
+Size: 3252
+MD5sum: 1daac153b8d8fcacc7276bd6b4e47c99
+SHA1: c11cc502500bd7db73524bba7029c3207e27904a
+SHA256: 3b6acc151112473e1c25ff3b2341e93fa387ee4a932351afff78b188c4491678
 Section: Tweaks
 Description: Load your own control center bundles!
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: TVControlCenter
 
 Package: com.nito.tvsettings-link
@@ -1429,13 +1483,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.nito.tvsettings-link_1.0-10_appletvos-arm64.deb
-Size: 5480
-MD5sum: fb4f08c78a3f4536511b92b5808c9065
-SHA1: 51727ef6c05237c81f8d2fa596333c7ef2232db1
-SHA256: 7bdfbcca10e2532b517bd23c129fd974e8bf4b2856c0f1682f2673e6a503e6bf
+Size: 5476
+MD5sum: 7802ff1d43135ed56bcfccd82724f82e
+SHA1: 05524d8a9ae6bb53d2a7aa92d9f16480d31638df
+SHA256: 683fb26e92c2a0dbc4d2bf185e9778fa8c8368488e2c3a5d491d0623f4b76fce
 Section: Tweaks
 Description: A stop gap tweak to enable deep linking in TVSettings Application
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Settings Link
 
 Package: com.nito.tvsettings-link
@@ -1445,13 +1500,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.nito.tvsettings-link_1.0-5_appletvos-arm64.deb
-Size: 3286
-MD5sum: 90a849d04880a4fefe1c2cc50ac6da3f
-SHA1: b05a6119cb812b99d3d5893fc9e3cfa95e6fa113
-SHA256: 979eec86987a28942542c45c0a97c537a24c4555ded02549137ef7acd8994b9d
+Size: 3364
+MD5sum: 5ba549fb4a3487460a800540da4f05ec
+SHA1: dc5615c8b3873d520d509e8608f3cb179c372314
+SHA256: 683cb4b7b56ed3ac8af73e0df6540bfb0ecc05799ae04ee41513fbb4e88d0085
 Section: Tweaks
 Description: A stop gap tweak to enable deep linking in TVSettings Application
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Settings Link
 
 Package: com.nito.uicache
@@ -1461,13 +1517,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 412
 Pre-Depends: cy+model.appletv
 Filename: ./debs/com.nito.uicache_0.0.4-4_appletvos-arm64.deb
-Size: 46028
-MD5sum: 4a0f378069626e6904262eb90356587a
-SHA1: 47bb8288e6f8d82ad263c01f34aeb555f10dd9f7
-SHA256: 83c37a616038c788756e8d1ef6ff1f7cb6a368235f00c79dfdf5219e1d273802
+Size: 31692
+MD5sum: 0d274dd920de547ec92c0af866f2f650
+SHA1: 6e74242f9968f98de85060de2adf21c44aa38526
+SHA256: 8ee5d5f611a180cdbe8c3d5ee6a0abac9d4074dd218a0da8b1c7d1320df16ade
 Section: Library
 Description: Respring and reload any applications added to /Applications
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: uicache
 
 Package: com.nito.yourcontrol
@@ -1545,14 +1602,15 @@ Maintainer: James Addyman
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/com.provenance.provenance-1.2.7_appletvos-arm64.deb
-Size: 9670574
-MD5sum: 4803c50a7c9aa32e37227ccc33025935
-SHA1: 97b2784b9c9d231629b56f784511a980361f80c7
-SHA256: f5520af54369b8e176851b48dbcd1af43a4c9e36272c8bbd322d57f1ce817f0a
+Size: 9671128
+MD5sum: fa1fcf2aa1ea862197f8a40216c88bf0
+SHA1: e44b6f456b1fbb19db910ab7cd10211a39c28e55
+SHA256: f2b59404094f78d776aaf6b91df3ea08dc676a91d9409c0cbe4b73acf4f9fa1f
 Section: Multimedia
 Priority: Extra
 Description: An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, Game Gear/Master System, Sega CD, SNES, NES, GB/GBC and GBA.
 Author: James Addyman
+Icon: https://zenzeq.github.io/tv/game.png
 Name: Provenance
 
 Package: com.provenance.provenance-tvos
@@ -1563,14 +1621,15 @@ Installed-Size: 78364
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/com.provenance.provenance-tvos_1.4-29_appletvos-arm64.deb
-Size: 18962526
-MD5sum: e708e161b05156821c24fa9cedb8e2f4
-SHA1: 34c7f1a74102fb5e634066cf5506b2a9a9862cab
-SHA256: b8b5c22cefbdd097a340fca862aa72384c93700c6b572c707138e9e4b3dc6541
+Size: 18962192
+MD5sum: 7d015ea4ce771cc043073f509071f6b9
+SHA1: 412a1ee6f935383a4805a9f47ca6533d4ee8f8ab
+SHA256: 548494a55437e8d9576e24f5e7a0800bbd5cb0657550921bc22b9ee318df666f
 Section: Multimedia
 Priority: Extra
 Description: An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, Game Gear/Master System, Sega CD, SNES, NES, GB/GBC and GBA.
 Author: James Addyman
+Icon: https://zenzeq.github.io/tv/game.png
 Name: Provenance
 
 Package: com.provenance.provenance-tvos
@@ -1581,14 +1640,15 @@ Installed-Size: 76032
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/com.provenance.provenance-tvos_1.4-32_appletvos-arm64.deb
-Size: 18419914
-MD5sum: 7e3ffc632c6f1408304fa97dbd0eeb17
-SHA1: 5c3927e04abda9d6aee13fb6663ec1cf29960ca8
-SHA256: 57df0d675c44ce1e30cdaa46937b3905ed499cdb8dd36020be2c523f0e3d6429
+Size: 18425552
+MD5sum: 379befd65759cc34b56f622d51ed3c4e
+SHA1: 86a941e217b588c816d2c2fc5c7eb4c0825fee47
+SHA256: a77536a840c9eab9bd4c373c97d390026502804838ab6fd8fd39a2e8242ac4b8
 Section: Multimedia
 Priority: Extra
 Description: An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, Game Gear/Master System, Sega CD, SNES, NES, GB/GBC and GBA.
 Author: James Addyman
+Icon: https://zenzeq.github.io/tv/game.png
 Name: Provenance
 
 Package: com.rpetrich.rocketbootstrap
@@ -1678,91 +1738,96 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Package: com.rpetrich.videopace
 Version: 1.1.1-32
 Architecture: appletvos-arm64
+Maintainer: Ryan Petrich
 Installed-Size: 104
 Depends: firmware (>= 4.3), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.5-15), applist (>= 1.3-2), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Filename: ./debs/com.rpetrich.videopace_1.1.1-32_appletvos-arm64.deb
-Size: 27854
-MD5sum: 903706fa58c4218b3a4dd47e3e4e3ed8
-SHA1: 619429c40d186283cd38969793cda353230a7a76
-SHA256: 27deaa9279c3058b78f35464e26a8073ecb1ab396376901554b96527ea75493a
+Size: 27720
+MD5sum: d02e0220348451b851b71bfe20a3b778
+SHA1: b8f8b6c4c2a1a3fcdb6d5350dbcbe476c11af50b
+SHA256: 9e8ed760fef0f1d7ecc8544e59aaa1a49dfb7ad1780c7446fcf60358ce3de243
 Section: Tweaks
 Priority: optional
 Description: Increase speed of video playback
 Author: Ryan Petrich
 Depiction: http://rpetri.ch/cydia/videopace/
-Icon: file:///System/Library/PreferenceBundles/VideoSettings.bundle/icon.png
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: VideoPace
 
 Package: com.rpetrich.videopace
 Version: 1.1.1-5
 Architecture: appletvos-arm64
+Maintainer: Ryan Petrich
 Installed-Size: 104
 Depends: firmware (>= 4.3), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Filename: ./debs/com.rpetrich.videopace_1.1.1-5_appletvos-arm64.deb
-Size: 27532
-MD5sum: 36006cb5b16b09f1ed8f855397fca678
-SHA1: defe940409d513e7b0f2ee1779cf538f43d0877d
-SHA256: ab41d5b44d2830a7535461b59cbb4354fc323b3dcd690f180464319492bb10c3
+Size: 27420
+MD5sum: 944388b93277afdc438e7420f269581b
+SHA1: 2946d6ae61f33d54ac730061c0625afd31b1ba1a
+SHA256: 06fca37d58b38916e2707c29936f11053a3c334189e3d7b37d3bddaee134ac2a
 Section: Tweaks
 Priority: optional
 Description: Increase speed of video playback
 Author: Ryan Petrich
 Depiction: http://rpetri.ch/cydia/videopace/
-Icon: file:///System/Library/PreferenceBundles/VideoSettings.bundle/icon.png
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: VideoPace
 
 Package: com.rpetrich.videopace
 Version: 1.1.1-8
 Architecture: appletvos-arm64
+Maintainer: Ryan Petrich
 Installed-Size: 104
 Depends: firmware (>= 4.3), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Filename: ./debs/com.rpetrich.videopace_1.1.1-8_appletvos-arm64.deb
-Size: 27762
-MD5sum: fefe8f67c6da88c3d2f594c84fa116fd
-SHA1: b400ce4915362188d784fa80470634f614f2b77c
-SHA256: 864d3f31175917ba4d01e4c24765fe057b8e4c8d1046b3cac4209706129e3897
+Size: 27676
+MD5sum: da121bd37e7e7698c467ef502d700528
+SHA1: bffc74121d2681cf1778c016bc9b2b2427ab4a58
+SHA256: f97f1ed1aa52d70f98794490d871fd08359b46dacd902a90b58a5171532f61cb
 Section: Tweaks
 Priority: optional
 Description: Increase speed of video playback
 Author: Ryan Petrich
 Depiction: http://rpetri.ch/cydia/videopace/
-Icon: file:///System/Library/PreferenceBundles/VideoSettings.bundle/icon.png
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: VideoPace
 
 Package: com.rpetrich.videopace
 Version: 1.1.1-9
 Architecture: appletvos-arm64
+Maintainer: Ryan Petrich
 Installed-Size: 104
 Depends: firmware (>= 4.3), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.0-16), applist
 Filename: ./debs/com.rpetrich.videopace_1.1.1-9_appletvos-arm64.deb
-Size: 27772
-MD5sum: a2cdd29d2d34b632e457c6c3d60087c0
-SHA1: 8e70caa10a2dda1abe0ac920ff9879541718e331
-SHA256: 89219134e70704f22cbf9bc15f4481211277ce7eb23b4082f7e199a1af5cf702
+Size: 27656
+MD5sum: 15f659463ab61c0ea03566c4afd08c1a
+SHA1: 4b4f461b879e8053ef294670df1fc089305129c8
+SHA256: 7bdfaa401a4c72b1ae17bc0139dd119dd85a6bcb29110c17bb6debf47d690456
 Section: Tweaks
 Priority: optional
 Description: Increase speed of video playback
 Author: Ryan Petrich
 Depiction: http://rpetri.ch/cydia/videopace/
-Icon: file:///System/Library/PreferenceBundles/VideoSettings.bundle/icon.png
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: VideoPace
 
 Package: com.rpetrich.videopace
 Version: 1.2-1
 Architecture: appletvos-arm64
+Maintainer: Ryan Petrich
 Installed-Size: 104
 Depends: firmware (>= 4.3), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.5-15), applist (>= 1.3-2), com.rpetrich.rocketbootstrap (>= 1.0.10~beta2)
 Filename: ./debs/com.rpetrich.videopace_1.2-1_appletvos-arm64.deb
-Size: 27838
-MD5sum: 5b448b9c49876207a466eca774f6722c
-SHA1: 8f7ea5ecfbb44804d016168a7e0cdfd4ab15c027
-SHA256: 1b245530e3eb9567b4d30b72e2496bb0d1b24a5fd59554a61c1e5d82c0a180ad
+Size: 27712
+MD5sum: 5cad0559724e48ca53d0897a159ca838
+SHA1: d46de0c832aff32c132c9981889df7dc8b307b4c
+SHA256: 6d55bd1d5721f376bbcfed77f7086bdf1a0b662921468d9dfd1e409a5477b0c8
 Section: Tweaks
 Priority: optional
 Description: Increase speed of video playback
 Author: Ryan Petrich
 Depiction: http://rpetri.ch/cydia/videopace/
-Icon: file:///System/Library/PreferenceBundles/VideoSettings.bundle/icon.png
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: VideoPace
 
 Package: com.saurik.substrate.safemode
@@ -1844,14 +1909,15 @@ Maintainer: Sam Bingner
 Installed-Size: 144
 Depends: firmware (>= 3.0), com.bingner.utilities, file, preferenceloader
 Filename: ./debs/com.uroboro.pasteboard_0.0.4_appletvos-arm64.deb
-Size: 10260
-MD5sum: 62dc4101d543b14797a511616b49d0ef
-SHA1: 325839828a05cfe1cc17c525e7afb72df6dd8bb9
-SHA256: e233836c3f9a65a9135ab7ec439feb22430b35f4db1d51c301f8a53ffccf21eb
+Size: 10376
+MD5sum: cd8e3e65f4caf0c0b040a81815b25d40
+SHA1: 718ede09ca0b3bc5b5db327e793627ba6e358ac7
+SHA256: 80a6f48294cde06115cd735c30791d889834ac3140d1545f6de24149841dc98d
 Section: System
 Description: Provides advanced pbcopy & pbpaste. Supports strings, urls, images and colors. How can you copy or paste a color I don't know.
 Tag: role::hacker
 Author: uroboro <uroboro845@gmail.com>
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Pasteboard CLI
 
 Package: com.wh0ba.flips
@@ -1861,14 +1927,15 @@ Maintainer: Wh0ba <whappfanr@gmail.com>
 Installed-Size: 360
 Depends: libstdc++
 Filename: ./debs/com.wh0ba.flips_1.0-1_appletvos-arm64.deb
-Size: 38332
-MD5sum: c04a3f71983517fdd104d991fe4e243a
-SHA1: b4aee69cdb625802184cda29722cc2c883ffe37a
-SHA256: 6bcffb2d3b4b82627f70002cd13468fa4d6a797b8e357d38dc912369fccf3569
+Size: 38456
+MD5sum: 1db0444978e774c467e317b76426bf8b
+SHA1: b9c116a9f5c4bc9eda6473417a869ab02f713e14
+SHA256: 5562f3503e9522013d1c67349f593726d84ce94fed433a88e335e7bcf5416b1c
 Section: System
 Description: ips, bps, ups ROM patcher
 Tag: role::hacker
 Author: Wh0ba <whappfanr@gmail.com>
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: flips
 
 Package: com.yoshisuga.mame
@@ -1912,14 +1979,15 @@ Maintainer: Zenzeq
 Installed-Size: 76
 Depends: mobilesubstrate
 Filename: ./debs/com.zenzeq.nitoTVfix_1.0-3_appletvos-arm64.deb
-Size: 3840
-MD5sum: 08d5142f001fff7ddcbe15a7c270f96b
-SHA1: 6c82ce1a60fd7403f7fc9d5be68d504de0f33fd4
-SHA256: 2dd963f2699d2ddccbf3f966d1bcbcc553cdaa477ff580941519e34859811d76
+Size: 3876
+MD5sum: dc1f85f2d34ab84ba9e34e6045ec40c2
+SHA1: 38a84eca15e77c770aca3daac7a5973b1ae3550c
+SHA256: bf1403ac7b4d62542e6f1114c3269b2a2eb2f180c98c4389dad41144ed24bd15
 Section: Tweaks
 Priority: important
 Description: An awesome tvOS tweak that *should* help with preventing freezing and using nitoTV online
 Author: Zenzeq
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: nitoTVfix
 
 Package: com.zenzeq.noreset
@@ -1929,13 +1997,14 @@ Maintainer: Unknown
 Installed-Size: 76
 Depends: mobilesubstrate
 Filename: ./debs/noreset.1.deb
-Size: 4144
-MD5sum: e70800bc66704e717e3563dd899b321c
-SHA1: 20f86b0c9c6b65258244ff3f919da4e033900f10
-SHA256: 43517a4052317ca30b585a8daa58ea69cb34a4efab9bab4d166b0dbd400924d9
+Size: 4180
+MD5sum: 956aabe9adedad368420a765b1af130f
+SHA1: 2805353bb5a650efff2c32082eab073366f93557
+SHA256: 5e1fe4d5fb6873426bf7d4ed6bfed4ffb2130f9b04e359a00e68a637e9407308
 Section: Tweaks
 Description: A tweak to disable "Reset all content and settings" for Apple TV 4/4K. Compatible with tvOS 10.2.2 - 14.x
 Author: Unknown
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: No Reset
 
 Package: com.zenzeq.rebootoops
@@ -1945,13 +2014,14 @@ Maintainer: Unknown
 Installed-Size: 80
 Depends: mobilesubstrate
 Filename: ./debs/rebootoops.deb
-Size: 5856
-MD5sum: 26b6ca6e2add90633029e140f9ed154a
-SHA1: de44c757a12aa4bdbcc13c6d8fe815575e7b4176
-SHA256: 10f1d55d8f585243a883ae7cc392a855406b77195a7da5a5f19abf722c7a9037
+Size: 5892
+MD5sum: a04e6ba726ad2302cf527582864c8da5
+SHA1: 0eebce089d0b51921e9ee9f1ec66574da105b318
+SHA256: 55d4d23738f2b5597edf2641e8f91be24d0726adda437f91348f1bc32d12dc00
 Section: Tweaks
 Description: To reboot or not to reboot, that is the question.
 Author: Unknown
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Reboot, Oops!
 
 Package: crash-reporter
@@ -2006,14 +2076,15 @@ Maintainer: Kevin Bradley <maintainer@nito.tv>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: openssl
 Filename: ./debs/curl_7.50.1-1_appletvos-arm64.deb
-Size: 1322172
-MD5sum: 551645cfd13cb6ead9aea4295b07006b
-SHA1: 7db842e15121348438987b35e387c512dce16992
-SHA256: 210f2d20eae924591423372cb216e69253db9992285f2e526071c1ed62e3e53d
+Size: 1322676
+MD5sum: 9e278c12fa2377f0caeba1597dfc0cc3
+SHA1: bbe01d0c5abe88eca9a45a12a72b68e8e2fdfe24
+SHA256: 06cb26b5d19fd9617aa883bbadee920eb89cea54958ed58ee66755d2c54da5a7
 Section: Networking
 Priority: standard
 Homepage: http://curl.haxx.se/
 Description: flexible multi-protocol file transfers
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: cURL
 
 Package: curl
@@ -2023,14 +2094,15 @@ Maintainer: Kevin Bradley <maintainer@nito.tv>
 Pre-Depends: dpkg (>= 1.18.23-2)
 Depends: openssl
 Filename: ./debs/curl_7.50.1-2_appletvos-arm64.deb
-Size: 428890
-MD5sum: 8a959c648d3b144e07116c163be3e7c4
-SHA1: 73eb9c133aaae5f9334e8b48f12f2da179a45502
-SHA256: 37f42b51bb140b911904e81cf203b6be707fe4b670a4cb3a8556e7bae10aaf70
+Size: 428804
+MD5sum: 6cdb6fc0f80ab1dd939ca17ba0d65052
+SHA1: 5e48a7496f39b4679d2f298162fa48236f99b755
+SHA256: 39fcf4e793a21fd6819a29b061153d80095c463243b871d6d8bbbd9ea4913ac6
 Section: Networking
 Priority: standard
 Homepage: http://curl.haxx.se/
 Description: flexible multi-protocol file transfers
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: cURL
 
 Package: curl-dev
@@ -2039,14 +2111,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Depends: curl
 Filename: ./debs/curl-dev_7.50.1-1_appletvos-arm64.deb
-Size: 40954
-MD5sum: e7399886282fec1d25e0e4da7d450ef9
-SHA1: b4478d325696cba68914c03b6183a8f79a6d7664
-SHA256: 094c4d19762a01f665ac0f95b616f32adb29d493babdd29bb91544bae7bf73cb
+Size: 41056
+MD5sum: aa19b15272548980ffbc26d81c5b2180
+SHA1: b0a7d53f6214d1db595ed9e0876e3da7ebfdb993
+SHA256: 0afa1bb3af3b8015a167ab37406d683b9498a3c39678bd37aee827bab268d65b
 Section: Development
 Priority: optional
 Homepage: http://curl.haxx.se/
 Description: flexible multi-protocol file transfers
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: cURL
 
 Package: curl-doc
@@ -2055,14 +2128,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Depends: curl
 Filename: ./debs/curl-doc_7.50.1-1_appletvos-arm64.deb
-Size: 165454
-MD5sum: 878187d0649553485d76114f9e2ec832
-SHA1: 7c075fb57f816ae9f450b581f910563726c3f163
-SHA256: d6281486ae057d205cb85f575dc02d649c3f03386eb7bb60eaaeabbc67a48bd3
+Size: 165532
+MD5sum: 3af2f46a3014e5848c9cd97d63973718
+SHA1: 0fd4959f9122857aed82b3c939aa43a0128fdeca
+SHA256: 7c42d8012fb25b4290bedde0ce01a0aa3d54bbc176037a44e783a82a3db53eea
 Section: Development
 Priority: optional
 Homepage: http://curl.haxx.se/
 Description: flexible multi-protocol file transfers
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: cURL
 
 Package: cycript
@@ -2072,16 +2146,17 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Breaks: cydget (<< 0.9.4008)
 Filename: ./debs/cycript_0.9.594_appletvos-arm64.deb
-Size: 1207100
-MD5sum: b5d3491a83ba777c5b48753e61ee8df7
-SHA1: 1031947b63aeabf40f2738b7ca6d6809610b186b
-SHA256: 8a616bf063fab1b4e55467386f852f2d5a9723c4f62d5e6adfd4a79a7a8f09aa
+Size: 1207416
+MD5sum: bcbc1deb73798817f20e359f437d219f
+SHA1: bdc11baecc08bbd5c4308e71aeae0d05dcbc24ca
+SHA256: 76d4599ea242c2517d696c0295daca0334a791f6bf2edc2663da81ff38db0998
 Section: Development
 Priority: optional
 Description: runtime execution server and disassembler
 Tag: purpose::daemon, role::developer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cycript/
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Cycript
 
 Package: cycript
@@ -2091,16 +2166,17 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Breaks: cydget (<< 0.9.4008)
 Filename: ./debs/cycript_0.9.700_appletvos-arm64.deb
-Size: 1000786
-MD5sum: d34bb6f11a3a288d2a7f408a29540a63
-SHA1: ad816e58453197729a55f682ea93c2a7953d2ea8
-SHA256: f55337f99029e30dcac986fb619b32ff7c6ce68f01c2152a738b132f507be67e
+Size: 1001028
+MD5sum: bc3ec693a7b798b510378a131aeabe9d
+SHA1: 33bc880ca6bb651bf06ce5ee893f360fb848d5a1
+SHA256: 168f9f32e24a0fe0083b1b1c43044986fa95e16acf47beba4516313bd1b6ceac
 Section: Development
 Priority: optional
 Description: runtime execution server and disassembler
 Tag: purpose::daemon, role::developer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cycript/
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Cycript
 
 Package: cycript
@@ -2110,16 +2186,17 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Breaks: cydget (<< 0.9.4008)
 Filename: ./debs/cycript_0.9.800_appletvos-arm64.deb
-Size: 1018948
-MD5sum: a346b9981649c5b56de2408fccca5b63
-SHA1: c8323f5bc8b91687cace7937d84dc1a188578b49
-SHA256: 23c16b4722f1f75c597a4438bc8b55bcf135f8f3e4fe0f8b5bac74122c2d7f77
+Size: 1018564
+MD5sum: 1a89cb0a789b2bc220301956dc86689e
+SHA1: f94a82c71d7d2cba5ad68d3fd6e49323e4757a8c
+SHA256: 78819968a53966c5cdb7314c42a05d2046f510c49e6a6749857eddf25531380d
 Section: Development
 Priority: optional
 Description: runtime execution server and disassembler
 Tag: purpose::daemon, role::developer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cycript/
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Cycript
 
 Package: cycript
@@ -2129,16 +2206,17 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Breaks: cydget (<< 0.9.4008)
 Filename: ./debs/cycript_0.9.801_appletvos-arm64.deb
-Size: 1021666
-MD5sum: dc45fefe6873b76a38441a088d7d843d
-SHA1: 2c3e5b53451a1658430a57a0f8fe22395a3056a3
-SHA256: fb4199d93e95b67699f506b1521ceec1b525cd276e59ba9ee477213aeb037ae3
+Size: 1021452
+MD5sum: dc53a970627ce179f7a515ef3dfeca68
+SHA1: a7ea3541c527e4e5da41547d90fceacc4b920026
+SHA256: a0f98580343b1667189d5e125d8a9157ea8fd25e3242d282af103b9e1a402e0c
 Section: Development
 Priority: optional
 Description: runtime execution server and disassembler
 Tag: purpose::daemon, role::developer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cycript/
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Cycript
 
 Package: cycript
@@ -2149,16 +2227,17 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: mobilesubstrate (>= 0.9.7100~b6)
 Breaks: cydget (<< 0.9.4008)
 Filename: ./debs/cycript_0.9.802_appletvos-arm64.deb
-Size: 998628
-MD5sum: 87348a59b42dddfb14dce4a17154700f
-SHA1: 0cd1c96c1e5f1022fef3e2fe71cb8db1d42e0065
-SHA256: bdb6097abf90057dfea8bb22c6755ef93add5bca1ab55f5ff65a29da4befd751
+Size: 999700
+MD5sum: c56b2477ab12398606f3af5915acf900
+SHA1: b99b3e39486b7a0bc4f958648e167bd45f26b805
+SHA256: 7362ffdd9e3e9600254c133523c264f5017cf0430f2db20dc18c249852d99dff
 Section: Development
 Priority: optional
 Description: runtime execution server and disassembler
 Tag: purpose::daemon, role::developer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cycript/
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Cycript
 
 Package: darwintools
@@ -2213,14 +2292,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Depends: bzip2, coreutils, diffutils, findutils, xz, tar
 Filename: ./debs/dpkg_1.18.23-1_appletvos-arm64.deb
-Size: 405796
-MD5sum: 6b931a75be9991d4a59fceddd3c550f1
-SHA1: 25e893ac5a9b9532367cbc0d8542f33439b205d3
-SHA256: b5679e5880f6e5e56b1ce0664040c4bed69a8b478c7a0890be6a902a1efb1ea2
+Size: 405424
+MD5sum: e2427f1482347cf2bc3d1c0204a79d4a
+SHA1: 559b3edd4417eb2f91a1949eb0d7b137cff2de05
+SHA256: 2bd9557dface6c6e41b847af0f848a46dceb2617d9a9d3cae744993d1edf250f
 Section: Packaging
 Priority: required
 Homepage: http://wiki.debian.org/Teams/Dpkg
 Description: package maintainance tools from Debian
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Debian Packager
 
 Package: dpkg
@@ -2229,14 +2309,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Depends: bzip2, coreutils, diffutils, findutils, xz, tar
 Filename: ./debs/dpkg_1.18.23-2_appletvos-arm64.deb
-Size: 405404
-MD5sum: 3fe189853824ba3817bd22a9aa1148b4
-SHA1: 90214d13ba6993123ff8ba92d10d978bfe6371f2
-SHA256: ec06b42b89c870bb91da13d2d1ce17b2c453845907c0010b098ffe7a021b911d
+Size: 405380
+MD5sum: b1516e3c4b6adcef0e128719c155b3c7
+SHA1: c9d69043f062387cac148f2790e8110fd6239aca
+SHA256: 489a728bde785f0f04ad360b7930b00646b2249c8e43fa9fb7d6c642fe97bc15
 Section: Packaging
 Priority: required
 Homepage: http://wiki.debian.org/Teams/Dpkg
 Description: package maintainance tools from Debian
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Debian Packager
 
 Package: dpkg-dev
@@ -2245,14 +2326,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Depends: dpkg
 Filename: ./debs/dpkg-dev_1.18.23-1_appletvos-arm64.deb
-Size: 18444
-MD5sum: 3f43ea3f74f8cbc64b2c425a8574c5a0
-SHA1: f90fd4ed93b06832a82d8c33fd13f71720b844a0
-SHA256: 22f2e450bba1a1566cd77958375cd1b663fbfad054770816d849a079671fe8c8
+Size: 18556
+MD5sum: 5ba827392276e6f864ee6e81ea5c87aa
+SHA1: 5a818472a08d8a775438b44cccfecdb38a44c2a9
+SHA256: 665f1bd90de07c76c844795f0ee6828f6b21a901b165eb8f44245aa70e508202
 Section: Development
 Priority: optional
 Homepage: http://wiki.debian.org/Teams/Dpkg
 Description: package maintainance tools from Debian
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Debian Packager
 
 Package: dpkg-doc
@@ -2261,14 +2343,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Depends: dpkg
 Filename: ./debs/dpkg-doc_1.18.23-1_appletvos-arm64.deb
-Size: 122288
-MD5sum: be284b5c0d8e97ca62571ed17552b110
-SHA1: 4fb73ce66d7bbc6f70394631d1de60ffbecb2d23
-SHA256: 8cabc5f9edb9586f7d084403a44ff0ccda1722d0bac4f5a2a61ef0d7bf0c1f40
+Size: 122400
+MD5sum: c7d69535a1cfcd53a2288a083fc8a28d
+SHA1: dace698bed3cf84d756a665135769f332942f9a9
+SHA256: 257493d1d5028f17bf176dfe0f9a51e7bd74af0c2268827a557f871b0347665b
 Section: Development
 Priority: optional
 Homepage: http://wiki.debian.org/Teams/Dpkg
 Description: package maintainance tools from Debian
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Debian Packager
 
 Package: file
@@ -2373,14 +2456,15 @@ Architecture: appletvos-arm64
 Maintainer: DreamDevLost
 Installed-Size: 444
 Filename: ./debs/io.github.ddv.class-dump-ios_1.0.1-6_appletvos-arm64.deb
-Size: 124590
-MD5sum: d81a976b23a781fef1abd40fe373c19b
-SHA1: 7bc0c174b68a01122d7690fdd5ee5d72733a5b6e
-SHA256: fc54bda25b49ea66e9f83b2bf6d4938f6b39f8548987ffdf9f1b87e543010e66
+Size: 116692
+MD5sum: 98666f22fb39650425f842a1f48f3c90
+SHA1: b0bfc0f781037ce4577c7ae47d3c4e050924423e
+SHA256: b72b7b7d2559b5bb49d221d8799d80557850bbf63b68d286d9d69bf1ac24adc3
 Section: System
 Description: class-dump is a command-line utility for examining the Objective-C segment of Mach-O files. It generates declarations for the classes, categories and protocols.  This is the same information provided by using 'otool -ov', but presented as normal Objective-C declarations.
 Tag: role::hacker
 Author: DreamDevLost
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: class-dump-ios
 
 Package: io.github.ddv.class-dump-ios
@@ -2389,14 +2473,15 @@ Architecture: appletvos-arm64
 Maintainer: DreamDevLost
 Installed-Size: 444
 Filename: ./debs/io.github.ddv.class-dump-ios_1.0.2-1_appletvos-arm64.deb
-Size: 125182
-MD5sum: 90bf67eb3221a7842c0c3d97b0ba6fc2
-SHA1: 95691e7ea00d615326e1e11ba0f9523fe472b127
-SHA256: 437f014dbd24310d0910f1e1a63b3e0be2ce46ddf04494255b4f5627eddbb83b
+Size: 117188
+MD5sum: 74670d28c8f4f383a9a881c1f7897639
+SHA1: f0751c440ad343a1721bd18c9287b6fad79ddfe1
+SHA256: 205bf0ece9fd4a13fed96192f975a699e1a2b98b57c19d81da164441d36c723c
 Section: System
 Description: class-dump is a command-line utility for examining the Objective-C segment of Mach-O files. It generates declarations for the classes, categories and protocols.  This is the same information provided by using 'otool -ov', but presented as normal Objective-C declarations.
 Tag: role::hacker
 Author: DreamDevLost
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: class-dump-ios
 
 Package: launchctl
@@ -2407,13 +2492,14 @@ Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Replaces: jailbreak-resources (<< 1.0~b27)
 Filename: ./debs/launchctl_25_appletvos-arm64.deb
-Size: 40514
-MD5sum: c402cf0965e010b2a50e7566bd1fe67b
-SHA1: 29b6014cbb8419a3acd2c2919ce0233894c66cb4
-SHA256: 7fef3a5d36b49e137a6de431b668d61a3cabe76e46ecb100228ec977c76dba93
+Size: 32988
+MD5sum: 55a8db3f87bdfe3e3ce2e4b3d80a84af
+SHA1: 983a03359034428cb8aabf7a7863dca010ac4fc1
+SHA256: a9751b2bfa38eb2980e95f9e35c93413996acfde8f7e110544c7658fbd8bf924
 Section: System
 Priority: required
 Description: Tells launchd what to do
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Launch Daemon Controller
 
 Package: ldid
@@ -2424,14 +2510,15 @@ Installed-Size: 464
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libplist3, libssl1.1.1, dpkg (>= 1.18.25-9)
 Filename: ./debs/ldid_2%3a2.1.2.7+g5420cb5q-1_appletvos-arm64.deb
-Size: 52186
-MD5sum: 9e92c1e4b0555bd0432f811b67f2fd22
-SHA1: 441eeb3cc8f0f2a15806a5e9397ccd1d39a0cc08
-SHA256: b249e96818afc17461ca45da483f00cc6db59dff411debebca37957b64fe6f97
+Size: 52384
+MD5sum: c076c8faf2bc0f544536905ffcca4219
+SHA1: 45b86a5959c3d78dafcc3c700280c59b9b10d30d
+SHA256: 0c2aa13127059129ec918768c81c710ab0f9f016e12004b47803944d200a247b
 Section: Development
 Priority: optional
 Description: pseudo-codesign Mach-O files
 Author: Jay Freeman (saurik) <saurik@saurik.com>
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Link Identity Editor
 
 Package: ldid
@@ -2442,14 +2529,15 @@ Installed-Size: 488
 Pre-Depends: dpkg (>= 1.14.25-8), libplist3
 Depends: libplist3, libssl1.1.1, dpkg (>= 1.18.25-9)
 Filename: ./debs/ldid_2%3a2.1.4-1_appletvos-arm64.deb
-Size: 57218
-MD5sum: 378d0008022c562c235514cec80ea3a6
-SHA1: 8070acebdd2087b85280b05fd26ecfe2474fe468
-SHA256: 8fe6ebe015d5596a4426f62b0b1da1844e6c54e84cef34c24cb5636dc4e962c6
+Size: 57412
+MD5sum: 51bfa77eca5a2a03ad487cddd744971a
+SHA1: cde7786c5b76d1b89b2f58969d7828451e3825aa
+SHA256: 3becdb1138dc1167b1970782bbd0603c9b5aaec4148e18a2fd5ff38306a5b90e
 Section: Development
 Priority: optional
 Description: pseudo-codesign Mach-O files
 Author: Jay Freeman (saurik) <saurik@saurik.com>
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Link Identity Editor
 
 Package: libflex
@@ -2992,51 +3080,57 @@ Name: New Curses
 Package: net.limneos.classdump-dyld
 Version: 1.1
 Architecture: appletvos-arm64
+Maintainer: Elias Limneos
 Conflicts: com.limneos.classdump-dyld
 Replaces: com.limneos.classdump-dyld
 Provides: com.limneos.classdump-dyld
 Filename: ./debs/net.limneos.classdump-dyld_1.1-appletvos-arm64.deb
-Size: 70066
-MD5sum: 9b27c900fe7dc7388416bdc20e673a6c
-SHA1: aaef4289b62160ef078dbfc5bfe6c3aa85c7ea56
-SHA256: 74ec393b024531500b033a2aaa93b468f8d1f7193da8d1e3368fd301cbd761ad
+Size: 70396
+MD5sum: 6719fb3a1f9864909c947966f4619c6d
+SHA1: 2f9ad600bc8dd1042d0b34a38e579334b1237df4
+SHA256: 11e16dd627a986b2ebd255be659c57b06b742c9f86c085fecaea4d333f5413ff
 Section: System
 Description: Class-dump most images on device or shared cache
 Tag: purpose::extension, role::developer
 Author: Elias Limneos <limneoselias@gmail.com>
 Dev: limneos
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: classdump-dyld
 
 Package: net.limneos.classdump-dyld
 Version: 1.1-126
 Architecture: appletvos-arm64
+Maintainer: Elias Limneos
 Installed-Size: 408
 Filename: ./debs/net.limneos.classdump-dyld_1.1-126_appletvos-arm64.deb
-Size: 126510
-MD5sum: 80529ce906854e56ef9239a16d405b17
-SHA1: e39aebe92f8b3d29c1c9d755b1afcad879a47ab9
-SHA256: 85149383a0690204e11e52a7f985250b3391cfc81bbf4e39febc9aeb81cd2c1e
+Size: 77304
+MD5sum: c6174516fd31e000ec93b4e8e7031f4e
+SHA1: f823332b465bc8985e00fb18cf00a7509ab2fc06
+SHA256: d8748e5da6e02e98f7333b89f2168f2565e326f8b8c784e0530e7f0209f25a1b
 Section: System
 Description: Class-dump most images on device or shared cache
 Tag: purpose::extension, role::developer
 Author: Elias Limneos <limneoselias@gmail.com>
 Dev: limneos
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: classdump-dyld
 
 Package: net.limneos.classdump-dyld
 Version: 1.5-3
 Architecture: appletvos-arm64
+Maintainer: Elias Limneos
 Installed-Size: 392
 Filename: ./debs/net.limneos.classdump-dyld_1.5-3_appletvos-arm64.deb
-Size: 124250
-MD5sum: 41dd5313858f734ccc355e0edd746399
-SHA1: ba96a1a14616847ba7d243b99f4e4546fa832a19
-SHA256: db8bc6f5d7520ba2f5df10001664cc727d7e6d7d614326ad16259d09b75d549a
+Size: 76304
+MD5sum: b99242cecad0b0893fa2642eec663534
+SHA1: fb5943c44f2fc35c72a41f68aaf8b0829bb12dcb
+SHA256: 5e6a9c1357e138b463c961b5b71d61ffc2a2fbc6a2d6d6ca1d9c2a21f198150b
 Section: System
 Description: Class-dump most images on device or shared cache
 Tag: purpose::extension, role::developer
 Author: Elias Limneos <limneoselias@gmail.com>
 Dev: limneos
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: classdump-dyld
 
 Package: net.limneos.classdump-dyld
@@ -3425,70 +3519,75 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/readline_7.0-1_appletvos-arm64.deb
-Size: 117730
-MD5sum: 64c01054344a56f4e7de438d51a79261
-SHA1: 38b84744f95a7307117fcb808cb9fd7ec8610a55
-SHA256: f917b2235517b3ac33ce3f3ce2f2bf755cc7552eb8148bdaf0b41421b0a17646
+Size: 117764
+MD5sum: 716bf297c06008ffaf0cc638f62e233f
+SHA1: 38f200feacb58bd1aed559fc229242688f248b47
+SHA256: 2f759603eafbd43fe06b5a3756231d493bef50cd438242b3f2f8d88324082384
 Section: Development
 Priority: required
 Homepage: https://tiswww.cwru.edu/php/chet/readline/rltop.html
 Description: command-line history management
+Icon: https://zenzeq.github.io/tv/terminal.png
 
 Package: readline-dev
 Version: 7.0-1
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/readline-dev_7.0-1_appletvos-arm64.deb
-Size: 16346
-MD5sum: 5c5e7d67c2d4dc67608076fad3df93b2
-SHA1: 8ccec877d605713852158019d94f9e3aca31f379
-SHA256: b77e7451406237030348dede406a21c1b9c0009f49c51fbe373033a1aadb5579
+Size: 16436
+MD5sum: 8983ecbfcb6aff37016b541f244196ad
+SHA1: 57178f40819872e6f741a968210d90e8622e3552
+SHA256: 302ddbdeca4db18db4b5c0c604cef93cfbed2ea8ef6c70d104ac6581b64667f0
 Section: Development
 Priority: optional
 Homepage: https://tiswww.cwru.edu/php/chet/readline/rltop.html
 Description: command-line history management
+Icon: https://zenzeq.github.io/tv/terminal.png
 
 Package: readline-doc
 Version: 7.0-1
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/readline-doc_7.0-1_appletvos-arm64.deb
-Size: 100488
-MD5sum: 5baeb1962f4dddf46f3dcaefe3d56117
-SHA1: 4a32770d6e1c0786fa7b7f2d82006c396b7f4d63
-SHA256: f0908ac194582c61e0694b5e73900a418bc455fa83de7ebfa2f581c3e8b7945b
+Size: 100580
+MD5sum: a5540ad12387de754c08618464dee1bb
+SHA1: 5b5c2fd4facfe5c8d775007d1b3ceab97b307f89
+SHA256: 1f141b2c2d1749ed42a2635b939a75d601053e8460a7541bf6d73b8132c7f9ba
 Section: Development
 Priority: optional
 Homepage: https://tiswww.cwru.edu/php/chet/readline/rltop.html
 Description: command-line history management
+Icon: https://zenzeq.github.io/tv/terminal.png
 
 Package: sed
 Version: 4.4-1
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/sed_4.4-1_appletvos-arm64.deb
-Size: 86996
-MD5sum: 51efd48afa1c39ecdd578e1461cabf71
-SHA1: 0f26943ab0311f94e58b3382de3d9afcf0406f90
-SHA256: 29b3bf4a41c2ab650c3feafd68693554355e37acd2d46a25c271876f9de9be3d
+Size: 87116
+MD5sum: 522ea438061239cec2e051d421763a97
+SHA1: 07344fa8293f17d03cf5cb6b9b6c0c96f517b4f4
+SHA256: e79a489a0687ad53e4d0f5463ba211218001aa132da8052b47977257cd53b103
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/sed/
 Description: edits streams of text using patterns
+Icon: https://zenzeq.github.io/tv/terminal.png
 
 Package: sed-doc
 Version: 4.4-1
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/sed-doc_4.4-1_appletvos-arm64.deb
-Size: 49606
-MD5sum: 80632ec44be52798fb8e7b6ccbe2d914
-SHA1: 0dd1fdbc21155241ad58f2fdec6437aa31434341
-SHA256: 56c34b5fcb07e44525ef86dc3301260afcd7a4a02d2d5d8e2719a3033703c720
+Size: 49732
+MD5sum: 90c095cc2a78cc3da4d1009b44220a52
+SHA1: a68da453fc8c9d30e7ae1eb3401052ca3fc30793
+SHA256: 1b55b5b6dc3fce2325e6bb15e44b45da8d37023d08ec96594466609ebb3d6870
 Section: Development
 Priority: optional
 Homepage: http://www.gnu.org/software/sed/
 Description: edits streams of text using patterns
+Icon: https://zenzeq.github.io/tv/terminal.png
 
 Package: system-cmds
 Version: 790.30.1-2
@@ -3514,15 +3613,16 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Depends: bzip2, xz
 Filename: ./debs/tar_1.30-1_appletvos-arm64.deb
-Size: 244192
-MD5sum: bbd325a10812c880223e6a4bfa771c85
-SHA1: 24f023de979a144f27e7fe02718eaeaae1b31ed8
-SHA256: b527f05817a170aa89d36ef26ec51bef29370a0ba3c2772bfd2883564512bd8b
+Size: 244236
+MD5sum: c569374ccf32ffaef1da149b8fc5e6c3
+SHA1: 7abdfe341def3d3ca4c15a762352822dead0fdfc
+SHA256: 442c27bcb6515c0530f70e180abe8b15e325bf7b3a2e793f4f2f2af8565ba63b
 Section: Archiving
 Priority: required
 Homepage: http://www.gnu.org/software/tar/
 Description: tool for making tape archives
 Tag: purpose::console, role::hacker
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Tape Archive
 
 Package: tar
@@ -3549,15 +3649,16 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Depends: tar
 Filename: ./debs/tar-doc_1.30-1_appletvos-arm64.deb
-Size: 161434
-MD5sum: 4cc35b5c2ad6ff9e510f4173a3980399
-SHA1: fef05d312fb76acf567c22749e6df3cad4a6f31e
-SHA256: 73caf2c17b2770e7446ec4a3fd6c9b9d8d9e35b332ed3662924b2b8435c9faad
+Size: 161492
+MD5sum: e070e90c63c22985c24fffd9daa8bb7f
+SHA1: e5ecc3dd997208167036b4d7d6509e0055c256aa
+SHA256: badb2a8b90cf7006ff874709dde00c1ffa846e30815d7065d6a81adc261ec916
 Section: Development
 Priority: optional
 Homepage: http://www.gnu.org/software/tar/
 Description: tool for making tape archives
 Tag: purpose::console, role::hacker
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Tape Archive
 
 Package: uikittools
@@ -3581,14 +3682,15 @@ Architecture: appletvos-arm64
 Maintainer: CoolStar <coolstarorganization@gmail.com>
 Depends: cy+cpu.arm64
 Filename: ./debs/unzip_6.0_appletvos-arm64.deb
-Size: 74282
-MD5sum: aee3fd4cf5afdaa4422140ac20c2fc28
-SHA1: 3a05d16ff6c7ce652155c1166dae3a2bc4eb95fd
-SHA256: e5a7627f739036f9ae2f405b4f5fc4db4cf11fc1332e823df4e59d4f9ec36c87
+Size: 74364
+MD5sum: 28fce4dde4df379791d559fd9cdaa0e8
+SHA1: a6d6e4158740e6bdfb917f8dc5ac9aa27c803e9f
+SHA256: c18cb394c00a359505ed528220370a3cb48cbd810b53d2a5574e8684c0d259bd
 Section: Archiving
 Priority: important
 Description: de-compesses files in zip format
 Tag: purpose::console, role::hacker
+Icon: https://zenzeq.github.io/tv/terminal.png
 
 Package: unzip
 Version: 6.0-1
@@ -3596,14 +3698,15 @@ Architecture: appletvos-arm64
 Maintainer: CoolStar <coolstarorganization@gmail.com>
 Depends: cy+cpu.arm64
 Filename: ./debs/unzip_6.0-1_appletvos-arm64.deb
-Size: 75134
-MD5sum: a78a0265617e880475fddc7803ec667d
-SHA1: 8a8e66025764010846b9ec2c74902f755a36253f
-SHA256: ddfbfbc38450dca5a37970a7774d547cb3597cf092e8d69eb7e3e53f7ba97ec3
+Size: 75228
+MD5sum: 7851e6904f7f2bc6e432bede95d8ee8e
+SHA1: c133fff73ca2a9be1cef8945782ff4f168b8a5b0
+SHA256: d1b31ba8bea7403bceef87df52e5a4db8126c4a53bfddf6bd077f7cc2974552d
 Section: Archiving
 Priority: important
 Description: de-compesses files in zip format
 Tag: purpose::console, role::hacker
+Icon: https://zenzeq.github.io/tv/terminal.png
 
 Package: us.diatr.wiivamptv
 Version: 1.0b3
@@ -3612,14 +3715,15 @@ Maintainer: Diatrus
 Installed-Size: 10864
 Depends: mobilesubstrate, preferenceloader (>= 1.1-1)
 Filename: ./debs/us.diatr.wiivamptv_1.0b3_appletvos-arm64.deb
-Size: 10814204
-MD5sum: 8b7cab039ead24db64cef5caf5a72fc0
-SHA1: 069ed29ad53fabf4bb877fcdb8218fb4dd4d5627
-SHA256: 27f4de0257b9f88562db8207578bf0850297b01ca6bc911d5cd8a81873355027
+Size: 10814312
+MD5sum: cb92b315990a197f6844737a3f63f8aa
+SHA1: f87565d9a134c0e03cb63cdb682bf345a3c67b04
+SHA256: d679741a5f421a26497fa4109ab0484542f98393fc717711ace930d921213d26
 Section: Tweaks
 Description: Play your favorite Wii songs inside your apps! A rewrite for the AppleTV of Wiivamp by Jack.
 Author: Diatrus
 Depiction: https://diatr.us/nito/depictions/wiivamptv/wiivamptv.json
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: WiivampTV
 
 Package: us.diatr.wiivamptv
@@ -3629,14 +3733,15 @@ Maintainer: Diatrus
 Installed-Size: 10864
 Depends: mobilesubstrate, preferenceloader (>= 1.1-2)
 Filename: ./debs/us.diatr.wiivamptv_1.0b4_appletvos-arm64.deb
-Size: 10814204
-MD5sum: 7dd541f338258fc7ebe83e2f26ee3224
-SHA1: ca037fc40e29039137feb7014c616b24d4c04621
-SHA256: 5052a84180db1d0d681468c876aaccacfc0c922c5626d1a70d2f6ae96fcec13e
+Size: 10814308
+MD5sum: fdd72a3fb31f84fa65e5f78b498a5d8f
+SHA1: 1b1bddf585c9eb271ea0a9be31c1c9d3b1392035
+SHA256: 7ac4ae4fb69cd2820f47cba6e262886b57cbcffb2842d7d9dc67516f33b3a589
 Section: Tweaks
 Description: Play your favorite Wii songs inside your apps! A rewrite for the AppleTV of Wiivamp by Jack.
 Author: Diatrus
 Depiction: https://diatr.us/nito/depictions/wiivamptv/wiivamptv.json
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: WiivampTV
 
 Package: uuid
