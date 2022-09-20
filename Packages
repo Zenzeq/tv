@@ -5,14 +5,15 @@ Maintainer: Kevin Bradley
 Installed-Size: 188
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
 Filename: ./debs/applist_1.0-14_appletvos-arm64.deb
-Size: 26016
-MD5sum: ac092b235b3e20fb261037c9dc4a52af
-SHA1: 60396cac60b02ba4550ab89b9f0670860a112701
-SHA256: ffdb338f1721f78b15f061c150d8677060f712a3c2bc3a9e48a629622e27c663
+Size: 51036
+MD5sum: 8041d97cbb6fa8d155681d83e554a45c
+SHA1: af6072c82b51e088646a98f526a4b5a05328fe7b
+SHA256: a60b6a929db70674d85ce50980dacdc78e6bccc47fc6828ceecfb79b520147bf
 Section: System
 Description: Allow extensions to read the list of installed apps, for tvOS!
 Tag: role::developer
 Author: Kevin Bradley & Ryan Petrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: AppList
 
 Package: applist
@@ -22,14 +23,15 @@ Maintainer: Kevin Bradley
 Installed-Size: 188
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
 Filename: ./debs/applist_1.0-15_appletvos-arm64.deb
-Size: 26026
-MD5sum: 5b112387b6981055429c73923cf415b7
-SHA1: 92a514845cfdd1e5aa1529da1dc0ece36669894e
-SHA256: 135d93fd2663e6a12731492b36a528ec5c52f385e1a1520b72af0e94235cbbcd
+Size: 24648
+MD5sum: 8f4b172a4f7a891baf65e9c51bbbeec2
+SHA1: 524149fec83008bc74ad8929e596dc9ab5b44880
+SHA256: 3ccd3e89ef26fbd8cd98a6897a69078765954b104894b0f1a0cff9109b79107d
 Section: System
 Description: Allow extensions to read the list of installed apps, for tvOS!
 Tag: role::developer
 Author: Kevin Bradley & Ryan Petrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: AppList
 
 Package: applist
@@ -39,14 +41,15 @@ Maintainer: Kevin Bradley
 Installed-Size: 188
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
 Filename: ./debs/applist_1.0-16_appletvos-arm64.deb
-Size: 26072
-MD5sum: b1cac055f0bf59e74150140e7afdfe72
-SHA1: b6a7e7078ffb5d26f53b4184a65e927cf550da6d
-SHA256: a1c401cadf0d6afd4c0d0bdbfc78a25c7c23aeae5c18c95da47db3c627b1225e
+Size: 24744
+MD5sum: 92c534d7cb0fdc40adfe6fac9374b439
+SHA1: b6967efd2a19171d018c76d91e8b913d14b0bb4c
+SHA256: 0f378790645c80193f0adce300aa007bed45f01df2715f8cf65612c4dafa1f75
 Section: System
 Description: Allow extensions to read the list of installed apps, for tvOS!
 Tag: role::developer
 Author: Kevin Bradley & Ryan Petrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: AppList
 
 Package: applist
@@ -56,14 +59,15 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
 Filename: ./debs/applist_1.0-21_appletvos-arm64.deb
-Size: 26872
-MD5sum: 7937bffada1e8d62f249f0378cf0d82e
-SHA1: 963076720b956bbf9d62c8051694dfdeed1a8107
-SHA256: 23111d3955cf47452df91e7811a9ca41f085fe6b39e18bc6745f2d56848859a1
+Size: 25436
+MD5sum: f24b2f3824fa26487fd967857ca050d8
+SHA1: 3c3ac2d3a86a1096ace83c3daee5c20f8562023f
+SHA256: d2e19779cc05090c0dba5b58d50f3d491cd201a3b4f7ddd19be7b3041d39e23f
 Section: System
 Description: Allow extensions to read the list of installed apps, for tvOS!
 Tag: role::developer
 Author: Kevin Bradley & Ryan Petrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: AppList
 
 Package: applist
@@ -73,14 +77,15 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
 Filename: ./debs/applist_1.0-33_appletvos-arm64.deb
-Size: 27402
-MD5sum: 627acf0bed4730ecc376f84acee44bd7
-SHA1: 933c4a3b4309a600a8d197ceb6b7e8da7a4e5370
-SHA256: ee0fd542bf3aaa36a428b234921076bfb4fba06990fd9c36fbd3da2056d1ecbb
+Size: 25972
+MD5sum: c030d90c866c1893daad721514e6d2b9
+SHA1: bbc6463b6beb27a3ae9ee687d3ed3b5e12b55ed9
+SHA256: e537981fd87dd60866f6121af56196dbbb64a834c9b64ca13f4ba047c8cf852e
 Section: System
 Description: Allow extensions to read the list of installed apps, for tvOS!
 Tag: role::developer
 Author: Kevin Bradley & Ryan Petrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: AppList
 
 Package: applist
@@ -90,14 +95,15 @@ Maintainer: Kevin Bradley
 Installed-Size: 192
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
 Filename: ./debs/applist_1.0-38_appletvos-arm64.deb
-Size: 27786
-MD5sum: 5f3bf2c535f81ade27176bf4b1e72f09
-SHA1: a4b9048f745b053ce7f559f8c367fcc39a2ac10b
-SHA256: 8cb69f093ec7774c0d87340110636b5d3511f8bf31d215d919614b61f3df2fdb
+Size: 26404
+MD5sum: fa88cc7a0dff361b3cb0fcb3c7582674
+SHA1: dc2909a0a3f9e71ee6a5b42e8280e2df64271711
+SHA256: 49cf8bcd5e8f88f990c6b145b261b9655bd64c279d7aac856672457d384fc08e
 Section: System
 Description: Allow extensions to read the list of installed apps, for tvOS!
 Tag: role::developer
 Author: Kevin Bradley & Ryan Petrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: AppList
 
 Package: applist
@@ -107,14 +113,15 @@ Maintainer: Kevin Bradley
 Installed-Size: 188
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
 Filename: ./debs/applist_1.0-6_appletvos-arm64.deb
-Size: 25924
-MD5sum: af06b8bd66410e686f3396d45cec6a77
-SHA1: 554255641da2a8e82f605f6884e8991d63f66c4c
-SHA256: bccf7225c558170fc7d0a4c15f2ed0b8f8850c9ba3df56473ea2d783cc5d84c9
+Size: 24600
+MD5sum: 65f74ad8432567ae4923a6e531ead42b
+SHA1: 5031c2ee8eded5f4135be48204ca4929467ffdfc
+SHA256: 18c51d8dcd3bb9664b5f3590f97c4cc8bf6321869acdfcbd155247e779b05160
 Section: System
 Description: Allow extensions to read the list of installed apps, for tvOS!
 Tag: role::developer
 Author: Kevin Bradley & Ryan Petrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: AppList
 
 Package: applist
@@ -124,14 +131,15 @@ Maintainer: Kevin Bradley
 Installed-Size: 252
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
 Filename: ./debs/applist_1.1-8_appletvos-arm64.deb
-Size: 86860
-MD5sum: 0feb356bf224bee6747d79bd6db01130
-SHA1: fb1ce7f13b631aeb241aa64259d3a75c11923aeb
-SHA256: 6169067fdc3136ef3ced436da0ba3baa456bc435713a3017d19120df5967c543
+Size: 85304
+MD5sum: dfd6505fb21933e33fbf43fff3797e95
+SHA1: 6a5193b723eeafc9c61de648c149dc2c8bc548e6
+SHA256: 694d195c8588e87f12881c67608962d3ae751e272d4daafcacbfd4791e571e3a
 Section: System
 Description: Allow extensions to read the list of installed apps, for tvOS!
 Tag: role::developer
 Author: Kevin Bradley & Ryan Petrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: AppList
 
 Package: applist
@@ -141,14 +149,15 @@ Maintainer: Kevin Bradley
 Installed-Size: 268
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-1)
 Filename: ./debs/applist_1.2-2_appletvos-arm64.deb
-Size: 92302
-MD5sum: b00349e4b346e928efb55a1dbd91c1d3
-SHA1: 0c952b0b0d47b486347c94afffbf45e16fd5e3b7
-SHA256: dabcb2b8fef3f108224d70bb44a2379148d47aaa82c9913809b6718d621b1ea5
+Size: 90292
+MD5sum: d651e124a24ebfb360346ce61ad1e1e3
+SHA1: 5875ffa3846a2ce5f60f9c18b68b84686bdb4d7e
+SHA256: 2c6823f4f51c4d990cbb962e39a18995279a243ad5d10c89221fa05251a19db4
 Section: System
 Description: Allow extensions to read the list of installed apps, for tvOS!
 Tag: role::developer
 Author: Kevin Bradley & Ryan Petrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: AppList
 
 Package: applist
@@ -158,14 +167,15 @@ Maintainer: Kevin Bradley
 Installed-Size: 268
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.4-14)
 Filename: ./debs/applist_1.2-5_appletvos-arm64.deb
-Size: 91944
-MD5sum: 4d3e7b4b61cc7fa84a7801657d41bf65
-SHA1: ab8f66cde7ecb6e2c92fb6e5f6577c82a5fb7008
-SHA256: 993a8c0f148ccaf180e345b528584807ace6dbd3400fad4b606428156ebe2f44
+Size: 89972
+MD5sum: 1f4bae731e08cf6255ce8ff58ede0ad3
+SHA1: 6160e7c1b864a52aab3ecbef72bb4441ffe4c396
+SHA256: e1e124b703cddb7415ee1ab0d4f55e1a213691ec11898734bd2aa4f0b832f9bf
 Section: System
 Description: Allow extensions to read the list of installed apps, for tvOS!
 Tag: role::developer
 Author: Kevin Bradley & Ryan Petrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: AppList
 
 Package: applist
@@ -175,14 +185,15 @@ Maintainer: Kevin Bradley
 Installed-Size: 252
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.5-1)
 Filename: ./debs/applist_1.2.1-2_appletvos-arm64.deb
-Size: 90498
-MD5sum: de608c49735fb5c2b5ebe15028642108
-SHA1: 02703e5bfe9c0d740e3b84e2609590d4412cf6b1
-SHA256: d0c5ed6d8d2b36b7a2ada16049b09c3da281881eb8cafc254e89a14798f58222
+Size: 88732
+MD5sum: 9bd780e955d67fca6b5ea0c72f64579b
+SHA1: 13547dd093fb0bf1d478e457d149156c3282f346
+SHA256: d73b49204e0aa9070d630600a08d054729c564b44a2cd2666c1b75a68aab10b2
 Section: System
 Description: Allow extensions to read the list of installed apps, for tvOS!
 Tag: role::developer
 Author: Kevin Bradley & Ryan Petrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: AppList
 
 Package: applist
@@ -192,14 +203,15 @@ Maintainer: Kevin Bradley
 Installed-Size: 268
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.5-15)
 Filename: ./debs/applist_1.3-11_appletvos-arm64.deb
-Size: 90786
-MD5sum: e440c42ccfd3e2297c7602e33521847a
-SHA1: b1806ed524e4b1d57f9f9e2436048a45ae35f69c
-SHA256: 297463c8ce7d0395b713663820bbb79ca6af99faa7a3da5de4cbbb3ab9f60442
+Size: 88836
+MD5sum: 00fc8886e1dfcdb0b0a5efcaa4e864d5
+SHA1: f7a7ba7b9e833601e9a23bf6cc029c7a81f76dfc
+SHA256: 3b4988d80342514200f2e22c3761880ffd553ec4e11369a4f62fea19f3c8510b
 Section: System
 Description: Allow extensions to read the list of installed apps, for tvOS!
 Tag: role::developer
 Author: Kevin Bradley & Ryan Petrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: AppList
 
 Package: applist
@@ -209,14 +221,15 @@ Maintainer: Kevin Bradley
 Installed-Size: 268
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 1.5-15)
 Filename: ./debs/applist_1.3-2_appletvos-arm64.deb
-Size: 91142
-MD5sum: e2a541bef0ac027d9af3e128b8a2515a
-SHA1: 18bbd74ade1a050ba4577ae2c7c9302b693580ec
-SHA256: 3d3e9bb234f1f31b677a15b3fa1299b86930cdb09eceefa683d6e943cf32ac98
+Size: 89308
+MD5sum: 06ac0eef4d60adfdbbeaac49b33f6482
+SHA1: 9e6bd69247675a7253e3a98532e23b3625373032
+SHA256: e9c95792e3c6361ab3c75a64605a364545b96482ade1f4f8926b4e705cf0e4a0
 Section: System
 Description: Allow extensions to read the list of installed apps, for tvOS!
 Tag: role::developer
 Author: Kevin Bradley & Ryan Petrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: AppList
 
 Package: com.XsF1re.mcpatchtv
@@ -316,14 +329,15 @@ Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, science.xnu.substitut
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate
 Provides: com.ex.libsubstitute, mobilesubstrate (= 0.9.7100+dummy)
 Filename: ./debs/com.ex.substitute_0.1.15_appletvos-arm64.deb
-Size: 1172536
-MD5sum: 6e3d19ee258e08b109d8c08ae95cd31b
-SHA1: 98274bae319dfed1316ba99c2a8e5b14e740456c
-SHA256: 80a7cc93b9bdea7a5aac796f6d4d99c7dbcb4ab1459d526324391f1f39b95fa6
+Size: 1171324
+MD5sum: b0b78e570fb0712e47b495aa379f9052
+SHA1: 6f7415bd68246cd282348117a811ce7bcac8dfc1
+SHA256: e9b8f7227553fa7acd017ce6023cbd9fbec1ab1476a956ed7b5c74c005f61e07
 Section: System
 Priority: optional
 Description: Substrate substitute for code substitution
 Author: comex <comexk+da@gmail.com>
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: Substitute
 
 Package: com.ex.substitute
@@ -338,14 +352,15 @@ Breaks: com.saurik.substrate.safemode (<<0.9.6004)
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate
 Provides: com.ex.libsubstitute, mobilesubstrate (= 0.9.7100+dummy)
 Filename: ./debs/com.ex.substitute_2.0.9_appletvos-arm64.deb
-Size: 4688868
-MD5sum: 20856336b999a143ef2ee979cc18ef88
-SHA1: 0f6c52be89aa4251ca298b272cdbff575871f9cd
-SHA256: d7639c7f76c5b4822a84f6f108aa3114818120659dd0b90cba8d4df86127cb30
+Size: 4649168
+MD5sum: 57562fc984df63666a2aa52fd8161bbf
+SHA1: b5d2049205e44445b5449861e0cf8f6d2736c94d
+SHA256: 73799efbfaff51d80e85c1c6542b9e12385b85432e5e0fd1bbe0e7cc2c6bae20
 Section: System
 Priority: optional
 Description: Substrate substitute for code substitution
 Author: comex <comexk+da@gmail.com>
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: Substitute
 
 Package: com.ex.substitute
@@ -360,14 +375,15 @@ Breaks: com.saurik.substrate.safemode (<<0.9.6004)
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate
 Provides: com.ex.libsubstitute, mobilesubstrate (= 0.9.7100+dummy)
 Filename: ./debs/com.ex.substitute_2.1.0_appletvos-arm64.deb
-Size: 4895766
-MD5sum: 12a151de2f62c5d66e73dd66a6c94b6a
-SHA1: fee6d7279458888cd170defb19117685edaf18cc
-SHA256: 46bfa21127d1a485bf72efb405e14b1e07dfec7bffd84a013f74c656058e8e9a
+Size: 4849128
+MD5sum: ed6be1c8cd44ab8cb6a53822883e1d69
+SHA1: e83af27af7b29dd01e4679d787372dc49349d1c5
+SHA256: 5016d0ca2ea37e7c90870e91fe1f219e8c2e21b560194a0d31e3b3508105cf02
 Section: System
 Priority: optional
 Description: Substrate substitute for code substitution
 Author: comex <comexk+da@gmail.com>
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: Substitute
 
 Package: com.fullstackio.flappybird
@@ -498,16 +514,17 @@ Maintainer: Matt Clarke <matt@incendo.ws>
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.matchstic.reprovision_0.1_appletvos-arm64.deb
-Size: 5262748
-MD5sum: 16c8eb866587b99738af63b056f448b0
-SHA1: 776874f0b9083a49897e47f183e9e6709506ed91
-SHA256: 84680b5b73391029608995c1c473c9e23bfc18ffe28badec0c7ae4a4810af74d
+Size: 5263032
+MD5sum: 483595ac7f6b362c64f38d17e3967c61
+SHA1: 21f900a47dc6d925563c213ceaf626fc9fca0159
+SHA256: 654dd757972c72c2f48fd912f29c3b80efe385fc3ac4b35b6ce7ea7db611cd0f
 Section: System
 Priority: optional
 Homepage: https://github.com/Matchstic/ReProvision
 Description: Re-sign applications on your Apple TV. This is a beta version that is unfinished and with minimal testing, buyer beware!
 Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: ReProvision
 
 Package: com.matchstic.reprovision
@@ -517,16 +534,17 @@ Maintainer: Matt Clarke <matt@incendo.ws>
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), com.nito.bulletinh4x (>=1.0-4), com.nito.breezy (>=2.5-1)
 Filename: ./debs/com.matchstic.reprovision_0.5.1~release_appletvos-arm64.deb
-Size: 1227404
-MD5sum: c02baa222ff7c7fa089ea263f384d678
-SHA1: b46681676ecb0d0759ae37a8b7736c336cc620e8
-SHA256: 39d8f48e4d039663284dcd3c9549603a62d91bb7aaa4c800582e79212ccb81cc
+Size: 1227200
+MD5sum: dd0e8664f0c94d15e9a417be7d4eb6ac
+SHA1: a85da175447bcf1da49135cf430982a5d2686e70
+SHA256: 3e493509b5196985315474b8fa1d36d3cff40d308e84b8d2fd41fd12584899de
 Section: System
 Priority: optional
 Homepage: https://github.com/Matchstic/ReProvision
 Description: Re-sign applications on your Apple TV.
 Author: Matt Clarke <matt@incendo.ws>
 Dev: Matt Clarke <matt@incendo.ws>
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: ReProvision
 
 Package: com.morpheus.binpack
@@ -570,13 +588,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 5048
 Depends: firmware (>= 8.0)
 Filename: ./debs/com.nito.airmagic_1.0-36_appletvos-arm64.deb
-Size: 1883566
-MD5sum: a6296ee0f973f67ff9ef0d915e9b0d9b
-SHA1: 36512357351dbe4295f0b5a4922d4c2669373e8d
-SHA256: 3ccb70abc7ed3f877a24733dc263f688415e161401236064c760a8b1f89780b2
+Size: 1391324
+MD5sum: 98e23fdcad73352fe323656697b625de
+SHA1: 871926d217360033b2670fa5e19c42f7c759c625
+SHA256: a73f9ecd85e7ff3f6ddcf0d3d283561e08eb5ac3805c06328f14ff81beef771f
 Section: Tweaks
 Description: A powerful webserver that accepts commands to control on screen navigation and text entry
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: AirMagic
 
 Package: com.nito.airmagic
@@ -586,13 +605,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 5048
 Depends: firmware (>= 8.0)
 Filename: ./debs/com.nito.airmagic_1.0-45_appletvos-arm64.deb
-Size: 1884048
-MD5sum: f931365f24eba94a6d97d8b831b2e935
-SHA1: fa194c758b0d239a87ec2f11bf18630ab085c966
-SHA256: a2d4f1cfddfb4a90811af7875d3bc58acc56f57ef3edba549be94ac9dc577d75
+Size: 1391964
+MD5sum: 8e02d4a0e4f777d0d8a722938ec90bb8
+SHA1: 613dd97c032727ab71236d838e84190172517ed5
+SHA256: a3a0a47cdbdff6bd186a05706fa59f43152bff687af1b59e2bf386952abd106e
 Section: Tweaks
 Description: A powerful webserver that accepts commands to control on screen navigation and text entry
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: AirMagic
 
 Package: com.nito.airphoto
@@ -814,13 +834,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 140
 Depends: mobilesubstrate
 Filename: ./debs/com.nito.bulletinh4x_1.2-1_appletvos-arm64.deb
-Size: 5656
-MD5sum: 39f9f202bf556d0159c2b42263b62339
-SHA1: 46adc08d619eca93bf26ac07f694f2877583fcc0
-SHA256: dd50dae0de57e622e77a3702305344d88e41074d6b236bcd7bbe99f447e4e308
+Size: 5556
+MD5sum: db733464e7f6d8197941d819d42bd360
+SHA1: ec0f66296f47e993bb91a59b3dd397becb01c4fd
+SHA256: 746cc9fbb8846b635b02f83c6c7d3b37175da99cfe0260f6b87aa568d439ce29
 Section: Tweaks
 Description: Display Bulletins via NSDistributedNotificationManager powered payloads. Fixed on tvOS 14
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: bulletinh4x
 
 Package: com.nito.ccnetwork
@@ -1021,14 +1042,15 @@ Conflicts: com.nito.updateBeGone, com.nito.repo-key
 Replaces: com.nito.updateBeGone, com.nito.repo-key
 Provides: com.nito.updateBeGone , com.nito.repo-key
 Filename: ./debs/com.nito.nitotv4_3.3.1-2_appletvos-arm64.deb
-Size: 3761132
-MD5sum: 2db6aa2907786a0d91eb1f9cb374fab2
-SHA1: fbe7b389832b30971c664854ee155e9bd5c450ce
-SHA256: c80b9eea8880c436dee4f92296d42b431160b556daf4f3a8241c0a8e0916ef8c
+Size: 3758376
+MD5sum: 7dddd6e600f266fb33aad35ae94ea01f
+SHA1: e66472f9e49e35ec1b7409d540863753046faa30
+SHA256: 2ea77802639bccec6430455db94aa16124bc18e5844129ee069aefda29d08b34
 Section: Utilities
 Priority: required
 Description: AppleTV 4 Package installer
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: nitoTV
 
 Package: com.nito.nitotv4
@@ -1042,14 +1064,15 @@ Conflicts: com.nito.updateBeGone, com.nito.repo-key
 Replaces: com.nito.updateBeGone, com.nito.repo-key
 Provides: com.nito.updateBeGone , com.nito.repo-key
 Filename: ./debs/com.nito.nitotv4_3.4-65_appletvos-arm64.deb
-Size: 3813032
-MD5sum: f3e47c4065f8072286bd4f57134ab8db
-SHA1: 3b5f529cca34ccbbbd6d5db762c53020e78cc0cc
-SHA256: e06aa732b641538b1337740cfb1994333fa61d5c5d0394ecbb16b1aff11b49d2
+Size: 3808688
+MD5sum: 75e4869971f7020f389ea736a8e0a5e6
+SHA1: d147f0a091057b6802ee54d1ae97269ab545bbd5
+SHA256: e327938f9dda1bb5a76cb3980b3890278a707531f745bf447a2e21e2b5aa5cca
 Section: Utilities
 Priority: required
 Description: AppleTV 4 Package installer
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: nitoTV
 
 Package: com.nito.processes-module
@@ -1268,29 +1291,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.nito.sleepspring_1.0-2_appletvos-arm64.deb
-Size: 4574
-MD5sum: 6f4049954c45da67f1956b6ffd411b84
-SHA1: 33627834790e48482e035622cf78b6d18c74561c
-SHA256: 95b5f06df63a36ea76a89f6dc8f188d8c0928fb60d9d33ea05dd63985c3679ad
+Size: 4140
+MD5sum: 63468bd0580951c7b5693ccee5fcc440
+SHA1: 4c2fc07d07270022965643dcda8f260dea3d176f
+SHA256: 17a6e421a14def7a0222804e983a7a6c7d0fc8c245db5bc0f5d29ee1c4fdf7b0
 Section: System
 Description: adds the ability to respring backboardd right from the built in sleep alert
 Author: Kevin Bradley
-Name: sleep alert respring
-
-Package: com.nito.sleepspring
-Version: 1.1-4
-Architecture: appletvos-arm64
-Maintainer: Kevin Bradley
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/com.nito.sleepspring_1.1-4_appletvos-arm64.deb
-Size: 4138
-MD5sum: cf199ca3cec36ddaf8619326c3f37ffd
-SHA1: 01f3b86829fb1a916c69d670634d6801b3be7bc3
-SHA256: 6b3c84f1b5b5b8bf80068c7abb7812308d55755af6338fcbdafc4261047e7316
-Section: System
-Description: adds the ability to respring backboardd right from the built in sleep alert
-Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: sleep alert respring
 
 Package: com.nito.sleepspring
@@ -1300,13 +1308,31 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate (>=0.0.2-1)
 Filename: ./debs/com.nito.sleepspring_1.1-5_appletvos-arm64.deb
-Size: 4156
-MD5sum: bfdef1fadf4704e8844758101042a233
-SHA1: e33ec717c4a0673323f96796db921dc38a40cd75
-SHA256: b35911ebf1fead50b665d27d9fb9349e5b2775f2c4f4c93ad11d7162101491e3
+Size: 4204
+MD5sum: 5c5e2b1ce212869581b43968188ce92e
+SHA1: 601576e76c5ff7028c0006d8e80328e97d4fd811
+SHA256: dbc601e3fadcdf64854a9ee7fe9d6f5fa0f30eb02f6086fa8aa3f320785312a1
 Section: System
 Description: adds the ability to respring backboardd right from the built in sleep alert
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
+Name: sleep alert respring
+
+Package: com.nito.sleepspring
+Version: 1.1-5
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 72
+Depends: mobilesubstrate (>=0.0.2-1)
+Filename: ./debs/com.nito.sleepspring_1.1-4_appletvos-arm64.deb
+Size: 4204
+MD5sum: d0ace770cb6c6ddc172fca2dadfc4924
+SHA1: 3af2a7c3ba09ee2b6d9fbcb1350649f9d147c2d0
+SHA256: 546e8a9877748b85792ed5a955041e5584193bf5a113964bf28ad2fca9319f8d
+Section: System
+Description: adds the ability to respring backboardd right from the built in sleep alert
+Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: sleep alert respring
 
 Package: com.nito.sleepspring
@@ -1316,13 +1342,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate (>=0.0.2-1)
 Filename: ./debs/com.nito.sleepspring_1.1-8_appletvos-arm64.deb
-Size: 4268
-MD5sum: 2f4375f481b02a9a5aff3970b64648c5
-SHA1: 02c1619439faf34ec089e4f13e7725ca3947e307
-SHA256: 34155fe8ac1783d6d789be1b393ed9426023fa9b69efa18609a0a34ebcef0816
+Size: 4324
+MD5sum: 8db3404525406424cce738d6deba85d1
+SHA1: 04cc8d34fbdb84eadf4195d1bfb6e6d4513fa491
+SHA256: 5a525a0fa1e893ccd023e03bdd198aae98a51ab1100669f34a0e24bcb85c86dd
 Section: System
 Description: adds the ability to respring backboardd right from the built in sleep alert
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: sleep alert respring
 
 Package: com.nito.tssagent
@@ -1331,14 +1358,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Pre-Depends: cy+model.appletv, firmware (>= 9.0), firmware (<< 10.2)
 Filename: ./debs/com.nito.tssagent9_1.0-appletvos-arm64.deb
-Size: 5064
-MD5sum: 065a0020b19c8885f590aba0cd548784
-SHA1: 8144fb6355fefc6df45b2018f1565597a64a9661
-SHA256: bb299afc8c5c7cdbb5ddd34407a4f3489c71459c3d3ddfb1a4ca27e5407c5b1e
+Size: 5168
+MD5sum: 3e473f2636e75dc8ad2234243b8e6f1f
+SHA1: fa339ee75db598353816d758d12ca5c4a4382c9c
+SHA256: 9094f8924edeeaf1b996095677803a59a125baf60df66d27eae162d75c02bee6
 Section: Utilities
 Priority: Extra
 Description: Save your APTicket SHSH2 blobs to 1conans server natively on tvOS
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: tssagent
 
 Package: com.nito.tssagent
@@ -1347,14 +1375,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Pre-Depends: cy+model.appletv, firmware (>= 10.0)
 Filename: ./debs/com.nito.tssagent_1.0-1.appletvos-arm64.deb
-Size: 5144
-MD5sum: 3545ddbef67149f2fa354e1151e15f13
-SHA1: ca80dc9e2fca2f20a0f50a9e2af486e0a50f975e
-SHA256: d4fd4aeed38c8ca098e61cf1bed93c00694f953289878b87ed62feb5a3c13190
+Size: 5252
+MD5sum: 01bafe94d9e81c4b51a888912da1a564
+SHA1: 8baa66cd2089858c82174d223c61e99f2351f447
+SHA256: f934e30bfc80432a1c7e8a5c2723f1984f455ebd6971cb1b0ddf7d2ac60b8746
 Section: Utilities
 Priority: Extra
 Description: Save your APTicket SHSH2 blobs to 1conans server natively on tvOS
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: tssagent
 
 Package: com.nito.tssagent
@@ -1364,14 +1393,15 @@ Maintainer: Kevin Bradley
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.nito.tssagent_1.0-2-appletvos-arm64.deb
-Size: 6194
-MD5sum: 1ce0a796bee3f910ce8d34acf043efbd
-SHA1: 62bc1d9871c98f2397658efa406aa3705a1e59eb
-SHA256: 772e4954836e6ac112002ac77ce28cba72be3528f37bd0b153cb3828612da5ed
+Size: 6324
+MD5sum: cf6736bd5483b059616d9b6876a593b5
+SHA1: 956b87be79a27e5a5dd94c6d22ed293c54ee5174
+SHA256: e08cdd1475e061337e20034643dcf1b370e82bba1bb5f13f7de2a7dfc3d558cc
 Section: Utilities
 Priority: Extra
 Description: Save your APTicket SHSH2 blobs to 1conans server natively on tvOS
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: tssagent
 
 Package: com.nito.tssagent
@@ -1381,14 +1411,15 @@ Maintainer: Kevin Bradley
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.nito.tssagent_1.0-3-appletvos-arm64.deb
-Size: 6612
-MD5sum: 7d8069a5501118484f6b7428da4ba9b0
-SHA1: 87bd6f0893dfffbdb7a6655703c08454f30bc74c
-SHA256: 809fcca7ca97fd0873297049313ea20c447df4846619bd50218d0ebdaafd5dbc
+Size: 6732
+MD5sum: d7f2339dbe0869069ea8df5cc68259b7
+SHA1: 1d342831a6193384b8e3c243168fdc48003a9f7c
+SHA256: f98b5675c5cea9687b2482aa982723b2b2e12340d80a1e6f5664645006bc19c3
 Section: Utilities
 Priority: Extra
 Description: Save your APTicket SHSH2 blobs to 1conans server natively on tvOS
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: tssagent
 
 Package: com.nito.tvcontrolcenter
@@ -1534,13 +1565,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.nito.yourcontrol_0.0.1-3_appletvos-arm64.deb
-Size: 3780
-MD5sum: 7e70194969e546ef03f8cacaab645f24
-SHA1: 9d9ab1682dc98b35190d6f2317629138beebe39c
-SHA256: d4899ed899ff4507ffdbcc93363dc707a5f73454e086e4b9763687b2ae030b99
+Size: 3880
+MD5sum: 42861b5715b948d0b222994506730cd2
+SHA1: 20719e926954d295119705a46d5313896ea31cfc
+SHA256: d3547efa9c5d9c5047eb0f8869439115c21a6442b50297616a331f03d6898621
 Section: System
 Description: fix nControl on tvOS 13+
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: yourControl
 
 Package: com.nito.yourcontrol
@@ -1550,13 +1582,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.nito.yourcontrol_0.0.1-7_appletvos-arm64.deb
-Size: 3800
-MD5sum: 83d64785d377aec93a29cc0775491950
-SHA1: 76059741ba03fc4d49376e813914e01e0bba8293
-SHA256: 2a228446d53362801fa156bb8e94eae23db12091ba5ecd0e73079c4098474e57
+Size: 3884
+MD5sum: abbf6b437ed7152a1613fcd7d3be95e4
+SHA1: a6f8d8e9e854d69a8b67f298785391e463db3ebd
+SHA256: 596e25ddc6bddd61b8a66896a7f2c42316116a2a9ba0540b7d62bed4ca30d2c6
 Section: System
 Description: fix nControl on tvOS 13+
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: yourControl
 
 Package: com.notbenoit.twitch
@@ -1566,15 +1599,16 @@ Maintainer: Benoit Layer
 Installed-Size: 283644
 Depends: firmware (>= 9.0)
 Filename: ./debs/twitch_1.1.5-appletvos-arm64.deb
-Size: 2645420
-MD5sum: 6031488b759b5fa1a010526fa4ebf1ec
-SHA1: e31457c85a52c66da798db0fe2b17c8fa740b8e8
-SHA256: 84d6ae9d47f7d69c16d4d6e76a2434a2fcab8badca5c0bb2434191c7e5a5e790
+Size: 2644912
+MD5sum: 9d14087406eb0311edb891e7bf39a337
+SHA1: 2576d7a78886c6e936fcc624457c9cad5b219a83
+SHA256: 4d355665b9db6f52908de39b24822fab1890bb782bc2664923883570b20773d5
 Section: Multimedia
 Priority: Extra
 Homepage: https://github.com/notbenoit/tvOS-Twitch/tree/master
 Description: A tvOS client for Twitch
 Author: Benoit Layer
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Twitch
 
 Package: com.notbenoit.twitch
@@ -1584,15 +1618,16 @@ Maintainer: Benoit Layer
 Installed-Size: 283644
 Depends: firmware (>= 9.0)
 Filename: ./debs/twitch_1.1.5-1-appletvos-arm64.deb
-Size: 2648356
-MD5sum: a3b8d37706c992bcb564b16cdeffbaa2
-SHA1: d1ab71db4579dee90cb3c4b11ced717d496b2149
-SHA256: ae6ecfe1f11b2a3e3f9892f7d59bd89d9c43cb5c9ebd10562e364437d8fe0955
+Size: 2644828
+MD5sum: 00cca16a8d053299a35cca3e529e9a55
+SHA1: 01e60f22065a7e87ea5c08032f0e69d6741b4a90
+SHA256: 821602c1af973fbe830a4028d13f555faf427d38276f5c02b0b008fc0ac25d63
 Section: Multimedia
 Priority: Extra
 Homepage: https://github.com/notbenoit/tvOS-Twitch/tree/master
 Description: A tvOS client for Twitch
 Author: Benoit Layer
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Twitch
 
 Package: com.provenance.provenance-tvos
@@ -1658,10 +1693,10 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 596
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
 Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.10~beta1_appletvos-arm64.deb
-Size: 14794
-MD5sum: 74a50111b23c0429e16f89c84486518e
-SHA1: 43d5f2656e7e044f9840b2dbc51c64120ae2986f
-SHA256: c40a0557e8194f7daaf0feff792a19947d1cb9d39c14cdb24700335acd0be993
+Size: 14900
+MD5sum: 431a9818549fa670fe160b6d22991435
+SHA1: de04a78a49743f54e39a31402d0f4fee66698298
+SHA256: 14e8d3c9f8651513d8fdcd4261af6233a349f4cfdb77ccd933e16f1ffbc0f795
 Section: Tweaks
 Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
 Description: Support library allowing tweaks to communicate with sandboxed processes
@@ -1669,6 +1704,7 @@ Tag: purpose::extension, role::developer
 Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
 Dev: rpetrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: RocketBootstrap
 Sponsor: thebigboss.org <http://thebigboss.org>
 
@@ -1679,10 +1715,10 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
 Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.10~beta2_appletvos-arm64.deb
-Size: 18278
-MD5sum: a66ef90a5d13ebcc4c86c4eb6dde385b
-SHA1: 9810e44c50d23c4899a1bba7b4687157f10fe84b
-SHA256: 95c31da5652026ae6a3152f53d8eb90944c2ad1fd6026a2f5683c17c6802e7c5
+Size: 17648
+MD5sum: df5d174a7007b83aa0fcbe65b9b05298
+SHA1: dd0dd7fdbb4d36d668884600aa23664d3bceb737
+SHA256: ddc1b7d25e663f990c2879c5ec6d811e2eaeed4fee116154cc245007b8158aeb
 Section: Tweaks
 Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
 Description: Support library allowing tweaks to communicate with sandboxed processes
@@ -1690,6 +1726,7 @@ Tag: purpose::extension, role::developer
 Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
 Dev: rpetrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: RocketBootstrap
 Sponsor: thebigboss.org <http://thebigboss.org>
 
@@ -1700,10 +1737,10 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 368
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
 Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.4_appletvos-arm64.deb
-Size: 25328
-MD5sum: 01701f89eea76fce5a97fd017795d332
-SHA1: 6cd35a76ee5c109b3179739c29eb9a391a76b169
-SHA256: 5d8ef5efcb897a5737756aef1efbeec66f6d902baeddf8300540f41050003a66
+Size: 25408
+MD5sum: aeb0d8e19728370157c1a7689e84615a
+SHA1: c15a5e8a1aaf161a0f5c39a4676b587ce7832da1
+SHA256: ba53591edfd9469f596518359346dbeeb342f07008fac0d7a9d59dba095b0fc8
 Section: Tweaks
 Homepage: http://rpetri.ch/cydia/rocketbootstrap/
 Description: Support library allowing tweaks to communicate with sandboxed processes
@@ -1711,6 +1748,7 @@ Tag: purpose::extension, role::developer
 Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Depiction: http://rpetri.ch/cydia/rocketbootstrap/
 Dev: rpetrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: RocketBootstrap
 Sponsor: thebigboss.org <http://thebigboss.org>
 
@@ -1721,10 +1759,10 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 368
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
 Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.4-1_appletvos-arm64.deb
-Size: 25290
-MD5sum: f06d2110d2d147209ef8c0a8d5010cf5
-SHA1: 8ea80aba977381c28df954308f81fc853e47e396
-SHA256: 29d67f5fc8162019169f26e334d3441eb892ad076cd8c0fbd221212dfbb02e7a
+Size: 25408
+MD5sum: 469402ef99dcb20879ab40b747db0eef
+SHA1: 5e82f8e573e258a6e823bc7e269ca48d634d2b96
+SHA256: 0de96f0f755a49d9aadae1d18ed6957badf84d42dfd790ce506586d530d3aa1f
 Section: Tweaks
 Homepage: http://rpetri.ch/cydia/rocketbootstrap/
 Description: Support library allowing tweaks to communicate with sandboxed processes
@@ -1732,6 +1770,7 @@ Tag: purpose::extension, role::developer
 Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Depiction: http://rpetri.ch/cydia/rocketbootstrap/
 Dev: rpetrich
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: RocketBootstrap
 Sponsor: thebigboss.org <http://thebigboss.org>
 
@@ -1839,15 +1878,16 @@ Depends: mobilesubstrate (>= 0.9.3367+38), uikittools (>=2.0.1-11)
 Conflicts: safe-mode-fixer-ios7
 Replaces: safe-mode-fixer-ios7
 Filename: ./debs/com.saurik.substrate.safemode_0.9.6005-2_appletvos-arm64.deb
-Size: 15340
-MD5sum: a168ce96884a68966208a75913d57b0f
-SHA1: de2e2cfbcae07eb9a87cedfa45668d92c77a1f17
-SHA256: 13ad768ad41328a45836275ee073346da74b7e4664a6201839ff425d42aca76a
+Size: 15196
+MD5sum: 588ce55039784b3dbba91800d32ef994
+SHA1: 36e66c75e14fd0f42a51197753003ef64c4d2430
+SHA256: 109ca73568c9ab81eab1c15edc16a0a6fd8da1920a48164957a8c5a33932c9ad
 Section: Tweaks
 Priority: optional
 Description: safe mode safety extension (safe)
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.saurik.substrate.safemode/
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: Substrate Safe Mode
 
 Package: com.splinter.gondola-tvos
@@ -1858,14 +1898,15 @@ Installed-Size: 21688
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/com.splinter.gondola-tvos_1.1-3_appletvos-arm64.deb
-Size: 11475636
-MD5sum: 5e3d9f382ee93637db0f50bc1dd40a3e
-SHA1: 184452a0dd349807407150db827a35cfe57f93ce
-SHA256: 54a3e535559b41c2a7d8291b3c3091e458f5490afc234838b58bb85dbc9574e0
+Size: 11473996
+MD5sum: d91d041416d2e70da4d0d3d0a913068c
+SHA1: c2cce860644898ef9335f98ba7eae1902c7d5c80
+SHA256: 387bbd360461215b3c5bbc34298a4d90e19b77892ecc9f9d848793e542f93857
 Section: Multimedia
 Priority: Extra
 Description: Apple TV client for Gondola media server
 Author: Chris Hulbert <chris.hulbert@gmail.com>
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: Gondola
 
 Package: com.sts.browser
@@ -1875,14 +1916,15 @@ Maintainer: Steven Troughton-Smith
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/com.sts.browser_1.0-2_appletvos-arm64.deb
-Size: 134420
-MD5sum: 38b2eff16143377cfb4ce1455c04584c
-SHA1: 0032506764093b631cd6dede40a1ea3e013dd110
-SHA256: 47c18659a156154d037b3fe99a152fe3f5a665bf319ea5ad90e8f3bbc26fe16b
+Size: 134540
+MD5sum: 3f9cc558e46723b3a0e189fdfd80d118
+SHA1: 6e112941d0f462d082f040c96e00c7d2b05cbe6c
+SHA256: d4c1bb0d0366dc01ffaa7cd4b899371740658686b3a4eb778542164675c8f65e
 Section: Multimedia
 Priority: Extra
 Description: tvOS Web Browser
 Author: Steven Troughton-Smith
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Browser
 
 Package: com.sts.browser
@@ -1892,14 +1934,15 @@ Maintainer: Steven Troughton-Smith
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/com.sts.browser_1.0-3_appletvos-arm64.deb
-Size: 134354
-MD5sum: 46e4af13d19ed1ee991041b65ad995a1
-SHA1: 54106aee795bd3ee152737a4e8f9aa08a2043533
-SHA256: ad254bb1c56f2d47f10b03945d8086fc6eab8be92dc6a6fd597b2c240f77fead
+Size: 134476
+MD5sum: 7e2760221b88a4245ccd5bed9a71224d
+SHA1: 4729aff1220cf1db72be8fd3f61aa076671c93bb
+SHA256: cededdc9077f68bbcf995873093863d71e758db6a1adab6dd2b12efe18c3a2a8
 Section: Multimedia
 Priority: Extra
 Description: tvOS Web Browser
 Author: Steven Troughton-Smith
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Browser
 
 Package: com.uroboro.pasteboard
@@ -1944,15 +1987,16 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.yoshisuga.mame-1.0_appletvos-arm64.deb
-Size: 12297670
-MD5sum: 64dc9cb22071760c9279278c5f908516
-SHA1: 16083a2f91929742bb434462bad237e428979147
-SHA256: 87634393d718786feba666653f5a76532cf76f50dbe75feb565e31cfc30ff142
+Size: 12293332
+MD5sum: 67ac70469cdaa506fe4b925ebe6843c7
+SHA1: f707c1bec820b2c33a4f357198dcb388fd22b1bf
+SHA256: a778d1bd5715fc316f24ccd7c97d6bedcaafa7c7eef0f0134fb4ef2eb579707a
 Section: Multimedia
 Priority: Extra
 Homepage: https://github.com/yoshisuga/MAME4iOS
 Description: This is a port of MAME 0.139u1 for iOS and tvOS. MAME stands for Multi Arcade Machine Emulator, and lets you play arcade games from the past 30+ years on a device that fits in your pocket! My teenage self from decades ago would be replaying that "mind blown GIF" over and over again, but that GIF did not exist back then.
 Author: David Valdeita
+Icon: https://zenzeq.github.io/tv/game.png
 Name: MAME4tvOS
 
 Package: com.yoshisuga.mame
@@ -1961,15 +2005,16 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.yoshisuga.mame-1.0-1_appletvos-arm64.deb
-Size: 12297584
-MD5sum: 971c63fcb28b65e2cd5923d5d5c5d868
-SHA1: 12b6f56056c59b95b0d449a7c6b918ab34d3a9bf
-SHA256: a97a6b41575e1bde41b2d3ead62707ff0e3442c3cbe0cddbfa8df8501c482a04
+Size: 12293272
+MD5sum: af1fc9c4bd3e85f5fff6fe4db780e1cb
+SHA1: c4ea3027bc1bc563aa1ca63496288f7e560e2803
+SHA256: 471b8f4def5aaf01bac93405125e00609b109b81536625aa23ac093f8187ff08
 Section: Multimedia
 Priority: Extra
 Homepage: https://github.com/yoshisuga/MAME4iOS
 Description: This is a port of MAME 0.139u1 for iOS and tvOS. MAME stands for Multi Arcade Machine Emulator, and lets you play arcade games from the past 30+ years on a device that fits in your pocket! My teenage self from decades ago would be replaying that "mind blown GIF" over and over again, but that GIF did not exist back then.
 Author: David Valdeita
+Icon: https://zenzeq.github.io/tv/game.png
 Name: MAME4tvOS
 
 Package: com.zenzeq.nitoTVfix
@@ -2031,10 +2076,10 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: firmware (>=4.0)
 Depends: coreutils, dpkg, grep, jp.ashikase.libcrashreport (>= 1.1.0), jp.ashikase.libpackageinfo (>= 1.1.0), mobilesubstrate, preferenceloader
 Filename: ./debs/crash-reporter_0.0.1_appletvos-arm64.deb
-Size: 90934
-MD5sum: e472421012ba341b766aec403dbffe0e
-SHA1: 132169e3fc83fd8d15c080a842fb4f697defc48e
-SHA256: eefa4b56db1c1cbaefaec0c1406d38dd99ffa8b9e067f41c3528a826acc6afe6
+Size: 67520
+MD5sum: f39ebdabd1213a8fc34f21d6c65e6e88
+SHA1: 8a25839e1824218005a58ddab9237e72fda4f8f3
+SHA256: 247497237f6b7175a20b9fdb7a745d74643a0087a51ec67e43dd8bd81feb695d
 Section: System
 Homepage: http://github/ashikase/CrashReporter/
 Description: Send useful crash info to developers.
@@ -2042,6 +2087,7 @@ Tag: purpose::uikit, role::enduser
 Author: Lance Fetters (ashikase) <support@ashikase.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crashreporterData
 Dev: ashikase
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: CrashReporter
 Sponsor: thebigboss.org <http://thebigboss.org>
 
@@ -2055,10 +2101,10 @@ Conflicts: jp.ashikase.libcrashreport, jp.ashikase.libpackageinfo, jp.ashikase.l
 Replaces: jp.ashikase.libcrashreport, jp.ashikase.libpackageinfo, jp.ashikase.libsymbolicate
 Provides: jp.ashikase.libcrashreport, jp.ashikase.libpackageinfo, jp.ashikase.libsymbolicate
 Filename: ./debs/crash-reporter_0.1.0_appletvos-arm64.deb
-Size: 632266
-MD5sum: 11b9c34b274f3b51822ee1a9b170fc4a
-SHA1: b766f508d4b3add2edfc4fff8becf24880585296
-SHA256: f8c98aeb96f559ea2e2284243b0ce3b7232df3a0d9df08a9eea0583e25ec97b0
+Size: 561996
+MD5sum: 85943e8e11506284d57de6ba1fb48388
+SHA1: f168426cf3f6b9297707b0af22f45ee71fc31845
+SHA256: 0dc70c81b8b7e16b649d6d267d7fa705e1a31ca52bc546df8dffabf6bf22d5fb
 Section: System
 Homepage: http://github/ashikase/CrashReporter/
 Description: Send useful crash info to developers.
@@ -2066,6 +2112,7 @@ Tag: purpose::uikit, role::enduser
 Author: Lance Fetters (ashikase) <support@ashikase.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crashreporterData
 Dev: ashikase
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: CrashReporterTV
 Sponsor: thebigboss.org <http://thebigboss.org>
 
@@ -2246,13 +2293,14 @@ Architecture: appletvos-arm64
 Maintainer: Maintainer: Kevin Bradley <maintainer@nito.tv>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/darwintools_1.0-1_appletvos-arm64.deb
-Size: 2848
-MD5sum: c4d2887ef82ce0e043891c2e6cececa2
-SHA1: 03e84af0727b9e2fcb8c8e158939b029adc2c86b
-SHA256: 95252fb272d8c96eff6403c36a7ffe655a78a36b24cc2e6e3861ab3190318e03
+Size: 2948
+MD5sum: 7e308277e9cb86171eabb60032ca9ee9
+SHA1: 68f952d3365878a1bc66ab65a626e4155b427e26
+SHA256: 342a55074faca5ed0023ca0d46cf1521a05abc8f08870aa6744e432552d25e5b
 Section: Administration
 Priority: required
 Description: sw_vers
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: Darwin Tools
 
 Package: diffutils
@@ -2261,14 +2309,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/diffutils_3.6-1_appletvos-arm64.deb
-Size: 132670
-MD5sum: 3c5747e17095522c67494531d3101cb4
-SHA1: 4f3f800eec00dbdbab378037ebf74293c73cc120
-SHA256: 0ec06b72826e16d90cad149f54fe365b06bb34c1f811928aa41a3bf4494f24b0
+Size: 132844
+MD5sum: 2511df0ece772bf228e7633228692241
+SHA1: ce9902f7de846c25f53d29390224b456e9228d19
+SHA256: 6b0a7644f1798a6ebf7920bc71d6aaa76813dbb95bfd6d0d9dcf994ccdc9d8d5
 Section: Development
 Priority: important
 Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: Diff Utilities
 
 Package: diffutils-doc
@@ -2276,14 +2325,15 @@ Version: 3.6-1
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/diffutils-doc_3.6-1_appletvos-arm64.deb
-Size: 56174
-MD5sum: 0c83299f72c36414d6b79e8b2ae16aa8
-SHA1: 1a97fd30f05b8a290729d724c99b95599682c923
-SHA256: d551d592daf13c643009cc96b9181e19d4c618b67368bd9cd56f7442ffb31333
+Size: 56268
+MD5sum: 7884dbcfaa36d178aa63685df22ffe83
+SHA1: c877b543c9f3db8a23b195e3c193c5013d3dbdf1
+SHA256: cdd97be5cc6935cdc7ed638d6852634bb1b898635a4a336f8fe3b85f4603a7a7
 Section: Development
 Priority: optional
 Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: Diff Utilities
 
 Package: dpkg
@@ -2361,13 +2411,14 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 1804
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/file_4.23-3+arm64_appletvos-arm64.deb
-Size: 250856
-MD5sum: 7bc7fe0aab82fbdb01c3c910a72bd1db
-SHA1: 0189361159ac83f2946c0a2473f97e8b08325924
-SHA256: 336f1bccf45caeefdb82703329ba2961dfd7f6a32a99777a91bb264601fac15e
+Size: 252028
+MD5sum: 96c8cae27972b589a5a93c9e807bd036
+SHA1: 2238684060161178dee630677f97869a80f34fda
+SHA256: ff6fba0a52e56b9b0a0d93088106fe43d5f2dfb66bacdfabd69bf098a4324ff9
 Section: Utilities
 Priority: important
 Description: guesses the type of a file from contents
+Icon: https://zenzeq.github.io/tv/nito.png
 
 Package: findutils
 Version: 4.6.0-1
@@ -2375,14 +2426,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/findutils_4.6.0-1_appletvos-arm64.deb
-Size: 175868
-MD5sum: c35fbec4e25add8a2a40d247a9db2d89
-SHA1: 99a2a3cd252d70436f12e8b46b323b446decc95a
-SHA256: 2159113d0258cdb10936d369d022342417bf4359e4c720c5301e103362e2d26f
+Size: 176064
+MD5sum: 4c710e690d32a3d327af29f71b0709e4
+SHA1: cc983db20e2550f69499f5fdedf8f4dbb21c9340
+SHA256: df37e9ad9ae38eb690f0f7f4a9b4c9a8fcc15cd9ac87ae95558a569d1461298e
 Section: Utilities
 Priority: important
 Homepage: https://www.gnu.org/software/findutils/
 Description: indexes and searches filesystems
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: Find Utilities
 
 Package: findutils-doc
@@ -2390,14 +2442,15 @@ Version: 4.6.0-1
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/findutils-doc_4.6.0-1_appletvos-arm64.deb
-Size: 112014
-MD5sum: ebbe76a2c29f5a3bef767cdeeac04af5
-SHA1: 0982472703dc019040d7596d14ed89dcc19c0c3c
-SHA256: 0f41abe77c0be1af73d7fde9fa440d0467f1c583f6cfaf0e0b9c1165e80d9225
+Size: 112192
+MD5sum: 67e38380f5c9d0e90021579006fd35b9
+SHA1: f8456137c47dc92bdb60f19a0aa8bc7f414c87a5
+SHA256: 70d0d69faa3c40d769b3fa9638f378f9b5a06a067794744ba331bcac7e424cdc
 Section: Development
 Priority: optional
 Homepage: https://www.gnu.org/software/findutils/
 Description: indexes and searches filesystems
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: Find Utilities
 
 Package: firmware-sbin
@@ -2409,13 +2462,14 @@ Installed-Size: 80
 Pre-Depends: dpkg (>= 1.14.25-8), firmware (>= 10), dpkg (>= 1.18.25)
 Depends: system-cmds, coreutils, bash
 Filename: ./debs/firmware-sbin_1-2_appletvos-arm64.deb
-Size: 4014
-MD5sum: 887372bd9b3b3edc28581c6608ebbdf8
-SHA1: 0ef1ed1bf7db1a336695c1b27a9fbac9a911e7ea
-SHA256: 333951d5243cd0b699b98777033ee58cbb5d74b8b80b65f6599e6e9043eb7672
+Size: 4000
+MD5sum: cc33ba10d4991901f126c004a202c804
+SHA1: 0876a90579dfe6f8914a10acffaf45f46cdb2fdb
+SHA256: e3cc298fe9956affb574e04ae4366845fc3ec6879c6f0664188aa9cb390862be
 Section: System
 Priority: required
 Description: represents Elucubratus / iOS conflicts
+Icon: https://zenzeq.github.io/tv/nito.png
 
 Package: gnupg
 Version: 2.2.3-1
@@ -2424,14 +2478,15 @@ Maintainer: Kevin Bradley <maintainer@nito.tv>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libgcrypt, libnpth, libassuan, libksba, libntbtls
 Filename: ./debs/gnupg_2.2.3-1_appletvos-arm64.deb
-Size: 1292490
-MD5sum: ba983db935f1ce7feee20c4b88df1c8a
-SHA1: c44e4f5c497815358d9d1d0813ea3204513f2929
-SHA256: 033265c5dce6dc2a7d36ae70b55b0a88b152a01257841ae4f0d6d06e7a54b0bc
+Size: 1292444
+MD5sum: 95c6107d9561d6682994bb4ec1ad8180
+SHA1: eb176294f93f48424100006ca4768b2fc967d856
+SHA256: 2c7bf325138bed24fdc01064319312f1c71cd28fcff4dae3ace0bd421e5361d0
 Section: Archiving
 Priority: required
 Homepage: http://www.gnupg.org/
 Description: newer encryption compatible with OpenPGP
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: GNU Privacy Guard
 
 Package: gnupg-doc
@@ -2440,14 +2495,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Depends: gnupg
 Filename: ./debs/gnupg-doc_2.2.3-1_appletvos-arm64.deb
-Size: 233456
-MD5sum: e3bbc577aa79eefff032915c390639f5
-SHA1: 9904530f09f3deda0a5e7ae948932f665662e547
-SHA256: c473374c22e7a2025b23e2161905f134124155aa683fcce3d114d095408e8bdb
+Size: 233512
+MD5sum: a252e3dda36121ac2a37b1252e501266
+SHA1: 4d389e7c668bfc29d3e2006ed563b311560631c7
+SHA256: cc27e096388f43f98d04ab4a421c9613336822f0b22658ff00f78044a3dcb6f1
 Section: Development
 Priority: optional
 Homepage: http://www.gnupg.org/
 Description: newer encryption compatible with OpenPGP
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: GNU Privacy Guard
 
 Package: io.github.ddv.class-dump-ios
@@ -2546,16 +2602,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.1.1-1_appletvos-arm64.deb
-Size: 655140
-MD5sum: 2fe871479f7ced78028378911f5747e4
-SHA1: 1eaf6d8ab8d184fefcf990e8411fd3dd572ea7ac
-SHA256: 7b4b296ddd34506b852c8d25d35c4a3d1500f28202dd80eb68a07940183b5664
+Size: 655452
+MD5sum: 1207d10f7504e4efbafb6d371b6f6a6d
+SHA1: 9cc12d7c121f6ed5872693f6e83ed2932f9bf878
+SHA256: c744961ed8ddd0ac041bf47638ce8bbb64e6a1d8e9a87da131946ee65e95a7fd
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libflex
@@ -2564,16 +2621,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.1.1a-1_appletvos-arm64.deb
-Size: 630500
-MD5sum: 6a2902a201eaa79f188c8fa14faba41b
-SHA1: b1eaeb7b08a011242ea55d5bc7ed1713eefc82c5
-SHA256: e856f0ceda3b03a56bb0aba4cb00a650f9e146c8e5973b364d3de0610b5cabe9
+Size: 630548
+MD5sum: 1f6ab9235ed62ab27798c43d6c1bac49
+SHA1: 7558861aba3859544b046d33e284571a4de90ba9
+SHA256: f3a589b4b890595fe4ad5a27153f9086f4b252b1a71c7dd2ec7139576978648e
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS, alpha at best!!
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libflex
@@ -2582,16 +2640,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.1.1a-2_appletvos-arm64.deb
-Size: 636624
-MD5sum: 2e6b413127950e3ff72224a75d8b2e17
-SHA1: a6bdc158dd0a1301256f54185f5fbe076433f860
-SHA256: 802d4e0de4cf65b6c3bba2410e5ee96a1c76f97961b312f4aed78222ee0ad7a7
+Size: 637000
+MD5sum: 68dbcd030aa427e2f50a08c89c97035a
+SHA1: f4653bf0251b5aec1dcaeffdeb0df4c308231839
+SHA256: 7ae00a5a96b58f0441e877d09b728ef886563e8399d3645374116880231a0c00
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS, alpha at best!!
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libflex
@@ -2600,16 +2659,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.1.1b-1_appletvos-arm64.deb
-Size: 639238
-MD5sum: c5e551c0349d8c7d1f450ea37073d10d
-SHA1: 42db35498743e2a180457a381de8185978c1fbbf
-SHA256: 9b9cf0d780b1fa67af222e418513e64753a5d4e4f1dbd44faff11beb150ee1c0
+Size: 639128
+MD5sum: 526420a33a8526ae62b580db4ae87c38
+SHA1: 9e2377a60599c5d466a19047e1249000484d9a0d
+SHA256: 9a625bb8057ef9997277ec01a3cffb32b71e950642892de64eb967fa047ee29b
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS, solid beta
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libflex
@@ -2618,16 +2678,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.1.1b-5_appletvos-arm64.deb
-Size: 646608
-MD5sum: 7cca8cbfd80b71efe2afe267e5ae8933
-SHA1: f4480f89be0c1f30dcb382f3fbd80cc89d2b7eae
-SHA256: b2763149971a571d8b39e6a28e6706ea26c917bf08ba954a53fc99000843fc77
+Size: 646544
+MD5sum: 2f9240b3fa22d08684bd5ba5199cf2dd
+SHA1: dab44c03df84456c123463a08758ec46d1b20626
+SHA256: 720f61bfd9e85c94aaed4da8eb52c8661613c42cea74eb6ad82e9bfc1bd27acc
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS, solid beta
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libflex
@@ -2636,16 +2697,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.1.1b-6_appletvos-arm64.deb
-Size: 647042
-MD5sum: 14376161c21af9409337060e5a94ea3b
-SHA1: 3a29131eccf07a5346e76a86f0b820938cd4ff42
-SHA256: 187ea07ed94fd060ab7f1921a172b64c21bdf26555981b360c21442a78d34f2e
+Size: 646964
+MD5sum: a194fabf863bb9dea2bba15d2f6bf82b
+SHA1: 5bca72f75cd306630a4974fdabb38169c058c212
+SHA256: 88d25f7decc2582c62941e4fe3c4017e89adb84406bb996827e1e619d07ea1ca
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS, solid beta
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libflex
@@ -2654,16 +2716,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.1.2-1_appletvos-arm64.deb
-Size: 658748
-MD5sum: a2bf93f295aa82fa551968f6665224f3
-SHA1: ac351173e91bbafa5f0a8c44d64e9c806e4dc535
-SHA256: 8f5c12a85ead7216ede3bda73306dbb6df3cec28ed756a50765c2437f38f1210
+Size: 658304
+MD5sum: 9134ac93b4bbf59fe02b30d1c91331f5
+SHA1: a6dc459ce8ef2b837085a9c84dffedb6df16d0a8
+SHA256: 9e0a29cf9c4c891c1b899060af5d06dc217c139c2dfbf1705b3a36f293b1d203
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libflex
@@ -2672,16 +2735,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.1.2-2_appletvos-arm64.deb
-Size: 670424
-MD5sum: 7a660a55079a7ca475f9238667baeb51
-SHA1: ce7985750fbae1b5418388dcde2857551bfaf089
-SHA256: 7b713cfa8088e5526ab460e6c0640ca6e94458501da07a7400b4e14107cd42a6
+Size: 670624
+MD5sum: 7de27ba15c5c620d3af79d3f3bf975c0
+SHA1: 64bf64aafdce5576156508aea2a8b4076a25b9b5
+SHA256: ec2bc7984e425a8f7a76aa1555bff99f7eaaaf433ada980ffaab954478d1e2e2
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libflex
@@ -2690,16 +2754,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.3.0-1_appletvos-arm64.deb
-Size: 666522
-MD5sum: 938cc92ceeefa356747f25bd44c06a82
-SHA1: 7bb34f7b188b8c5a146badc46f06b677f04906cc
-SHA256: 9ffc53db1b669a099978ad0affe5e1438c03968137043874869840607e413d89
+Size: 666520
+MD5sum: c15c9139dbca004accb538103a1b5c60
+SHA1: 20fae0651464856d2a787c50014ecce2da51cb05
+SHA256: 5670c58847f07e8cd4e43ddb0c6baff431163e164e0b712af6d001b2e32846cd
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libflex
@@ -2708,16 +2773,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.3.0-2_appletvos-arm64.deb
-Size: 579406
-MD5sum: ce8bb30f11a1531bb8c70b809a6a4253
-SHA1: ada5e70ce2c8dc56c0b4cd0fefe40fbf9fb06db0
-SHA256: 4335a28ef22516268441320bb45b6670f0fc980536a133020c2c300a8690d12c
+Size: 579696
+MD5sum: a3877977746df45aebc4d415d9b081f1
+SHA1: 40c493c191095741ff075b7855ea8837d2a2addc
+SHA256: 5452c2ee0e1ca80a6444549fbd3ca26b67d28d3e4e313a70350024658414eba1
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libflex
@@ -2726,16 +2792,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.3.0-4_appletvos-arm64.deb
-Size: 580672
-MD5sum: f06901f65267554bbd76ec25c1cbb4ae
-SHA1: 14e9da1b2a1bc37466b8bedf8feea69173108c58
-SHA256: 92ee4538e4332cbaa25dfded8ac35351fe7e1e4527f700c4c3ec2af518e324ce
+Size: 580580
+MD5sum: 837f9c9c077bcfdc611f969d3e1428d6
+SHA1: 1d9c5c1801ac276640a3e0895d3b3fc639425549
+SHA256: 1d19247765ffc71598b1e170706c564f1cc904b957dd39782b7c5d6d5adfa003
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libflex
@@ -2744,16 +2811,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.3.0-5_appletvos-arm64.deb
-Size: 579820
-MD5sum: 84636d274f4504ae2d1cac63d35118a8
-SHA1: 7f96ba0ac4c466325865df3bea998a6341489a89
-SHA256: b7d8f72828f5f3b7c7c4f04a6b4937e90ba14f7a82a8872da646e85b0d7148f2
+Size: 579740
+MD5sum: 1a35b56f9b9c5bfb835d58a35ba6404a
+SHA1: 33d61b145db110c4b03a837e941824b47ceebd1d
+SHA256: b34c7e5c0c045ef48467d61080e37e09cbbfffb8dcaf338503c32cf110ef7456
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libflex
@@ -2762,16 +2830,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.3.0-6_appletvos-arm64.deb
-Size: 582808
-MD5sum: 0a4f5d3e0c3811c2906beb870558477e
-SHA1: 48bbc5bb2e5e4a8b0cd4041865024c5d1141bb65
-SHA256: 705eb6b089f13c0e2c7fcb762bda42b8a89b9488ab518926e3996be77c35c3eb
+Size: 581860
+MD5sum: 2c1c0d991a43b561bf0bf618b044a06e
+SHA1: f6adc405d5f20cad21bb235211f5c010f88471f5
+SHA256: a750d2125029d89f4e837c5fb043a7ce3e2468a7a7a5c47948195cb4349a2219
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libflex
@@ -2780,16 +2849,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.3.0-7_appletvos-arm64.deb
-Size: 1415308
-MD5sum: 0f5886e0551837f2c922107726a6d604
-SHA1: cc2a33d72c2a9f65081e36a39ad5a14290bffa93
-SHA256: c8d83b3494be7b32ed87336223fa914d27569d1f3c11a26942a47a7e2afd89ce
+Size: 1415268
+MD5sum: 5d3427d4f7d48954b710067cb6bbb10b
+SHA1: a89e12bf1e5bae9e9cf601aabb3d9090d3e7a30c
+SHA256: 1fec844d3b958b87205f7172a090f9925479da45262f9819907a1fabc978c390
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libflex
@@ -2798,16 +2868,17 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/libflex_4.3.0-8_appletvos-arm64.deb
-Size: 586044
-MD5sum: 77756f531edbb7a2ece175369e5ee726
-SHA1: f6bd09bdac242b0091dd7400206bff0cc117d38a
-SHA256: 8a5af21cd741d12d6ada48c555842ddefa0b0ad03089f4baa699267025c4b64e
+Size: 585996
+MD5sum: 4356fce2b8066a3b4a286340de88ecd1
+SHA1: b675d4870d518bddc2dd1ec85f312f61c64b2435
+SHA256: f53b7e20891c40358b5c466ccd65b9f2effb905c9ec83102a132f6d8cac50e21
 Section: Development
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
 Description: A library for Flipboard Explorer on tvOS
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Tanner Bennett <tannerbennett@me.com>
 Dev: tannerbennett
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
 Package: libplist
@@ -2818,13 +2889,14 @@ Installed-Size: 8
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libplist-dev, libplist3, libplist++-dev, libplist++3, libplist-utils
 Filename: ./debs/libplist_2.2.1-1_appletvos-arm64.deb
-Size: 650
-MD5sum: d7789d8a99760a464a28de5cd9bdb2eb
-SHA1: 3c85fdb9a2f3fc1708dc8c40ad284dc04d9fdde5
-SHA256: 617052ecb3987f38f84d14618c95db5a405320773ea1bb8b10f04bc14e774232
+Size: 864
+MD5sum: 26922f880945b937b1a27ec678d13e18
+SHA1: 949c2aa1b9f878ef076bb002fdb202869c9bf3a9
+SHA256: a68494fac065bf784cb2e5ed926d7b0bb86c7b776d5d6f35c61ad774c9fbac8a
 Section: Networking
 Priority: standard
 Description: Library for handling Apple binary and XML property lists (metapackage)
+Icon: https://zenzeq.github.io/tv/nito.png
 
 Package: libplist++-dev
 Version: 2.2.1-1
@@ -2836,10 +2908,10 @@ Depends: libplist++3
 Breaks: libplist (<<2.2.0)
 Replaces: libplist (<<2.2.0)
 Filename: ./debs/libplist++-dev_2.2.1-1_appletvos-arm64.deb
-Size: 3346
-MD5sum: ee849e9f2f6ecbb81fd66c47c359fcce
-SHA1: e46c907794288188c76b89947c5bbff9c437d367
-SHA256: d52b766cf4e81e48f7a2b784700af6644d10cca4d4f02e80c906d106b3172878
+Size: 3560
+MD5sum: 0f38fac972e43e38470b2df1876948b6
+SHA1: 4db3695fcabcb9a0b94747a67f3b17f9030bb7ad
+SHA256: cb3181f59990b53af1ffa1469f363e625d169fe7e6eb6f1b129d6c04982440e5
 Section: Networking
 Priority: standard
 Description: C++ library for handling Apple binary and XML property lists - dev files
@@ -2848,6 +2920,7 @@ Description: C++ library for handling Apple binary and XML property lists - dev 
  providing access to iDevices (iPod, iPhone, iPad ...).
  .
  This package contains the development files of the liplist++ library.
+Icon: https://zenzeq.github.io/tv/nito.png
 
 Package: libplist++3
 Version: 2.2.1-1
@@ -2858,10 +2931,10 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Breaks: libplist (<<2.2.0)
 Replaces: libplist (<<2.2.0)
 Filename: ./debs/libplist++3_2.2.1-1_appletvos-arm64.deb
-Size: 17028
-MD5sum: 124415839f3fcb2b26a4f5b8318fea16
-SHA1: 806f30a037bfb17c5ef8c49190455b885dea8e83
-SHA256: 89bf6ca1b2851675877598c5b8a3ad43e193ef1a9777392e4cdbad3fa2e19153
+Size: 17224
+MD5sum: af69f0aff4da46c50ccbca25cae07e31
+SHA1: ded0f73020fda7c1f0939fbf62ac4d7351a063d2
+SHA256: bb44cf858f9eb32dfe274c4b89ab8062356ef6bc70afac037ba31600c1dc00c0
 Section: Networking
 Priority: standard
 Description: C++ Library for handling Apple binary and XML property lists
@@ -2870,6 +2943,7 @@ Description: C++ Library for handling Apple binary and XML property lists
  providing access to iDevices (iPod, iPhone, iPad ...).
  .
  This library is the C++ implementation of the libplist API.
+Icon: https://zenzeq.github.io/tv/nito.png
 
 Package: libplist-dev
 Version: 2.2.1-1
@@ -2881,10 +2955,10 @@ Depends: libplist3
 Breaks: libplist (<<2.2.0)
 Replaces: libplist (<<2.2.0)
 Filename: ./debs/libplist-dev_2.2.1-1_appletvos-arm64.deb
-Size: 6474
-MD5sum: 58832cab98a99c2f51b329a51ac22c9b
-SHA1: f7609def0dee73948efd64f179c28b45351ab33f
-SHA256: 23a823113ecd978470b84358bb0e36aa92dac49e89c402a9f3f4103b21fc3b11
+Size: 6684
+MD5sum: a293cdb1ab97b5e32a448627b62d88b1
+SHA1: 178685839c8105ab1d37e6f4a6d3bb6c859798fb
+SHA256: 36f6a725cde297e6e28d17568202f80744e41d3b1ad270d5e232221b03e67b9c
 Section: Networking
 Priority: standard
 Description: Library for handling Apple binary and XML property lists - dev files
@@ -2893,6 +2967,7 @@ Description: Library for handling Apple binary and XML property lists - dev file
  providing access to iDevices (iPod, iPhone, iPad ...).
  .
  This package contains the development files of the liplist library.
+Icon: https://zenzeq.github.io/tv/nito.png
 
 Package: libplist-utils
 Version: 2.2.1-1
@@ -2904,16 +2979,17 @@ Depends: libplist3
 Breaks: libplist (<<2.2.0)
 Replaces: libplist (<<2.2.0)
 Filename: ./debs/libplist-utils_2.2.1-1_appletvos-arm64.deb
-Size: 4116
-MD5sum: b8daeb75e6e07f9856c33bee68db88f0
-SHA1: 9db128b15d259bdf5997e80414b4edd908688056
-SHA256: 0a25e364568cbeb4e93c0ddcdd1f1b12edf2a6890f9814b54f8711f51ec6d014
+Size: 4316
+MD5sum: 0aac328faae87cbed7404fa2be164cbb
+SHA1: 608adb6bebe84f5774dff9c338712db8fa5f27a8
+SHA256: fe5b0b9dc2c24c0ea76801d97fb874d9717ae59aa988c16e9fc9ced252b2881e
 Section: Networking
 Priority: standard
 Description: Apple property list converter
  This package containt tools to convert Apple property list files from
  binary to XML and vice-versa. It's part of the libimobiledevice stack,
  providing access to iDevices (iPod, iPhone, iPad ...).
+Icon: https://zenzeq.github.io/tv/nito.png
 
 Package: libplist3
 Version: 2.2.1-1
@@ -2924,10 +3000,10 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Breaks: libplist (<<2.2.0)
 Replaces: libplist (<<2.2.0)
 Filename: ./debs/libplist3_2.2.1-1_appletvos-arm64.deb
-Size: 24324
-MD5sum: d3a28ee0732add8243aa1e89e7379034
-SHA1: 53dae2566ed5c59642096e29939e752c45b47579
-SHA256: d6d15de018ff279090a677caec57c3a8fbe0b6076f0851d43bb3ceb951afdfe5
+Size: 24528
+MD5sum: 3ca5bcf4eea26be37c930f4596e3b21b
+SHA1: 8797ea0e933c171de8c0731bc26fdd6ee33071e3
+SHA256: 387b3d83a917c42f922e02fe45a956765506a6f74d33bb518a94d9a50a9dfa14
 Section: Networking
 Priority: standard
 Description: Library for handling Apple binary and XML property lists
@@ -2936,6 +3012,7 @@ Description: Library for handling Apple binary and XML property lists
  providing access to iDevices (iPod, iPhone, iPad ...).
  .
  This library is the C implementation of the libplist API.
+Icon: https://zenzeq.github.io/tv/nito.png
 
 Package: libssl1.1.1
 Version: 1.1.1i-1
@@ -2945,13 +3022,14 @@ Installed-Size: 6688
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ca-certificates
 Filename: ./debs/libssl1.1.1_1.1.1i-1_appletvos-arm64.deb
-Size: 1181408
-MD5sum: 896b25467b8a51fef458692091d22b0a
-SHA1: a78bb825df3d3a034e4acf7d9b2975b2b74dad85
-SHA256: 5e5434edfeb0042802868ed85227758be79425f71f9163d23710795c1f9f5210
+Size: 1181728
+MD5sum: 4c64b95a00b5bbfe5bf04b6507b225b5
+SHA1: 4541f867f74afe7c0d42b8f9b1b8a727ecfe74c5
+SHA256: c85764b67c1a871b270c3cbc360e35002ef22ae097938fd3cb37ab23f0ce9daf
 Section: Security
 Priority: standard
 Description: OpenSSL Libraries for version 1.1.1
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: OpenSSL 1.1.1 Libraries
 
 Package: mobilesubstrate
@@ -2964,15 +3042,16 @@ Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootst
 Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
 Replaces: cycript (<= 0.9.594)
 Filename: ./debs/mobilesubstrate_0.9.7100~b3_appletvos-arm64.deb
-Size: 1293324
-MD5sum: f091de89574ebf1ed6387681d3c9296a
-SHA1: 54944758db39647659c8bbddb7396753c4d18f1e
-SHA256: e2f4edc3343e24e480fe9128034341b79b19bf4f4db7996050dfa1eaf85e017d
+Size: 1289736
+MD5sum: 51ec37fa30847dd312e2ff419aded200
+SHA1: 042dc611f0ae546a8f32b0a9ba6a7e543c3abdc3
+SHA256: e78d89ef0617ffc968991dbfad7efe894abd6e54ff3ebe26ba397810708a4acd
 Section: System
 Priority: optional
 Description: powerful code insertion platform
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/mobilesubstrate/
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: Cydia Substrate
 
 Package: mobilesubstrate
@@ -2985,15 +3064,16 @@ Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootst
 Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
 Replaces: cycript (<= 0.9.594)
 Filename: ./debs/mobilesubstrate_0.9.7100~b6_appletvos-arm64.deb
-Size: 1301814
-MD5sum: 155be330379dc1394a7b70235a2a42ad
-SHA1: 0430aa25f6bd1add94c9f5a01fc44197133d04ac
-SHA256: d4bebd334ac56c32cf85d1d895b166c127092621d57add40c4c76a8d98043e63
+Size: 1295724
+MD5sum: bd87940b5e5db67ec2fdfbb4bec4a731
+SHA1: 00e4e929fb44a667c59d4909b571c2ecc4323056
+SHA256: 66af4c799e6e6a7b8c9e652ebc7f6bed899f114140cab62429d8a10ef7d7a7e5
 Section: System
 Priority: optional
 Description: powerful code insertion platform
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/mobilesubstrate/
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: Cydia Substrate
 
 Package: mobilesubstrate
@@ -3006,15 +3086,16 @@ Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootst
 Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
 Replaces: cycript (<= 0.9.594)
 Filename: ./debs/mobilesubstrate_0.9.7112_appletvos-arm64.deb
-Size: 1311468
-MD5sum: e93f5f8791a1fae9ca82ee26e6fbca2e
-SHA1: 24f763856114e423a9b9cb457f9378291c2191b1
-SHA256: 72050b5c3b61bc007ec63d1826fb8c6e062f53373f8feee12ff2253cd5fc0b19
+Size: 1309068
+MD5sum: 67f4cc30b7e15f75ebc0cb02818fd1ca
+SHA1: d04052ab04796104a20a29d366631b8a4e9d0996
+SHA256: 99ee57b16f471b164869edd8bcfc5d8fb551086a42db119b1875deb8f2f4db2a
 Section: System
 Priority: optional
 Description: powerful code insertion platform
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/mobilesubstrate/
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: Cydia Substrate
 
 Package: ncurses
@@ -3022,14 +3103,15 @@ Version: 6.0-1
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/ncurses_6.0-1_appletvos-arm64.deb
-Size: 349674
-MD5sum: eadcf2e8c60fe0441eeb0f715e658c00
-SHA1: 8af0a7b96cea9d134b047ba44ab0097695a6e71c
-SHA256: 5b6749d6d0973d6b744755274617f462477e01b6fda474ff762209e10c27ede8
+Size: 349316
+MD5sum: 98162024da1ad048415181b96efc507d
+SHA1: a5f1604bdf57004fdee637ef5587367fd2eef0b9
+SHA256: bd7619d1c36332624a2fb61fa268b6b7462eeeb93d9839eef859390b45107d4f
 Section: System
 Priority: required
 Homepage: https://www.gnu.org/software/ncurses/ncurses.html
 Description: feature-complete terminal library
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: New Curses
 
 Package: ncurses
@@ -3037,14 +3119,15 @@ Version: 6.0-2
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/ncurses_6.0-2_appletvos-arm64.deb
-Size: 391596
-MD5sum: 85c1f252d49dc5f9f6d15be0ec6fce34
-SHA1: 0cb266a3de7cc53051a8bedd9eb017012c10eb4b
-SHA256: 872867bb91924550128652c233f21b7fd09ff52ea9e7b5249a805c4934feacf9
+Size: 392116
+MD5sum: 73bccd77734ac4381c3e898412979626
+SHA1: 9edc19f1498504a7321d4bf1052c3c6b701ad030
+SHA256: f84c758161605238376e13066a6df46198f0a30052b123896027a51d4e1d38b9
 Section: System
 Priority: required
 Homepage: https://www.gnu.org/software/ncurses/ncurses.html
 Description: feature-complete terminal library
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: New Curses
 
 Package: ncurses-dev
@@ -3052,14 +3135,15 @@ Version: 6.0-1
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/ncurses-dev_6.0-1_appletvos-arm64.deb
-Size: 52732
-MD5sum: d574e5a0119211c1b38e71e8fe8c9bdb
-SHA1: a8f9f2540718036fa7410dd763425688a8c48309
-SHA256: 3837b952f8f74b1daf29aff599b93fc3f8a1f11b3c2ba493b06efb4596458249
+Size: 52812
+MD5sum: 199b305dd6f99d979dc267d1ceb18aaf
+SHA1: d9372a00a62bf1f6ff4edcb232c90cf94eaa30e4
+SHA256: 0a757b9d913aae16f02f95f69e535281b95a71fe9315fe7a63932d11673fd245
 Section: Development
 Priority: optional
 Homepage: https://www.gnu.org/software/ncurses/ncurses.html
 Description: feature-complete terminal library
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: New Curses
 
 Package: ncurses-doc
@@ -3067,14 +3151,15 @@ Version: 6.0-1
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/ncurses-doc_6.0-1_appletvos-arm64.deb
-Size: 148728
-MD5sum: 894fe2d2e88925b6cf7ff7b1397e6fef
-SHA1: d7622acfd3954c9d11d140940fbe0786d5c71675
-SHA256: d276591d240fa8aa4b964b56846c7e9389124f8d39928a5e65d33061821c1763
+Size: 148756
+MD5sum: 4e4a2067127b9b1bddac8598a7332565
+SHA1: 304101bee2ec13529783ef19f7c7649870fc5ee8
+SHA256: 351429af4c1eb86f43a34e5bd53289d3c920f8ebddc846fdc64892683cdf1907
 Section: Development
 Priority: optional
 Homepage: https://www.gnu.org/software/ncurses/ncurses.html
 Description: feature-complete terminal library
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: New Curses
 
 Package: net.limneos.classdump-dyld
@@ -3136,17 +3221,19 @@ Name: classdump-dyld
 Package: net.limneos.classdump-dyld
 Version: 1.5-5
 Architecture: appletvos-arm64
+Maintainer: Elias Limneos
 Installed-Size: 392
 Filename: ./debs/net.limneos.classdump-dyld_1.5-5_appletvos-arm64.deb
-Size: 123984
-MD5sum: 34e75d4a5db272c4414013534cb3d800
-SHA1: 59b56fac20e2c331da4b530a190b12546071269f
-SHA256: b0ce96b575dc04b79dfc3c55ad1640f0c1fb6f4e88df21d41d199d28b3c59721
+Size: 75560
+MD5sum: 01f77f76f8b225adb3c49939b0e62ccd
+SHA1: 5a14c9f8a37750fe1f0d6db3d3f8fc6a3146d561
+SHA256: 3d8a06442126fd6829cb6b7d3b3aa2a09e8ffbf36d3e591b0cff557e7a557886
 Section: System
 Description: Class-dump most images on device or shared cache
 Tag: purpose::extension, role::developer
 Author: Elias Limneos <limneoselias@gmail.com>
 Dev: limneos
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: classdump-dyld
 
 Package: openssh
@@ -3156,15 +3243,16 @@ Maintainer: CoolStar <coolstarorganization@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: openssl, cy+cpu.arm64
 Filename: ./debs/openssh_7.6p1-4_appletvos_arm64.deb
-Size: 532056
-MD5sum: cbf55f40babe97139801f23f3eeaeefc
-SHA1: ff89f9420745e2f0b605928c8a0884ababd28458
-SHA256: d958bd7112e946413a3020a73d887b1bcd41bc5a730d7a6c9dfa84b9dd433684
+Size: 532480
+MD5sum: 0463c3b020e941d0b77d88680a5feae7
+SHA1: 38e8edae7ec2d7086caa9b4eade234528502ec41
+SHA256: 584fc283cd023da739490e21c199759c5b003e7f5003cd111b161c4f9c348d46
 Section: Networking
 Priority: important
 Description: secure remote access between machines
 Tag: purpose::daemon, purpose::console, role::enduser
 Depiction: https://cydia.saurik.com/info/openssh/
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: OpenSSH
 
 Package: openssh
@@ -3174,15 +3262,16 @@ Maintainer: CoolStar <coolstarorganization@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: openssl, cy+cpu.arm64
 Filename: ./debs/openssh_7.6p1-4_appletvos-arm64.deb
-Size: 532208
-MD5sum: 99936e02ddf6db383cfa35e45aa1a42e
-SHA1: 17f1ca6df5a2b2dbbe5bf5b8a79108b421f2dd8b
-SHA256: ed94495f17834e3ba9f8261dbc8231d4beec34bfe6deb68ab50ca3d5edf9f9eb
+Size: 532976
+MD5sum: 2003ef5b66a086f1d14df815bfd10248
+SHA1: afca9b3d9de6aecf166ae6bd48022e509b4bd26d
+SHA256: e334a638a1e7a65653c42900d3525b36452dbfb917099ad3d1a47ff20e0f5460
 Section: Networking
 Priority: important
 Description: secure remote access between machines
 Tag: purpose::daemon, purpose::console, role::enduser
 Depiction: https://cydia.saurik.com/info/openssh/
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: OpenSSH
 
 Package: openssh
@@ -3192,15 +3281,16 @@ Maintainer: CoolStar <coolstarorganization@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: openssl, cy+cpu.arm64
 Filename: ./debs/openssh_7.6p1-5_appletvos-arm64.deb
-Size: 531856
-MD5sum: 29f30ec3cbcbffccd72d39e156ce9c8e
-SHA1: 5d0260b2b585c53f24a9bc94b6c3f4af3644b3d5
-SHA256: 6bb3c3ce81a05650763efec5a606dd43f6317f734db55c92427d3aa06cb2d790
+Size: 532976
+MD5sum: 68192a89e7d6c1589bd8c18246bf05d8
+SHA1: 95d91faecb49af7aee65d9bc7e36a3bf398a9517
+SHA256: cc30c619f343541e1fd702b8b3c8613a951ff4d87790b41b3fd9de7bac5bcc67
 Section: Networking
 Priority: important
 Description: secure remote access between machines
 Tag: purpose::daemon, purpose::console, role::enduser
 Depiction: https://cydia.saurik.com/info/openssh/
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: OpenSSH
 
 Package: openssh
@@ -3210,15 +3300,16 @@ Maintainer: CoolStar <coolstarorganization@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: openssl, cy+cpu.arm64
 Filename: ./debs/openssh_7.6p1-6_appletvos-arm64.deb
-Size: 542524
-MD5sum: 9f37a1ba99acc02824beb90c0db1e356
-SHA1: f822ecdefda641463a516ef8d32a0d84ced0f8a1
-SHA256: 177949c52f5377f84a278888a6283492d4aeef7fc83c60eda621e0d9178727a7
+Size: 542640
+MD5sum: c84fa0e714607dccdef77635f80e312b
+SHA1: c299440422e569526494d7cbf8b1da8c1bf244df
+SHA256: efb6c47c9688a56cd2cbf8a8bc08cb772ae1bc8ad9576b022bdf91895d4f21bc
 Section: Networking
 Priority: important
 Description: secure remote access between machines
 Tag: purpose::daemon, purpose::console, role::enduser
 Depiction: https://cydia.saurik.com/info/openssh/
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: OpenSSH
 
 Package: openssh
@@ -3229,14 +3320,15 @@ Installed-Size: 10680
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libssl1.1.1
 Filename: ./debs/openssh_8.3-1_appletvos-arm64.deb
-Size: 706666
-MD5sum: f32313c1bb656f033a143693ffccf8b3
-SHA1: cf9f416131e98f5fff0d5fc8545b55cc7b37fc59
-SHA256: 0254904eedbc4adf53690c3b84c61e2e539f4e76fdfad78a810c5dc162008af1
+Size: 705220
+MD5sum: edbdbd148d68a784a59221e31c5ba878
+SHA1: 1bd3e8fdeefb66d6af874e065f77002dc6cedd31
+SHA256: 11ececb050649fbc6593884abc943e1de86acce61d07c81934f1d8e2c37b4ee8
 Section: Networking
 Priority: important
 Description: secure remote access between machines
 Depiction: http://cydia.saurik.com/info/openssh/
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: OpenSSH
 
 Package: openssh
@@ -3247,10 +3339,10 @@ Installed-Size: 8
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libssl1.1.1, openssh-server, openssh-client, openssh-global-listener
 Filename: ./debs/openssh_8.4-2_appletvos-arm64.deb
-Size: 1022
-MD5sum: 5fbf41e102a09afeb2f7dddbb650c265
-SHA1: 57fbc5c9425c9e6a94f8dcd13d57c49fa9bf33c2
-SHA256: 4aa569480b9443fd15df2dac452d8297e0cd483016fe89f78b21032a192b9d19
+Size: 1228
+MD5sum: 0b4e550f8f409176ddf10613f0fca91a
+SHA1: 8a211ac62d07383eeaf69c133ed323f29a6de570
+SHA256: 2a8a0ca807be3f3e3e61091c2fe7fe74004a4527a07dfb5a652ebb9e92795be9
 Section: Networking
 Priority: important
 Description: secure shell (SSH) server, for secure access from remote machines
@@ -3280,10 +3372,10 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libssl1.1.1
 Breaks: openssh (<= 8.4-1)
 Filename: ./debs/openssh-client_8.4-2_appletvos-arm64.deb
-Size: 570264
-MD5sum: c0991a05bdf5caac0cd4c021f47b07fa
-SHA1: c51a9d26aa3123896b81805b700b12d571f738f4
-SHA256: edb84e459c0f628119f9cd9cf6123baca1f675635e09438c9ace0e708440f164
+Size: 570160
+MD5sum: 72f3b9394b1e1fc8bc63a35efa588446
+SHA1: b746f16182f2ac2191c22204605d7eed8c44fdd6
+SHA256: 6d22c3a44ffe6dbec7e9e59917daa327b67388f78de25614a00dd0af4609562a
 Section: Networking
 Priority: important
 Description: secure shell (SSH) client, for secure access to remote machines
@@ -3313,10 +3405,10 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libssl1.1.1, openssh-server (>= 8.4)
 Breaks: openssh (<= 8.4-1)
 Filename: ./debs/openssh-global-listener_8.4-1_appletvos-arm64.deb
-Size: 1562
-MD5sum: 699a9c311a8148db9198b2757d393d12
-SHA1: 71c81962ec075bb6d739a1677711a1f7e38e078a
-SHA256: 11d1d5e51a974559228c3f6df818bbc3ff65218b14a4b9e8ec6184ecb199329d
+Size: 1760
+MD5sum: c0c352af658fc5b32c60ac91de9cef91
+SHA1: 72bc4f3e48dd1ec5ca4593c5c8f6740099555c84
+SHA256: 0ee73b4caa31194062655764b9525a2ca6c0ab8ca66c67f0e4e185c9568461ca
 Section: Networking
 Priority: important
 Description: secure shell (SSH) server, for secure access from remote machines
@@ -3346,10 +3438,10 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libssl1.1.1, openssh-server (>= 8.4)
 Breaks: openssh (<= 8.4-1)
 Filename: ./debs/openssh-global-listener_8.4-2_appletvos-arm64.deb
-Size: 1762
-MD5sum: a12a60837402fe7657281e4fadccfa80
-SHA1: 88f1b12a35d011e4cca54e2c11f77ce9d22cb205
-SHA256: 5788d01828039265bfd621c5c64b145f1711bea014c0734881ddef8a67e4f123
+Size: 1940
+MD5sum: 661bb0ce5d6b63e9816b3fbf83800fe8
+SHA1: 2cca5c28c171503e0588c347e6aabad9a8ddaefe
+SHA256: 34ccfa56acdffdeec4890d2dd97339cc07646a758217bb355fff241fb193f928
 Section: Networking
 Priority: important
 Description: secure shell (SSH) server, for secure access from remote machines
@@ -3379,10 +3471,10 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libssl1.1.1, openssh-client (>= 8.4)
 Breaks: openssh (<= 8.4-1)
 Filename: ./debs/openssh-server_8.4-2_appletvos-arm64.deb
-Size: 290142
-MD5sum: 6c76c5f8de06b959e316c0b00efaae5f
-SHA1: 7556a891d4e6b44c255c24b504dca783ca0255ec
-SHA256: 3d6cf97827c21a7afb84a534a2695886189a19433299f68121b49fe0d163b23f
+Size: 290232
+MD5sum: ed211234ca4bbe60ef9734fa6b4392c5
+SHA1: 4c5b0627efa5c595278f6a7472ba256329d02907
+SHA256: 0eef42481570ad29692e068abbc77c4091c80dde9db1bfb0fcda6081fc30674b
 Section: Networking
 Priority: important
 Description: secure shell (SSH) server, for secure access from remote machines
@@ -3410,13 +3502,14 @@ Maintainer: CoolStar <coolstarorganization@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: cy+cpu.arm64
 Filename: ./debs/openssl_1.0.2n_appletvos-arm64.deb
-Size: 1422148
-MD5sum: 29a49f23c1205f974d1251fa32a3956b
-SHA1: 1c762a1c2047de42efb6487da712a6be13878d54
-SHA256: e25b2a9c11f79f106ab94619c36a3fec740a439348074a683ab40e4f9fe8c5c5
+Size: 1422612
+MD5sum: c5e73a06cd7e60917c3cf34a8d5f37a8
+SHA1: 886bbe7fb11034cc16e1c0cffb34c3ea88617b90
+SHA256: 2681539f639956817ce33a288b1e58f9272197db8240295f8fc79f9fb6311c16
 Section: Security
 Priority: standard
 Description: SSL library and cryptographic tools
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: OpenSSL
 
 Package: openssl
@@ -3425,14 +3518,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/openssl_1.1.0-1_appletvos-arm64.deb
-Size: 3581390
-MD5sum: 9dc8fd5fd2d5eccc29dc648664c5f92c
-SHA1: 69b78f049296fdd85cf1f9f6e9da9f9b65c26a45
-SHA256: 33ae6b97eb994e270e487f463b70b549484b53ea3a025dbeedba639bc8d53687
+Size: 3582240
+MD5sum: f6c18e14bf1e5078e2c013df3902ea4a
+SHA1: 18533be26b17c18a6f94cf3c39051dea6c57b4fd
+SHA256: b2316f58110e938fe70216be210b03cc2d44f374606d3b82633446d3dfe9a2da
 Section: Security
 Priority: standard
 Homepage: https://www.openssl.org
 Description: SSL library and cryptographic tools
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: OpenSSL
 
 Package: openssl
@@ -3441,14 +3535,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Pre-Depends: dpkg (>= 1.18.23-2)
 Filename: ./debs/openssl_1.1.0-2_appletvos-arm64.deb
-Size: 5082948
-MD5sum: 70a202a71e73da6667e075d09768dbf6
-SHA1: dceec71960ce23dc1dc686bad3eb9656f5a175eb
-SHA256: f00312ce4b2ee311011d6e0b7b7707ae25fe3316464cd6be39075be3048ad5a2
+Size: 5082656
+MD5sum: 3982340760b4cb2c54678bc8cca3fbcf
+SHA1: ff90f06f35a8f8819062c5b86955c0c4f890b6dd
+SHA256: e99b5c37efb313908ec82fba1914cf7b93d50dd4538f30e1b7b1987e1fec5deb
 Section: Security
 Priority: standard
 Homepage: https://www.openssl.org
 Description: SSL library and cryptographic tools
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: OpenSSL
 
 Package: openssl-dev
@@ -3456,14 +3551,15 @@ Version: 1.1.0-1
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/openssl-dev_1.1.0-1_appletvos-arm64.deb
-Size: 178176
-MD5sum: 1a94092f19a73c0b974dc1b6018071e4
-SHA1: 4e905cfb9c4e688e0a4d6183f64883a41b10bfe8
-SHA256: 7b9bcb513d8d7663ebf1daaaa74da63988a513ab62edefcecc911db226007487
+Size: 178212
+MD5sum: f5366dad74669827de54e12f40008587
+SHA1: 817ecc7b5098357858071afbb899c1a4138a0f14
+SHA256: 5f4ef661c467a8bcf36395180f66a62ea2ab5af0445452383e39bb1d8b29b9bb
 Section: Development
 Priority: optional
 Homepage: https://www.openssl.org
 Description: SSL library and cryptographic tools
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: OpenSSL
 
 Package: openssl-doc
@@ -3471,14 +3567,15 @@ Version: 1.1.0-1
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/openssl-doc_1.1.0-1_appletvos-arm64.deb
-Size: 658620
-MD5sum: d16d7ea931c177b5cb45a49cadef9f8b
-SHA1: 3428742d8c6f8322d59d740b1911f1c1821037b9
-SHA256: 1cae4ac9552040f842f1b9adc1fd9ae3c903773b2ef6aa9d8ed12fe3ddb483fd
+Size: 658752
+MD5sum: bc5f572c5cea88807130b48582a5046d
+SHA1: 18976ce8f3bd4b143ec10c67612f5389f20b8bf4
+SHA256: 3e1c68cb0447661596f25386335ef864ebf6104a4505e7a4fb235953c5845246
 Section: Development
 Priority: optional
 Homepage: https://www.openssl.org
 Description: SSL library and cryptographic tools
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: OpenSSL
 
 Package: preferenceloader
@@ -3488,13 +3585,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 76
 Depends: mobilesubstrate (>=0.0.2-1)
 Filename: ./debs/preferenceloader_1.1-3_appletvos-arm64.deb
-Size: 10200
-MD5sum: fbfda520f930862554f8afb8ed48aef7
-SHA1: 7e2f4580476efdba203cecd65e48f668d0d12c31
-SHA256: 926af4dfea284d3e9ca69965aad00e165d80626aa8d17437d47f23f70e0c938b
+Size: 9952
+MD5sum: b5e991ef3a7c5c05e1a680f6c6301bdf
+SHA1: 7968305ab2470e54b1ca550b7d49e08d4fe040d3
+SHA256: 2257814dc9715b9d976543dd1d852056fd60c2b210c7de4629c90b855938e7c5
 Section: System
 Description: load preferences in style, based on Dustin Howett's iOS version.
 Author: Kevin Bradley
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: preferenceloader
 
 Package: preferenceloader
@@ -3504,13 +3602,14 @@ Maintainer: Kevin Bradley
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: ./debs/preferenceloader_1.5-15_appletvos-arm64.deb
-Size: 25662
-MD5sum: 6dc26a5d88b4deb660082cee1f6bf3cc
-SHA1: e3c52bf949d06f98b20dcd7012d486134d845ecf
-SHA256: d4b76f11db83580ccb859b2b7cec2176e98dad0ab66ffc4daa06c4ef2283ae4d
+Size: 24344
+MD5sum: 12da4432899eded38fa4e387745b76db
+SHA1: 9063f636381b86cd56e131d9f53d4d8014ed8d06
+SHA256: e232bd7c857a4a9d48ccc2d9f6773820ba7bf231c2855cdf27344dd5ba67cb97
 Section: System
 Description: load preferences in style, based on Dustin Howett's iOS version, now properly split into a lib & tweak
 Author: Kevin Bradley & Sam Bingner
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: preferenceloader
 
 Package: readline
@@ -3599,13 +3698,14 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: firmware-sbin
 Provides: login, passwd, reboot
 Filename: ./debs/system-cmds_790.30.1-2_appletvos-arm64.deb
-Size: 101606
-MD5sum: 5742892c6857244f8c91c5ee4ba12c74
-SHA1: f18aa8e17b9fdadf72740664271a8cf5587f7301
-SHA256: 3a54bbb5659cd12fc31dd72ae0158d7c8807cbbed48f7b50ab38145c1de5c083
+Size: 101776
+MD5sum: a658f8beb3d755c775d3f7924d438913
+SHA1: 749e1b2e2704f693cb44b1de34690841d11e7e90
+SHA256: 111c2f3158f437f24bd8811f05dd989fc30a2f9de33a638ccea2e4368fd74a36
 Section: Administration
 Priority: required
 Description: iostat, login, passwd, sync, sysctl
+Icon: https://zenzeq.github.io/tv/nito.png
 
 Package: tar
 Version: 1.30-1
@@ -3633,14 +3733,15 @@ Installed-Size: 1128
 Depends: bzip2, gzip, lzma, xz
 Conflicts: dpkg (=1.18.24)
 Filename: ./debs/tar_1.33-1_appletvos-arm64.deb
-Size: 254026
-MD5sum: 20d95c63d8d6165bc947e449f71f68f1
-SHA1: 24a4b78471c2fe957464f1d919210c2b54c10324
-SHA256: a9e42e1cf04b330f0fff587e0575ec22e3f74809c595da7416703799258ab02d
+Size: 204344
+MD5sum: 1e7e0afb050fb74e8b09fb5181da0917
+SHA1: b43656e7e7ce9d590019214524a5259809991f43
+SHA256: 0d5aa5528b7ca83ec6c59fa005984466da75314eb35c94d75b528522340152a3
 Section: Archiving
 Priority: required
 Homepage: http://www.gnu.org/software/tar/
 Description: tool for making tape archives
+Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Tape Archive
 
 Package: tar-doc
@@ -3666,14 +3767,15 @@ Version: 2.0.1-11
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <kevin@nito.tv>
 Filename: ./debs/uikittools_2.0.1-11_appletvos-arm64.deb
-Size: 20868
-MD5sum: 919bc0fc18424e25cbf39cd4be326e0a
-SHA1: 77eff37f7085e7b983cc90b2c3f5705b87672882
-SHA256: ac47e97010cb4afa13c1c375f9d7aff4371ef93d62ceb667f42ba2fa205e592e
+Size: 20892
+MD5sum: d82eecf368ac95159cda607c1c210cac
+SHA1: d67a96d92b3bc93b3991651e5593a689c1555b27
+SHA256: 1aed09d2b753cdd8d29ec4eae8254424583f8a4dc7c67172b643991246412a23
 Section: Utilities
 Description: Command line access for UIKit/LaunchServices/CoreServices
 Tag: purpose::console, role::hacker
 Author: CoolStar <coolstarorganization@gmail.com>
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: UIKit Tools
 
 Package: unzip
@@ -3750,14 +3852,15 @@ Architecture: appletvos-arm64
 Maintainer: CoolStar <coolstarorganization@gmail.com>
 Depends: cy+cpu.arm64
 Filename: ./debs/uuid_1.6.2_appletvos-arm64.deb
-Size: 23216
-MD5sum: 7796691b62cfaa969196ebfc1c2e9dc0
-SHA1: e6660933c1f4a7f21ea38a15c0e9710f6e1e2d36
-SHA256: f068fc654a2f3241a9b0fbe0f50831aede377a7496427127278954adb0845c54
+Size: 23360
+MD5sum: 4bb032cb86aeef3eb2130d21bb244d90
+SHA1: 0628665e11f206579f083996807da392f8b068f8
+SHA256: afaa94563f42207ff14295802f9d3fda4b7bda969b9e779ca67f439b08f9b975
 Section: System
 Priority: important
 Description: universally unique identifiers
 Tag: purpose::library, purpose::console, role::developer
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: UUID Generator
 
 Package: xz
@@ -3766,14 +3869,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Depends: grep, sed
 Filename: ./debs/xz_5.2.3-1_appletvos-arm64.deb
-Size: 108084
-MD5sum: b064a534a64afad7b3145e1d44e33acf
-SHA1: 635bf25b9b7b0ab238e918a67c9184d20c5982ca
-SHA256: 0fde6d632e1618bc7b76ef87ec8b10a7170fc94bbeda153bef0bbf4ffb867f97
+Size: 108132
+MD5sum: 6e310195cd92b5c86a8ef946114c46e4
+SHA1: a7d9c5a7a686b6d5777d06eadef9643c445207e1
+SHA256: e405e04f97de15ec82a041f62c1be12eb170a8fcf021d0549cf0c93d3ee2aeb5
 Section: Archiving
 Priority: important
 Homepage: http://tukaani.org/xz/
 Description: XZ Utils are the successor to LZMA Utils
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: XZ Utils
 
 Package: xz-dev
@@ -3782,14 +3886,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Depends: xz
 Filename: ./debs/xz-dev_5.2.3-1_appletvos-arm64.deb
-Size: 35444
-MD5sum: 9c324385dd35059a9dd0158402125fe0
-SHA1: d3115f4a4b82877cb516cae84ef4a9d6ec308d85
-SHA256: 6d6ebe4635817d80fda2a30a8ccf4314cd5ac0a3d574963d64a2ab9f18e541bb
+Size: 35532
+MD5sum: eab663041c67e5065f932fe6c65a2bd7
+SHA1: a6c548cab501746f391a2d9f3c1e7602c03e356f
+SHA256: 59823789b7258f150089b92ebb8240efd2fa7f79df4049e0995bbd17e5493978
 Section: Development
 Priority: optional
 Homepage: http://tukaani.org/xz/
 Description: XZ Utils are the successor to LZMA Utils
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: XZ Utils
 
 Package: xz-doc
@@ -3798,14 +3903,15 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Depends: xz
 Filename: ./debs/xz-doc_5.2.3-1_appletvos-arm64.deb
-Size: 63408
-MD5sum: 7e3c7489315e740f1fc07421eec3dab7
-SHA1: 5b44085aa1c856449a181a6063fa85fbe18b2c37
-SHA256: ef07bd1cfdc4600587142204a98d086cbfc74a0adb278e46e36881f742a95041
+Size: 63488
+MD5sum: 6228c5d761da01fb37ae64051c47b83d
+SHA1: 95ac94d8b3dfde38bc2ec86d9e58899fbd7e3eac
+SHA256: 90a2e11ce14b2b42c29985942cb5b3c5e459a66f2ec81283184f80f3afd16ef3
 Section: Development
 Priority: optional
 Homepage: http://tukaani.org/xz/
 Description: XZ Utils are the successor to LZMA Utils
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: XZ Utils
 
 Package: zlib
@@ -3813,14 +3919,15 @@ Version: 1.2.11-1
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/zlib_1.2.11-1_appletvos-arm64.deb
-Size: 38924
-MD5sum: 1c68244679f332625f85137b0130f527
-SHA1: 284e45acfc892e5eb879b91bb815b71eb1653ea2
-SHA256: b4ffd53387968379df278249591dba1305471eb07b44fb60d2f3d5e815d85af9
+Size: 38764
+MD5sum: 5741c983271f28dd452a1ad515ac6ae4
+SHA1: 0ae4f283c8fad9fd6fa6ab1ae98ab92aaa3844c8
+SHA256: 470debd662410d51b55935574d47068d5ab4a39833af38ef4f3e5ddf3520d3f6
 Section: Archiving
 Priority: important
 Homepage: http://zlib.net/
 Description: Massively spiffy yet delicately unobtrusive compression library
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: zlib
 
 Package: zlib-dev
@@ -3828,14 +3935,15 @@ Version: 1.2.11-1
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/zlib-dev_1.2.11-1_appletvos-arm64.deb
-Size: 27632
-MD5sum: 4e0f3a448b7ceabbac81ec976a904a7c
-SHA1: c743a0cf56838b9b29ca088cd47381f0c506dbb1
-SHA256: 3bb3c8b32830c3d86b55a22fcabc39e8085ec9df695881a77cd22223d59e3377
+Size: 27748
+MD5sum: 5b6db12f7b433df154b35622b337bc4d
+SHA1: b40b9585dc9cb46d06d035786041fb6669ca1ffd
+SHA256: 109bd5b635146f7ccbc4b0478cba3e3357495766872ccb0884a36fd44ff66b09
 Section: Development
 Priority: optional
 Homepage: http://zlib.net/
 Description: Massively spiffy yet delicately unobtrusive compression library
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: zlib
 
 Package: zlib-doc
@@ -3843,13 +3951,14 @@ Version: 1.2.11-1
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Filename: ./debs/zlib-doc_1.2.11-1_appletvos-arm64.deb
-Size: 2888
-MD5sum: e269f4aa74e6efbcba531425eef69267
-SHA1: 23f0c72395b3dbebfd4ce1c7b49a4b4440f1a6fa
-SHA256: 3686aab5b9eb76777640c1c7da6263c4c74d4a2730d77612b4ef870454756bf2
+Size: 2984
+MD5sum: b74d509a4bf60201306b4e2b23f6e6df
+SHA1: 176e65b705341795f048bf7e927ee92d1fc5d3ac
+SHA256: 45619e8e251e9886e291104f174debba94770edb2d0f77ded9bc0adbe04f0c86
 Section: Development
 Priority: optional
 Homepage: http://zlib.net/
 Description: Massively spiffy yet delicately unobtrusive compression library
+Icon: https://zenzeq.github.io/tv/nito.png
 Name: zlib
 
