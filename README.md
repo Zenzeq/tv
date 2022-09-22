@@ -2,3 +2,14 @@
 - [x] Fix http request timeouts
 - [ ] Uploaded tweaks
 - [ ] Fix topshelf and package headers
+- [x] Feed the birds
+- [x] Bring back featured packages
+- [ ] Fix package depictions
+- [ ] Initiate code injection in another place
+- [ ] Try not to throw Apple TV in garbage
+- [x] Investigate jailbreak detection
+- [ ] Update backgrounds
+- [ ] Fix autoscrolling in featured
+- [ ] Make this page greater than what it is
+- [x] Tell redditors about this progress
+- [ ] Isolate Icon cache
