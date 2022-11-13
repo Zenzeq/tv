@@ -232,6 +232,21 @@ Author: Kevin Bradley & Ryan Petrich
 Icon: https://zenzeq.github.io/tv/nito.png
 Name: AppList
 
+Package: bzip2
+Version: 1.0.6-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Depends: grep, sed
+Filename: ./debs/bzip2_1.0.6-1_appletvos-arm64.deb
+Size: 44812
+MD5sum: ba866a9e8fc907c1c0dd861e12df358f
+SHA1: d9567a2c611e8f76ccbc337d977f08d1f6af086b
+SHA256: d8a9ecb08470101581fb561648f052895598fa9727ec44bcf2ad9aca6b02cb86
+Section: Archiving
+Priority: important
+Homepage: http://www.bzip.org/
+Description: compression that's slightly better than gzip
+
 Package: com.XsF1re.mcpatchtv
 Version: 0.0.3-2
 Architecture: appletvos-arm64
@@ -300,6 +315,29 @@ Tag: role::hacker
 Author: Sam Bingner <snappy@bingner.com>
 Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Snappy
+
+Package: com.cannathea.afc2d-arm64
+Version: 1.1.5-1
+Architecture: appletvos-arm64
+Maintainer: Cannathea <csupport@cannathea.com>
+Installed-Size: 216
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid, firmware (>= 11.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/com.cannathea.afc2d-arm64_1.1.5-1_appletvos-arm64.deb
+Size: 12134
+MD5sum: 6d3f7c215c0203eb4695a9c66f2c3351
+SHA1: d9bc02f123b347561591e5f40c432ad0a395c1ca
+SHA256: 61113124d92168515c7e2e425b1cd3c49b86743d71d77dcbcf11008bd2dfd9ef
+Section: System
+Homepage: https://cannathea.com/
+Description: Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.
+Tag: purpose::daemon, role::enduser
+Author: saurik, Cannathea <csupport@cannathea.com>
+Depiction: https://cydia.akemi.ai/?page/com.cannathea.afc2d-arm64
+Name: Apple File Conduit "2" (iOS 11+, arm64)
 
 Package: com.cokepokes.tvappstoreplus
 Version: 0.1-2
@@ -570,15 +608,14 @@ Architecture: appletvos-arm64
 Maintainer: Jonathan Levin
 Pre-Depends: cy+model.appletv
 Filename: ./debs/com.morpheus.binpack_1.0-9_appletvos-arm64.deb
-Size: 2093104
-MD5sum: 5b727976b97a65e97a878e5b78f78829
-SHA1: 543f548d6744a33420ed7e01417797f9f18d6c72
-SHA256: f254982c0eb6812ee8a3a8f2207360eb5d676e0a5bfeb8d444778c15deb9235e
+Size: 2093244
+MD5sum: 09d6a3701f6bb01050fbc1e4e4e5660c
+SHA1: 897b88caf53a9cdf6c4c7d2b77ffbc9a300b9345
+SHA256: 5c6ad221141ddc38daac7e9d8645118702a7b837bf9651a90f8a7eaa5c536018
 Section: Utilities
 Priority: important
 Description: various utilities compiled by Jonathan Levin.
 Depiction: http://newosxbook.com/tools/iOSBinaries.html
-Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Morpheus Binary Pack
 
 Package: com.nito.airmagic
@@ -827,6 +864,24 @@ Author: Kevin Bradley & Ethan Arbuckle
 Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Breezy
 
+Package: com.nito.breezy
+Version: 2.6-81
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 672
+Pre-Depends: cy+model.appletv
+Depends: mobilesubstrate, preferenceloader (>=1.2-3)
+Filename: ./debs/com.nito.breezy_2.6-81_appletvos-arm64.deb
+Size: 186410
+MD5sum: c170820f0ad93fe339851dcb88ba2e82
+SHA1: 422ac49c619597037c36508710c4ca5c3f8b4f4f
+SHA256: 75f848a46ace4077863044ac0680b9d6a5bccb72e40e9e0660c53804d2edf356
+Section: Tweak
+Description: Enable AirDrop server in your tvOS Applications
+Author: Kevin Bradley & Ethan Arbuckle
+Depiction: https://nitosoft.com/ATV4/breezy/breezy.json
+Name: Breezy
+
 Package: com.nito.bulletinh4x
 Version: 1.2-1
 Architecture: appletvos-arm64
@@ -834,14 +889,13 @@ Maintainer: Kevin Bradley
 Installed-Size: 140
 Depends: mobilesubstrate
 Filename: ./debs/com.nito.bulletinh4x_1.2-1_appletvos-arm64.deb
-Size: 5556
-MD5sum: db733464e7f6d8197941d819d42bd360
-SHA1: ec0f66296f47e993bb91a59b3dd397becb01c4fd
-SHA256: 746cc9fbb8846b635b02f83c6c7d3b37175da99cfe0260f6b87aa568d439ce29
+Size: 5656
+MD5sum: 39f9f202bf556d0159c2b42263b62339
+SHA1: 46adc08d619eca93bf26ac07f694f2877583fcc0
+SHA256: dd50dae0de57e622e77a3702305344d88e41074d6b236bcd7bbe99f447e4e308
 Section: Tweaks
 Description: Display Bulletins via NSDistributedNotificationManager powered payloads. Fixed on tvOS 14
 Author: Kevin Bradley
-Icon: https://zenzeq.github.io/tv/nito.png
 Name: bulletinh4x
 
 Package: com.nito.ccnetwork
@@ -877,6 +931,186 @@ Description: Quick access to network settings through control center
 Author: Kevin Bradley
 Icon: https://zenzeq.github.io/tv/tweak.png
 Name: CCNetwork
+
+Package: com.nito.ethereal
+Version: 1.0.1-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), com.nito.breezy (>= 1.3-2)
+Filename: ./debs/com.nito.ethereal_1.0.1-1_appletvos-arm64.deb
+Size: 2822734
+MD5sum: 81aa5d00eb6bd5fe39a1f89d9c977cd1
+SHA1: 38e8417c49d5f40a6c929aedb599b03a177eac4d
+SHA256: f1eb75183b60a10c5860e95b899120c34ed328a62f92cb8e147072ff5e6e4d2a
+Section: Utilities
+Priority: extra
+Description: AirDrop video files straight to your device for immediate playback
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/eth/eth.json
+Name: ethereal
+
+Package: com.nito.ethereal
+Version: 1.0.1-2
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), com.nito.breezy (>= 1.3-2), com.imore.tvosavplayer
+Filename: ./debs/com.nito.ethereal_1.0.1-2_appletvos-arm64.deb
+Size: 2823232
+MD5sum: 60dce9f4e292c0855d9da3ba5a02fbc1
+SHA1: 72277ba2e0bbe6932533db1ff2af4151a524f2f9
+SHA256: d3c98b89f453d2abf01f8b8255d1cedc3d826b95566c7322093a34c3dc8cf8a9
+Section: Utilities
+Priority: extra
+Description: AirDrop video files straight to your device for immediate playback
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/eth/eth.json
+Name: ethereal
+
+Package: com.nito.ethereal
+Version: 1.0.1-25
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), com.nito.breezy (>= 1.3-2), com.imore.tvosavplayer (>= 1.0-2), preferenceloader
+Filename: ./debs/com.nito.ethereal_1.0.1-25_appletvos-arm64.deb
+Size: 2823962
+MD5sum: 4b7ada2c76722c1424810f65a5685523
+SHA1: b125b4c2e1363fa8021c340ad0b04036ec3e73be
+SHA256: d64797250fda3a62ec8955006e128173a72bdba4de67924a1f63620b2b77ac3a
+Section: Utilities
+Priority: extra
+Description: AirDrop video files straight to your device for immediate playback
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/eth/eth.json
+Name: ethereal
+
+Package: com.nito.ethereal
+Version: 1.0.1-3
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), com.nito.breezy (>= 1.3-2), com.imore.tvosavplayer (>= 1.0-2)
+Filename: ./debs/com.nito.ethereal_1.0.1-3_appletvos-arm64.deb
+Size: 2822842
+MD5sum: 1a29ba735e5764ab6f6ae624c9998faa
+SHA1: df19d08d1b1cbd63479ce03a1bf6a14450f9355c
+SHA256: 7bcdeb8da0b77fa917a226c73c96949866c0538e5cdc73cdfe0dd0281f6de30e
+Section: Utilities
+Priority: extra
+Description: AirDrop video files straight to your device for immediate playback
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/eth/eth.json
+Name: ethereal
+
+Package: com.nito.ethereal
+Version: 1.0.1-30
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), com.nito.breezy (>= 2.1), com.imore.tvosavplayer (>= 1.0-2)
+Filename: ./debs/com.nito.ethereal_1.0.1-30_appletvos-arm64.deb
+Size: 2555616
+MD5sum: a9ebe9f7312f635027fd658f5c18efa5
+SHA1: 599717278ae6a64e46792d8baa5072626481a0c2
+SHA256: b89ad276f04d363a422a4c984df4c199117349dda278f3a553162784cae03669
+Section: Utilities
+Priority: extra
+Description: AirDrop video files straight to your device for immediate playback
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/eth/eth.json
+Name: ethereal
+
+Package: com.nito.ethereal
+Version: 1.0.1-7
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), com.nito.breezy (>= 1.3-2), com.imore.tvosavplayer (>= 1.0-2)
+Filename: ./debs/com.nito.ethereal_1.0.1-7_appletvos-arm64.deb
+Size: 2822802
+MD5sum: 5cad22dd53907e62c42d2762fae45af2
+SHA1: 665c49998f9837c923ca78f3aa8df7293af7c351
+SHA256: 178c33f0ee76b6a66e1a07a10e13f538c11c6aac98692632d257c21a261e1af7
+Section: Utilities
+Priority: extra
+Description: AirDrop video files straight to your device for immediate playback
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/eth/eth.json
+Name: ethereal
+
+Package: com.nito.ethereal
+Version: 1.0.1-8
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), com.nito.breezy (>= 1.3-2), com.imore.tvosavplayer (>= 1.0-2)
+Filename: ./debs/com.nito.ethereal_1.0.1-8_appletvos-arm64.deb
+Size: 2822954
+MD5sum: 17dbf4258aa56093959621c4d04b9da4
+SHA1: d101ed36082f0592a9d655874aac0a77dd9b66c0
+SHA256: 06d336722c5a289b6416a3134baec95acfb55d42b667f3a8345895927c9bee39
+Section: Utilities
+Priority: extra
+Description: AirDrop video files straight to your device for immediate playback
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/eth/eth.json
+Name: ethereal
+
+Package: com.nito.ethereal
+Version: 1.2-10
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), com.nito.breezy (>= 2.5.2-9), com.imore.tvosavplayer (>= 1.0-2)
+Filename: ./debs/com.nito.ethereal_1.2-10_appletvos-arm64.deb
+Size: 2555860
+MD5sum: ebca934deb91f8a4f988c8f759f6fb4d
+SHA1: 2ef32be2be56bb4c3f573acd6a106b1cfc538b59
+SHA256: 383799bbe7b1f1759337cc9cd1cd86eed2545583e465bb8de5a09b8b7c7457d2
+Section: Utilities
+Priority: extra
+Description: AirDrop video files straight to your device for immediate playback
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/eth/eth.json
+Name: ethereal
+
+Package: com.nito.ethereal
+Version: 1.2-16
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), com.nito.breezy (>= 2.5.2-9), com.imore.tvosavplayer (>= 1.0-2)
+Filename: ./debs/com.nito.ethereal_1.2-16_appletvos-arm64.deb
+Size: 2556198
+MD5sum: 3b5427ce96155eeb39c3dec766f80c5d
+SHA1: 2cd0263dcd05507bce154e2802ae69dd9409a3b0
+SHA256: 8324db1f3b54d18cb618366a9148e5cb1f7676ba7f0f621a9164dd7d78f3aa06
+Section: Utilities
+Priority: extra
+Description: AirDrop video files straight to your device for immediate playback
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/eth/eth.json
+Name: ethereal
+
+Package: com.nito.ethereal
+Version: 1.2-2
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), com.nito.breezy (>= 2.5.2-1), com.imore.tvosavplayer (>= 1.0-2)
+Filename: ./debs/com.nito.ethereal_1.2-2_appletvos-arm64.deb
+Size: 2555726
+MD5sum: c360964d92473f6055793c0271b530cc
+SHA1: b087d2b012315157f512e0496b2dbb4b29cc02ed
+SHA256: 4b16b86b8859281b560233bacef950fdcfe8db8c0f7d0a6f80791c07351c32e8
+Section: Utilities
+Priority: extra
+Description: AirDrop video files straight to your device for immediate playback
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/eth/eth.json
+Name: ethereal
 
 Package: com.nito.flexinjected
 Version: 1.0.0-2
@@ -1031,6 +1265,38 @@ Author: Kevin Bradley
 Icon: https://zenzeq.github.io/tv/tweak.png
 Name: FLEXInjected
 
+Package: com.nito.lethargy
+Version: 1.0-3
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.nito.lethargy_1.0-3_appletvos-arm64.deb
+Size: 3324
+MD5sum: 623cfd33a79b89411df5016502ae5363
+SHA1: c8f2c3cb4a607604e8886f42d6febd16942ad290
+SHA256: d7662a52b6c2f87be172b961f4194b43a3140a78050ece972fdc7f298b2fc01c
+Section: System
+Description: Are you really annoyed by useless alerts bothering you when you are watching a video? I was too. Put em to sleep!
+Author: Kevin Bradley
+Name: Lethargy
+
+Package: com.nito.lethargy
+Version: 1.0-4
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.nito.lethargy_1.0-4_appletvos-arm64.deb
+Size: 4142
+MD5sum: 527c6791081553cc2989bb07c1a396e1
+SHA1: a44bef9776f4f6edfd378bd76b7e43708646036f
+SHA256: 9110090bf35d13b5ca927b69f1ce74d9ec466f5ba20a5d7b040308cfc3065c39
+Section: System
+Description: Are you really annoyed by useless alerts bothering you when you are watching a video? I was too. Put em to sleep!
+Author: Kevin Bradley
+Name: Lethargy
+
 Package: com.nito.nitotv4
 Version: 3.3.1-2
 Architecture: appletvos-arm64
@@ -1073,6 +1339,29 @@ Priority: required
 Description: AppleTV 4 Package installer
 Author: Kevin Bradley
 Icon: https://zenzeq.github.io/tv/tweak.png
+Name: nitoTV
+
+Package: com.nito.nitotv4
+Version: 3.4.1-46
+Architecture: appletvos-arm64
+Essential: yes
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 9.0), com.morpheus.binpack (>= 1.0-7), apt7 (>= 0.7.25.3-2), ca-certificates, uikittools (>= 2.0.1-8), com.nito.uicache (>= 0.0.3-26), com.nito.bulletinh4x (>= 1.0-4), com.nito.breezy (>= 2.1-32)
+Conflicts: com.nito.updateBeGone, com.nito.repo-key
+Replaces: com.nito.updateBeGone, com.nito.repo-key
+Provides: com.nito.updateBeGone , com.nito.repo-key
+Filename: ./debs/com.nito.nitotv4_3.4.1-46_appletvos-arm64.deb
+Size: 3825232
+MD5sum: 188964209ce83b8cfeca4ca2f9993987
+SHA1: da25f93b625937ac49c0b51f1c07c5fff23c359b
+SHA256: a9ccd45ff496e091e52617b7dc6e11d4d636d1e02a059be0782a9c01afbc282a
+Section: Utilities
+Priority: required
+Description: AppleTV 4 Package installer
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/nitotv/nitotv.json
+Icon: https://nitosoft.com/ATV4/nitotv/ntv_icon.png
 Name: nitoTV
 
 Package: com.nito.processes-module
@@ -1180,6 +1469,22 @@ Description: AirDrop roms files to import to Provenance and other emulators in t
 Author: Kevin Bradley
 Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Romulator
+
+Package: com.nito.safetynet
+Version: 1.0-3
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv, firmware (>= 10.0)
+Filename: ./debs/com.nito.safetynet-1.0-3_appletvos_arm64.deb
+Size: 8736
+MD5sum: 7b81ac6a857b1159ca8c50fc9c49bfbe
+SHA1: b8d33b793f6d453d41980a8c0ef27609fb5039a6
+SHA256: ae5a56f930c356e955541b37ee6a024b9be699a89f99c9e53fc98fcb6c16faee
+Section: Utilities
+Priority: Extra
+Description: Keeps the crucial /private/etc /private/tmp /private/var symbolic links intact.
+Author: Kevin Bradley
+Name: SafetyNet
 
 Package: com.nito.screencapture
 Version: 0.0.1-15
@@ -1411,16 +1716,34 @@ Maintainer: Kevin Bradley
 Pre-Depends: cy+model.appletv
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.nito.tssagent_1.0-3-appletvos-arm64.deb
-Size: 6732
-MD5sum: d7f2339dbe0869069ea8df5cc68259b7
-SHA1: 1d342831a6193384b8e3c243168fdc48003a9f7c
-SHA256: f98b5675c5cea9687b2482aa982723b2b2e12340d80a1e6f5664645006bc19c3
+Size: 6612
+MD5sum: 7d8069a5501118484f6b7428da4ba9b0
+SHA1: 87bd6f0893dfffbdb7a6655703c08454f30bc74c
+SHA256: 809fcca7ca97fd0873297049313ea20c447df4846619bd50218d0ebdaafd5dbc
 Section: Utilities
 Priority: Extra
 Description: Save your APTicket SHSH2 blobs to 1conans server natively on tvOS
 Author: Kevin Bradley
-Icon: https://zenzeq.github.io/tv/nito.png
 Name: tssagent
+
+Package: com.nito.tuyu
+Version: 0.4.1-17
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 9492
+Pre-Depends: cy+model.appletv
+Depends: firmware(>= 9.0), mobilesubstrate
+Filename: ./debs/com.nito.tuyu_0.4.1-17_appletvos-arm64.deb
+Size: 1745704
+MD5sum: c3859bf5ca7c02b70eee372dd9135399
+SHA1: 2772868f08726427fac3bb852470f2300c2169de
+SHA256: 68bea9c57fed28b767f4ac6ac53be3070a1ab8a59253cf51efe37d06e1af141f
+Section: Multimedia
+Homepage: http://www.github.com/lechium/yourTubeiOS/
+Description: tvOS port of tuyu for iOS. View featured videos, sign in to your account, view all account playlists and channels subscriptions, extremely powerful search with channel and playlist support.
+Author: Kevin Bradley
+Depiction: http://nitosoft.com/ATV4/tuyu/tuyu.json
+Name: tuyu
 
 Package: com.nito.tvcontrolcenter
 Version: 1.0-2
@@ -1548,15 +1871,31 @@ Maintainer: Kevin Bradley
 Installed-Size: 412
 Pre-Depends: cy+model.appletv
 Filename: ./debs/com.nito.uicache_0.0.4-4_appletvos-arm64.deb
-Size: 31692
-MD5sum: 0d274dd920de547ec92c0af866f2f650
-SHA1: 6e74242f9968f98de85060de2adf21c44aa38526
-SHA256: 8ee5d5f611a180cdbe8c3d5ee6a0abac9d4074dd218a0da8b1c7d1320df16ade
+Size: 46028
+MD5sum: 4a0f378069626e6904262eb90356587a
+SHA1: 47bb8288e6f8d82ad263c01f34aeb555f10dd9f7
+SHA256: 83c37a616038c788756e8d1ef6ff1f7cb6a368235f00c79dfdf5219e1d273802
 Section: Library
 Description: Respring and reload any applications added to /Applications
 Author: Kevin Bradley
-Icon: https://zenzeq.github.io/tv/terminal.png
 Name: uicache
+
+Package: com.nito.wireguard
+Version: 1.0-5
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Pre-Depends: cy+model.appletv
+Depends: firmware (>= 12.0), com.nito.breezy (>= 2.1-32)
+Filename: ./debs/com.nito.wireguard_1.0-5_appletvos-arm64.deb
+Size: 12284488
+MD5sum: 954e05f962d56eaf5c769a1a9798a582
+SHA1: 6af1345409d7cd65ee31d40d15f2def61f658e56
+SHA256: f4226314537823d60e171405b8a6c7b8235e3f386215a68d1de017e92a6822e6
+Section: Utilities
+Description: WireGuard for tvOS
+Author: Kevin Bradley
+Depiction: https://nitosoft.com/ATV4/wireguard/depiction.json
+Name: WireGuard
 
 Package: com.nito.yourcontrol
 Version: 0.0.1-3
@@ -1878,16 +2217,15 @@ Depends: mobilesubstrate (>= 0.9.3367+38), uikittools (>=2.0.1-11)
 Conflicts: safe-mode-fixer-ios7
 Replaces: safe-mode-fixer-ios7
 Filename: ./debs/com.saurik.substrate.safemode_0.9.6005-2_appletvos-arm64.deb
-Size: 15196
-MD5sum: 588ce55039784b3dbba91800d32ef994
-SHA1: 36e66c75e14fd0f42a51197753003ef64c4d2430
-SHA256: 109ca73568c9ab81eab1c15edc16a0a6fd8da1920a48164957a8c5a33932c9ad
+Size: 15340
+MD5sum: a168ce96884a68966208a75913d57b0f
+SHA1: de2e2cfbcae07eb9a87cedfa45668d92c77a1f17
+SHA256: 13ad768ad41328a45836275ee073346da74b7e4664a6201839ff425d42aca76a
 Section: Tweaks
 Priority: optional
 Description: safe mode safety extension (safe)
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/com.saurik.substrate.safemode/
-Icon: https://zenzeq.github.io/tv/nito.png
 Name: Substrate Safe Mode
 
 Package: com.splinter.gondola-tvos
@@ -2309,15 +2647,14 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/diffutils_3.6-1_appletvos-arm64.deb
-Size: 132844
-MD5sum: 2511df0ece772bf228e7633228692241
-SHA1: ce9902f7de846c25f53d29390224b456e9228d19
-SHA256: 6b0a7644f1798a6ebf7920bc71d6aaa76813dbb95bfd6d0d9dcf994ccdc9d8d5
+Size: 132670
+MD5sum: 3c5747e17095522c67494531d3101cb4
+SHA1: 4f3f800eec00dbdbab378037ebf74293c73cc120
+SHA256: 0ec06b72826e16d90cad149f54fe365b06bb34c1f811928aa41a3bf4494f24b0
 Section: Development
 Priority: important
 Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
-Icon: https://zenzeq.github.io/tv/nito.png
 Name: Diff Utilities
 
 Package: diffutils-doc
@@ -2426,15 +2763,14 @@ Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <maintainer@nito.tv>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/findutils_4.6.0-1_appletvos-arm64.deb
-Size: 176064
-MD5sum: 4c710e690d32a3d327af29f71b0709e4
-SHA1: cc983db20e2550f69499f5fdedf8f4dbb21c9340
-SHA256: df37e9ad9ae38eb690f0f7f4a9b4c9a8fcc15cd9ac87ae95558a569d1461298e
+Size: 175868
+MD5sum: c35fbec4e25add8a2a40d247a9db2d89
+SHA1: 99a2a3cd252d70436f12e8b46b323b446decc95a
+SHA256: 2159113d0258cdb10936d369d022342417bf4359e4c720c5301e103362e2d26f
 Section: Utilities
 Priority: important
 Homepage: https://www.gnu.org/software/findutils/
 Description: indexes and searches filesystems
-Icon: https://zenzeq.github.io/tv/nito.png
 Name: Find Utilities
 
 Package: findutils-doc
@@ -2595,6 +2931,23 @@ Description: pseudo-codesign Mach-O files
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Icon: https://zenzeq.github.io/tv/terminal.png
 Name: Link Identity Editor
+
+Package: libassuan
+Version: 2.5.1-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libnpth
+Filename: ./debs/libassuan_2.5.1-1_appletvos-arm64.deb
+Size: 36212
+MD5sum: 280ecc44b556770302315adbf167a2de
+SHA1: 9b0fa5cc1541457d97fb563c4143c0eb3f960544
+SHA256: c846814a0c13e2d16971cbcccbfaa587b17e2c28bc65db9be90851f78b14713a
+Section: Development
+Priority: optional
+Homepage: https://www.gnupg.org/related_software/libassuan/index.en.html
+Description: GnuPG's inter-process communication
+Name: Assuan
 
 Package: libflex
 Version: 4.1.1-1
@@ -2881,6 +3234,22 @@ Dev: tannerbennett
 Icon: https://zenzeq.github.io/tv/nito.png
 Name: libFLEX
 
+Package: libksba
+Version: 1.3.5-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Depends: libgpg-error
+Filename: ./debs/libksba_1.3.5-1_appletvos-arm64.deb
+Size: 88776
+MD5sum: c281af80fd00932c9e3f466ae02160c6
+SHA1: 1996b2e3f320e948f9678069d3e78ba4ca38517b
+SHA256: 7af5bcbb9a1d8a83a41f9804f23a9be4ff2e6c1641effadc036689b5b34bcf86
+Section: Security
+Priority: optional
+Homepage: https://www.gnupg.org/related_software/libksba/
+Description: GnuPG's certification management library
+Name: KSBA
+
 Package: libplist
 Version: 2.2.1-1
 Architecture: appletvos-arm64
@@ -3032,6 +3401,21 @@ Description: OpenSSL Libraries for version 1.1.1
 Icon: https://zenzeq.github.io/tv/nito.png
 Name: OpenSSL 1.1.1 Libraries
 
+Package: lz4
+Version: 1.7.5-1
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley <maintainer@nito.tv>
+Filename: ./debs/lz4_1.7.5-1_appletvos-arm64.deb
+Size: 70826
+MD5sum: 0f8a715909aa8ff7446f8a811d2c21b1
+SHA1: b00ded76752c484f34adf230de2cce7f2aeac4a1
+SHA256: d2cf5e8e943216389b6cfcd110472f6d23fe57fdf7410ec0f2906839bfb4a003
+Section: Archiving
+Priority: important
+Homepage: http://www.lz4.org
+Description: Extremely Fast Compression algorithm
+Name: lz4
+
 Package: mobilesubstrate
 Version: 0.9.7100~b3
 Architecture: appletvos-arm64
@@ -3086,16 +3470,15 @@ Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootst
 Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
 Replaces: cycript (<= 0.9.594)
 Filename: ./debs/mobilesubstrate_0.9.7112_appletvos-arm64.deb
-Size: 1309068
-MD5sum: 67f4cc30b7e15f75ebc0cb02818fd1ca
-SHA1: d04052ab04796104a20a29d366631b8a4e9d0996
-SHA256: 99ee57b16f471b164869edd8bcfc5d8fb551086a42db119b1875deb8f2f4db2a
+Size: 16384
+MD5sum: 88a2999e8c9f1cc042e0407f72a188ff
+SHA1: 2aa1d849da3afb91cbd2c7c214f4c3daf11be8c9
+SHA256: 39e75cfdb1aab2cd7716c3369fda241d505287ef7253ce2480021ab910fcaea5
 Section: System
 Priority: optional
 Description: powerful code insertion platform
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/mobilesubstrate/
-Icon: https://zenzeq.github.io/tv/nito.png
 Name: Cydia Substrate
 
 Package: ncurses
@@ -3235,265 +3618,6 @@ Author: Elias Limneos <limneoselias@gmail.com>
 Dev: limneos
 Icon: https://zenzeq.github.io/tv/terminal.png
 Name: classdump-dyld
-
-Package: openssh
-Version: 7.6p1-4
-Architecture: appletvos-arm64
-Maintainer: CoolStar <coolstarorganization@gmail.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: openssl, cy+cpu.arm64
-Filename: ./debs/openssh_7.6p1-4_appletvos_arm64.deb
-Size: 532480
-MD5sum: 0463c3b020e941d0b77d88680a5feae7
-SHA1: 38e8edae7ec2d7086caa9b4eade234528502ec41
-SHA256: 584fc283cd023da739490e21c199759c5b003e7f5003cd111b161c4f9c348d46
-Section: Networking
-Priority: important
-Description: secure remote access between machines
-Tag: purpose::daemon, purpose::console, role::enduser
-Depiction: https://cydia.saurik.com/info/openssh/
-Icon: https://zenzeq.github.io/tv/nito.png
-Name: OpenSSH
-
-Package: openssh
-Version: 7.6p1-4
-Architecture: appletvos-arm64
-Maintainer: CoolStar <coolstarorganization@gmail.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: openssl, cy+cpu.arm64
-Filename: ./debs/openssh_7.6p1-4_appletvos-arm64.deb
-Size: 532976
-MD5sum: 2003ef5b66a086f1d14df815bfd10248
-SHA1: afca9b3d9de6aecf166ae6bd48022e509b4bd26d
-SHA256: e334a638a1e7a65653c42900d3525b36452dbfb917099ad3d1a47ff20e0f5460
-Section: Networking
-Priority: important
-Description: secure remote access between machines
-Tag: purpose::daemon, purpose::console, role::enduser
-Depiction: https://cydia.saurik.com/info/openssh/
-Icon: https://zenzeq.github.io/tv/nito.png
-Name: OpenSSH
-
-Package: openssh
-Version: 7.6p1-5
-Architecture: appletvos-arm64
-Maintainer: CoolStar <coolstarorganization@gmail.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: openssl, cy+cpu.arm64
-Filename: ./debs/openssh_7.6p1-5_appletvos-arm64.deb
-Size: 532976
-MD5sum: 68192a89e7d6c1589bd8c18246bf05d8
-SHA1: 95d91faecb49af7aee65d9bc7e36a3bf398a9517
-SHA256: cc30c619f343541e1fd702b8b3c8613a951ff4d87790b41b3fd9de7bac5bcc67
-Section: Networking
-Priority: important
-Description: secure remote access between machines
-Tag: purpose::daemon, purpose::console, role::enduser
-Depiction: https://cydia.saurik.com/info/openssh/
-Icon: https://zenzeq.github.io/tv/nito.png
-Name: OpenSSH
-
-Package: openssh
-Version: 7.6p1-6
-Architecture: appletvos-arm64
-Maintainer: CoolStar <coolstarorganization@gmail.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: openssl, cy+cpu.arm64
-Filename: ./debs/openssh_7.6p1-6_appletvos-arm64.deb
-Size: 542640
-MD5sum: c84fa0e714607dccdef77635f80e312b
-SHA1: c299440422e569526494d7cbf8b1da8c1bf244df
-SHA256: efb6c47c9688a56cd2cbf8a8bc08cb772ae1bc8ad9576b022bdf91895d4f21bc
-Section: Networking
-Priority: important
-Description: secure remote access between machines
-Tag: purpose::daemon, purpose::console, role::enduser
-Depiction: https://cydia.saurik.com/info/openssh/
-Icon: https://zenzeq.github.io/tv/nito.png
-Name: OpenSSH
-
-Package: openssh
-Version: 8.3-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 10680
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.1.1
-Filename: ./debs/openssh_8.3-1_appletvos-arm64.deb
-Size: 705220
-MD5sum: edbdbd148d68a784a59221e31c5ba878
-SHA1: 1bd3e8fdeefb66d6af874e065f77002dc6cedd31
-SHA256: 11ececb050649fbc6593884abc943e1de86acce61d07c81934f1d8e2c37b4ee8
-Section: Networking
-Priority: important
-Description: secure remote access between machines
-Depiction: http://cydia.saurik.com/info/openssh/
-Icon: https://zenzeq.github.io/tv/nito.png
-Name: OpenSSH
-
-Package: openssh
-Version: 8.4-2
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 8
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.1.1, openssh-server, openssh-client, openssh-global-listener
-Filename: ./debs/openssh_8.4-2_appletvos-arm64.deb
-Size: 1228
-MD5sum: 0b4e550f8f409176ddf10613f0fca91a
-SHA1: 8a211ac62d07383eeaf69c133ed323f29a6de570
-SHA256: 2a8a0ca807be3f3e3e61091c2fe7fe74004a4527a07dfb5a652ebb9e92795be9
-Section: Networking
-Priority: important
-Description: secure shell (SSH) server, for secure access from remote machines
- This is the portable version of OpenSSH, a free implementation of the
- Secure Shell protocol as specified by the IETF secsh working group.
- .
- Ssh (Secure Shell) is a program for logging into a remote machine and
- for executing commands on a remote machine.  It provides secure
- encrypted communications between two untrusted hosts over an insecure
- network. X11 connections and arbitrary TCP/IP ports can also be
- forwarded over the secure channel.  It can be used to provide
- applications with a secure communication channel.
- .
- This package provides the sshd server.
- .
- In some countries it may be illegal to use any encryption at all
- without a special permit.
-Depiction: http://cydia.saurik.com/info/openssh/
-Name: OpenSSH
-
-Package: openssh-client
-Version: 8.4-2
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 8960
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.1.1
-Breaks: openssh (<= 8.4-1)
-Filename: ./debs/openssh-client_8.4-2_appletvos-arm64.deb
-Size: 570160
-MD5sum: 72f3b9394b1e1fc8bc63a35efa588446
-SHA1: b746f16182f2ac2191c22204605d7eed8c44fdd6
-SHA256: 6d22c3a44ffe6dbec7e9e59917daa327b67388f78de25614a00dd0af4609562a
-Section: Networking
-Priority: important
-Description: secure shell (SSH) client, for secure access to remote machines
- This is the portable version of OpenSSH, a free implementation of the
- Secure Shell protocol as specified by the IETF secsh working group.
- .
- Ssh (Secure Shell) is a program for logging into a remote machine and
- for executing commands on a remote machine.  It provides secure
- encrypted communications between two untrusted hosts over an insecure
- network. X11 connections and arbitrary TCP/IP ports can also be
- forwarded over the secure channel.  It can be used to provide
- applications with a secure communication channel.
- .
- This package provides the client binaries.
- .
- In some countries it may be illegal to use any encryption at all
- without a special permit.
-Depiction: http://cydia.saurik.com/info/openssh/
-Name: OpenSSH Clients
-
-Package: openssh-global-listener
-Version: 8.4-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 16
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.1.1, openssh-server (>= 8.4)
-Breaks: openssh (<= 8.4-1)
-Filename: ./debs/openssh-global-listener_8.4-1_appletvos-arm64.deb
-Size: 1760
-MD5sum: c0c352af658fc5b32c60ac91de9cef91
-SHA1: 72bc4f3e48dd1ec5ca4593c5c8f6740099555c84
-SHA256: 0ee73b4caa31194062655764b9525a2ca6c0ab8ca66c67f0e4e185c9568461ca
-Section: Networking
-Priority: important
-Description: secure shell (SSH) server, for secure access from remote machines
- This is the portable version of OpenSSH, a free implementation of the
- Secure Shell protocol as specified by the IETF secsh working group.
- .
- Ssh (Secure Shell) is a program for logging into a remote machine and
- for executing commands on a remote machine.  It provides secure
- encrypted communications between two untrusted hosts over an insecure
- network. X11 connections and arbitrary TCP/IP ports can also be
- forwarded over the secure channel.  It can be used to provide
- applications with a secure communication channel.
- .
- This package provides a global listener on port 22.
- .
- In some countries it may be illegal to use any encryption at all
- without a special permit.
-Depiction: http://cydia.saurik.com/info/openssh/
-Name: OpenSSH Global Listener
-
-Package: openssh-global-listener
-Version: 8.4-2
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 32
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.1.1, openssh-server (>= 8.4)
-Breaks: openssh (<= 8.4-1)
-Filename: ./debs/openssh-global-listener_8.4-2_appletvos-arm64.deb
-Size: 1940
-MD5sum: 661bb0ce5d6b63e9816b3fbf83800fe8
-SHA1: 2cca5c28c171503e0588c347e6aabad9a8ddaefe
-SHA256: 34ccfa56acdffdeec4890d2dd97339cc07646a758217bb355fff241fb193f928
-Section: Networking
-Priority: important
-Description: secure shell (SSH) server, for secure access from remote machines
- This is the portable version of OpenSSH, a free implementation of the
- Secure Shell protocol as specified by the IETF secsh working group.
- .
- Ssh (Secure Shell) is a program for logging into a remote machine and
- for executing commands on a remote machine.  It provides secure
- encrypted communications between two untrusted hosts over an insecure
- network. X11 connections and arbitrary TCP/IP ports can also be
- forwarded over the secure channel.  It can be used to provide
- applications with a secure communication channel.
- .
- This package provides a global listener on port 22.
- .
- In some countries it may be illegal to use any encryption at all
- without a special permit.
-Depiction: http://cydia.saurik.com/info/openssh/
-Name: OpenSSH Global Listener
-
-Package: openssh-server
-Version: 8.4-2
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1880
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.1.1, openssh-client (>= 8.4)
-Breaks: openssh (<= 8.4-1)
-Filename: ./debs/openssh-server_8.4-2_appletvos-arm64.deb
-Size: 290232
-MD5sum: ed211234ca4bbe60ef9734fa6b4392c5
-SHA1: 4c5b0627efa5c595278f6a7472ba256329d02907
-SHA256: 0eef42481570ad29692e068abbc77c4091c80dde9db1bfb0fcda6081fc30674b
-Section: Networking
-Priority: important
-Description: secure shell (SSH) server, for secure access from remote machines
- This is the portable version of OpenSSH, a free implementation of the
- Secure Shell protocol as specified by the IETF secsh working group.
- .
- Ssh (Secure Shell) is a program for logging into a remote machine and
- for executing commands on a remote machine.  It provides secure
- encrypted communications between two untrusted hosts over an insecure
- network. X11 connections and arbitrary TCP/IP ports can also be
- forwarded over the secure channel.  It can be used to provide
- applications with a secure communication channel.
- .
- This package provides the sshd server.
- .
- In some countries it may be illegal to use any encryption at all
- without a special permit.
-Depiction: http://cydia.saurik.com/info/openssh/
-Name: OpenSSH Server Binaries
 
 Package: openssl
 Version: 1.0.2n
@@ -3767,15 +3891,14 @@ Version: 2.0.1-11
 Architecture: appletvos-arm64
 Maintainer: Kevin Bradley <kevin@nito.tv>
 Filename: ./debs/uikittools_2.0.1-11_appletvos-arm64.deb
-Size: 20892
-MD5sum: d82eecf368ac95159cda607c1c210cac
-SHA1: d67a96d92b3bc93b3991651e5593a689c1555b27
-SHA256: 1aed09d2b753cdd8d29ec4eae8254424583f8a4dc7c67172b643991246412a23
+Size: 20868
+MD5sum: 919bc0fc18424e25cbf39cd4be326e0a
+SHA1: 77eff37f7085e7b983cc90b2c3f5705b87672882
+SHA256: ac47e97010cb4afa13c1c375f9d7aff4371ef93d62ceb667f42ba2fa205e592e
 Section: Utilities
 Description: Command line access for UIKit/LaunchServices/CoreServices
 Tag: purpose::console, role::hacker
 Author: CoolStar <coolstarorganization@gmail.com>
-Icon: https://zenzeq.github.io/tv/nito.png
 Name: UIKit Tools
 
 Package: unzip
