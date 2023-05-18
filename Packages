@@ -22,13 +22,14 @@ Maintainer: yan
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.zenzeq.fixdisneytv_1.0_appletvos-arm64.deb
-Size: 2760
-MD5sum: d1ab7a0a584ab77b43777320730828fd
-SHA1: 78f23e12d21eb6ae1621dc435295475cd6233a2e
-SHA256: 7e394c7735437766b57b73282581ef9830361b3f96b39b2fb7cd9e21cef35b88
+Size: 2792
+MD5sum: 4962754941ed63d57be14bd0988ef538
+SHA1: ce67950e4712e083ce6cd2c49ade183c227a5c60
+SHA256: b9d5aec4f9559e92df86a3224fe9e5d28aa066f2d30a43d0d5192e6d135f16e0
 Section: Tweaks
 Description: A tweak to suppress the nagging update for Disney+
 Author: Zenzeq
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: FixDisneyTV
 
 Package: com.zenzeq.noreset
