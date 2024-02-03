@@ -15,6 +15,22 @@ Author: XsF1re
 Icon: https://zenzeq.github.io/tv/tweak.png
 Name: MCPatchTV
 
+Package: com.zenzeq.TrollHelper
+Version: 1.0
+Architecture: appletvos-arm64
+Maintainer: ZenZeq
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.zenzeq.trollhelper.deb
+Size: 360096
+MD5sum: 211df446a7279e6276c1d22f540f1e98
+SHA1: 6bd4fefb1a8f13378fae23c0319c81b7d94cfae3
+SHA256: 28f1e9be42b7f9c25fc250308a7fd760b7ea6422c9c7df5ba9540b3dfbf58534
+Section: Tools
+Description: Install TrollStore Persistence Helper on Apple TV HD and 4K devices. This also works after updating the device to any firmware from tvOS 14 - 17.0.
+Author: straight-tamago
+Icon: https://github.com/Zenzeq/tv/blob/main/tool.png
+Name: TrollHelper
+
 Package: com.zenzeq.fixdisneytv
 Version: 1.0
 Architecture: appletvos-arm64
@@ -22,13 +38,14 @@ Maintainer: yan
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.zenzeq.fixdisneytv_1.0_appletvos-arm64.deb
-Size: 2760
-MD5sum: d1ab7a0a584ab77b43777320730828fd
-SHA1: 78f23e12d21eb6ae1621dc435295475cd6233a2e
-SHA256: 7e394c7735437766b57b73282581ef9830361b3f96b39b2fb7cd9e21cef35b88
+Size: 2792
+MD5sum: 4962754941ed63d57be14bd0988ef538
+SHA1: ce67950e4712e083ce6cd2c49ade183c227a5c60
+SHA256: b9d5aec4f9559e92df86a3224fe9e5d28aa066f2d30a43d0d5192e6d135f16e0
 Section: Tweaks
 Description: A tweak to suppress the nagging update for Disney+
 Author: Zenzeq
+Icon: https://zenzeq.github.io/tv/tweak.png
 Name: FixDisneyTV
 
 Package: com.zenzeq.noreset

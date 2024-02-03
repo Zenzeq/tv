@@ -15,6 +15,22 @@ Author: XsF1re
 Icon: https://zenzeq.github.io/tv/tweak.png
 Name: MCPatchTV
 
+Package: com.zenzeq.TrollHelper
+Version: 1.0
+Architecture: appletvos-arm64
+Maintainer: ZenZeq
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.zenzeq.trollhelper.deb
+Size: 360264
+MD5sum: 3d8d3d549ced7232c7fe07df7d507656
+SHA1: 51ea0304881420481523e8e8f7ae7cb569818e52
+SHA256: 66bd85437d96fd3fdb55af7146d314e96bceaa974a5db20e73e23d66cda289fb
+Section: Tools
+Description: Install TrollStore Persistence Helper on Apple TV HD and 4K devices. This also works after updating the device to any firmware from tvOS 14 - 17.0.
+Author: straight-tamago
+Icon: https://github.com/Zenzeq/tv/blob/main/tool.png
+Name: TrollHelper
+
 Package: com.zenzeq.fixdisneytv
 Version: 1.0
 Architecture: appletvos-arm64
