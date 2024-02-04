@@ -127,13 +127,14 @@ Architecture: appletvos-arm64
 Maintainer: ZenZeq
 Depends: firmware (>= 14.0)
 Filename: ./debs/com.zenzeq.trollhelper.deb
-Size: 360232
-MD5sum: 3a9806127f45a6b64721c3719e3f81ba
-SHA1: c121dfbf91ab9d70dbff401bdf672acf17d1e52b
-SHA256: fe95cce87677b93b8d2e6f9a8cace321cdee0315e8675040d8aecedd39ba3dbe
+Size: 360272
+MD5sum: 6558f95d6a0d638f12a702aee148def9
+SHA1: 27c68d9bec521056afe8835a149cfc70875ef386
+SHA256: 074a4ab648f6e59bf65d3e94b839919e57c58768a7455b62c2168b9917ef3bef
 Section: Tools
 Description: Install TrollStore Persistence Helper on Apple TV HD and 4K devices. This also works after updating the device to any firmware from tvOS 14 - 17.0.
 Author: straight-tamago
+Depiction: https://github.com/Zenzeq/tv/blob/main/depictions/repo_depictions/json/TrollHelper.json
 Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
 Name: TrollHelper
 
@@ -183,6 +184,22 @@ Section: Tweaks
 Description: Quickly play Doom from anywhere on your Apple TV with the control center!
 Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
 Name: DoomCC
+
+Package: com.zenzeq.doomtv
+Version: 1.3.3-1
+Architecture: appletvos-arm64
+Maintainer: ZenZeq
+Filename: ./debs/com.zenzeq.doomtv.deb
+Size: 20367352
+MD5sum: 0c309950cf2a6d4bf6cbff1fa208bdc5
+SHA1: f5135c5cf0bae8e26f374dfc1556de875e6874a3
+SHA256: 2398a56cfbe3b0e43b03519296b39205f8074a210c7079569d38be031b80bfca
+Section: Games
+Description: Doom for Apple TV
+Author: id Software
+Depiction: https://github.com/Zenzeq/tv/blob/main/depictions/repo_depictions/json/Doom.json
+Icon: https://github.com/Zenzeq/tv/blob/main/game.png
+Name: DoomTV
 
 Package: com.zenzeq.finaldoomtv
 Version: 1.3.3-1

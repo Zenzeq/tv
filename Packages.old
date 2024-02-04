@@ -121,24 +121,6 @@ Depiction: https://github.com/Zenzeq/tv/blob/main/depictions/repo_depictions/jso
 Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
 Name: SnowBoardTV (ALPHA)
 
-Package: com.xandesign.FelicityTV
-Version: 1.0
-Architecture: appletvos-arm64
-Maintainer: XerusDesign <unixdesignios@gmail.com>
-Depends: com.spark.snowboardtv
-Filename: ./debs/com.xandesign.FelicityTV_1.0.deb
-Size: 31921140
-MD5sum: 171d72a46bdbd7533c7b075b535943c2
-SHA1: 8d6d3c1a96cb3e7e4f665f2a3351093ac3cc950f
-SHA256: 6e61cf5c046229ca96c22e3d42f57ecf24d9431f41b094c1f997bde9dd883aaa
-Section: Themes
-Homepage: https://twitter.com/xerusdesign
-Description: Felicity, but Pro.
-Author: XerusDesign <unixdesignios@gmail.com>
-Depiction: https://github.com/Zenzeq/tv/blob/main/depictions/repo_depictions/json/Felicity.json
-Icon: https://github.com/Zenzeq/tv/blob/main/theme.png
-Name: Felicity Pro
-
 Package: com.zenzeq.TrollHelper
 Version: 1.0
 Architecture: appletvos-arm64
@@ -169,23 +151,6 @@ Description: A viewing of multiple screen savers for your Apple TV.
 Author: John Coates
 Icon: https://github.com/Zenzeq/tv/blob/main/entertainment.png
 Name: Aerial
-
-Package: com.zenzeq.darkneon
-Version: 1.0-5
-Architecture: appletvos-arm64
-Maintainer: ZenZeq
-Installed-Size: 72
-Depends: com.spark.snowboardtv
-Filename: ./debs/com.zenzeq.darkneon1.0-5.deb
-Size: 40225092
-MD5sum: d6a1fd3d4dd9e81ff4e65bc31a6658b8
-SHA1: 8734e0437fb4a873a50537d84fc116ec617ad5d1
-SHA256: ff6f249170bde703234377f9422922168528b24367f9bc45dc910afb0c0099a8
-Section: Themes
-Description: A dark neon theme for SnowBoardTV.
-Depiction: https://github.com/Zenzeq/tv/blob/main/depictions/repo_depictions/json/DarkNeon.json
-Icon: https://github.com/Zenzeq/tv/blob/main/theme.png
-Name: Dark Neon
 
 Package: com.zenzeq.doom2tv
 Version: 1.3.3-1
@@ -218,22 +183,6 @@ Section: Tweaks
 Description: Quickly play Doom from anywhere on your Apple TV with the control center!
 Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
 Name: DoomCC
-
-Package: com.zenzeq.doomtv
-Version: 1.3.3-1
-Architecture: appletvos-arm64
-Maintainer: ZenZeq
-Filename: ./debs/com.zenzeq.doomtv.deb
-Size: 20367352
-MD5sum: 0c309950cf2a6d4bf6cbff1fa208bdc5
-SHA1: f5135c5cf0bae8e26f374dfc1556de875e6874a3
-SHA256: 2398a56cfbe3b0e43b03519296b39205f8074a210c7079569d38be031b80bfca
-Section: Games
-Description: Doom for Apple TV
-Author: id Software
-Depiction: https://github.com/Zenzeq/tv/blob/main/depictions/repo_depictions/json/Doom.json
-Icon: https://github.com/Zenzeq/tv/blob/main/game.png
-Name: DoomTV
 
 Package: com.zenzeq.finaldoomtv
 Version: 1.3.3-1
@@ -268,21 +217,6 @@ Author: yan
 Icon: https://zenzeq.github.io/tv/tweak.png
 Name: FixDisneyTV
 
-Package: com.zenzeq.hangman
-Version: 1.0.2
-Architecture: appletvos-arm64
-Maintainer: ZenZeq
-Filename: ./debs/com.zenzeq.hangman.deb
-Size: 26887488
-MD5sum: 03239b46f75b6d789b3b3f11986927f0
-SHA1: 6a8caeeabd888b0ce1fb1570e185c694c839130a
-SHA256: d897f42f5fbd4561b4f1b76ab528652f2a5b1983376591e656359036163fa962
-Section: Games
-Description: Play a game of Hangman for Apple TV.
-Author: Greg Fiumara
-Icon: https://github.com/Zenzeq/tv/blob/main/game.png
-Name: Hangman tvOS
-
 Package: com.zenzeq.litt13
 Version: 1.0
 Architecture: appletvos-arm64
@@ -298,22 +232,6 @@ Author: psprrom
 Depiction: https://github.com/Zenzeq/tv/blob/main/depictions/repo_depictions/json/little.json
 Icon: https://github.com/Zenzeq/tv/blob/main/theme.png
 Name: Litt13 tvOS
-
-Package: com.zenzeq.mctv
-Version: 0.0.3-1
-Architecture: appletvos-arm64
-Maintainer: ZenZeq
-Depends: com.spark.snowboardtv
-Filename: ./debs/com.zenzeq.mctv.deb
-Size: 59329336
-MD5sum: 1276a945201adcddf5ce3430ae8e8724
-SHA1: e897bde70c91d01c8e88f5fba053f9ce6571e4c8
-SHA256: ba46276ddbd3454e0c6adbe465b67a90e6547a95d95976669dbf88b55942492c
-Section: Themes
-Description: A delicious theme for SnowBoardTV.
-Depiction: https://github.com/Zenzeq/tv/blob/main/depictions/repo_depictions/json/McTV.json
-Icon: https://github.com/Zenzeq/tv/blob/main/theme.png
-Name: McTV
 
 Package: com.zenzeq.nobeta
 Version: 1.0-1
@@ -398,37 +316,4 @@ Author: Unknown
 Depiction: https://github.com/Zenzeq/tv/blob/main/depictions/repo_depictions/json/RebootOops.json
 Icon: https://zenzeq.github.io/tv/tweak.png
 Name: Reboot, Oops!
-
-Package: com.zenzeq.retroskate
-Version: 1.0-2
-Architecture: appletvos-arm64
-Maintainer: ZenZeq
-Filename: ./debs/com.zenzeq.retroskate.deb
-Size: 26152200
-MD5sum: c43ad5f7748d5920868edb83c7636e35
-SHA1: c2e1d7975e51c18ffa1638570659189287ab7d30
-SHA256: 93d14077dc23e83a4822892a57f2d1fb4dacf94a2c127f2fb9f43060562f5e5c
-Section: Games
-Description: A retro skateboarding game for the Apple TV.
-Author: Nicholas Pettas
-Depiction: https://github.com/Zenzeq/tv/blob/main/depictions/repo_depictions/json/RetroSkate.json
-Icon: https://github.com/Zenzeq/tv/blob/main/game.png
-Name: Retro Skate
-
-Package: com.zenzeq.zeldatv
-Version: 1.6-4
-Architecture: appletvos-arm64
-Maintainer: ZenZeq
-Installed-Size: 26692
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.zenzeq.zeldatv1.6.deb
-Size: 26658944
-MD5sum: bc5364460e7d02f362e474d12a1fcb8d
-SHA1: ac991b6cd5777a6409c83aadfaa952842acc97d7
-SHA256: 85cfad9dd3c6f1a65105fe35a22b3e8925d509229b9607dd5cac622f16011c56
-Section: Tweaks
-Description: Listen to the sounds of the Ocarina of Time as you browse, venture and explore your jailbroken Apple TV!
-Depiction: https://github.com/Zenzeq/tv/blob/main/depictions/repo_depictions/json/ZeldaTV.json
-Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
-Name: ZeldaTV
 
