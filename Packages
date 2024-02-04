@@ -144,10 +144,10 @@ Architecture: appletvos-arm64
 Maintainer: ZenZeq
 Depends: firmware (>= 14.0)
 Filename: ./debs/com.zenzeq.trollhelper.deb
-Size: 360328
-MD5sum: 4c54b81942847b266b68f9ddd572113c
-SHA1: a7e7eec8dca385dd8c02213f86a04aa964f4eb13
-SHA256: 64abb4ac2fa02a3f29f24ec4c9bd161f43e29bc1ab9958d082793c8c462fed7a
+Size: 360296
+MD5sum: 39dcca558a9f1208b6cbd2749f65868c
+SHA1: 03902e1c74bc7074473c3117ac2517c188823848
+SHA256: af0154d58d24a1459539533cb2049516d4de0409675b7c569fb8e5c49b5d4730
 Section: Tools
 Description: Install TrollStore Persistence Helper on Apple TV HD and 4K devices. This also works after updating the device to any firmware from tvOS 14 - 17.0.
 Author: straight-tamago
