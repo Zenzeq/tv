@@ -5,15 +5,15 @@ Maintainer: XsF1re
 Installed-Size: 68
 Depends: mobilesubstrate
 Filename: ./debs/com.XsF1re.mcpatchtv.deb
-Size: 3136
-MD5sum: e9659e525c8354a659bc429177b36f57
-SHA1: 242d38cd31788e190412651a2731a2cf5cb1407c
-SHA256: f360bba1bf9a7a8d38ce38811aa610f3316f803975ed4d5546f9cbfef2b348be
+Size: 3164
+MD5sum: 5e319a154c52535e94d98bb0dd0b57cc
+SHA1: 4f37a52d5ecaa3ec023c7307f6a5d8be0afd2f3a
+SHA256: addfe9684b1d7fa6a00bb7d85c632457bbd93dabfd8a2fca6ea54d7c28329225
 Section: Tweaks
 Description: Allows installing other device beta profiles for the Apple TV. Compatible with tvOS 13.x
 Author: XsF1re
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/mcpatchtv.json
-Icon: https://zenzeq.github.io/tv/tweak.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/tweak.png
 Name: MCPatchTV
 
 Package: com.i0stweak3r.takemetonito
@@ -23,14 +23,15 @@ Maintainer: ZenZeq
 Installed-Size: 76
 Depends: mobilesubstrate, com.nito.tvcontrolcenter, firmware (>=13.0)
 Filename: ./debs/com.i0stweak3r.takemetonito_1.0.0-1.deb
-Size: 7176
-MD5sum: 3bda738eae2f9a7bdee3c56d362e63b8
-SHA1: e9e5aff8b6a39f270fb9cb546d88f0f32f39b63f
-SHA256: ebc969d4041b440fd8d2364761b07c52f84d03790117c4184c17521a59987ae5
+Size: 7236
+MD5sum: e1ad5af18563d3122bd72e0fe979bafa
+SHA1: aeb8017c0a7d644295347a218223b6fdf7465bc4
+SHA256: 054c6648a1b46df015d7e547ec767bf8a0c1795456690da887cd2d4f579c8102
 Section: Tweaks
 Description: A control center module to quickly open the nitoTV package manager. Built for use with TVControlCenter on tvOS. Works on tvOS 13-14.x Parts of the code are based on the example project checkra1n on lechium's GitHub.
 Author: i0stweak3r <djvs23@gmail.com>
-Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
+Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/takemetonito.json
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/tweak.png
 Name: TakeMeToNito
 
 Package: com.imuseum.1984tv
@@ -39,15 +40,15 @@ Architecture: appletvos-arm64
 Maintainer: iMuseum <realimuseum@gmail.com>
 Depends: com.spark.snowboardtv
 Filename: ./debs/com.imuseum.1984tv.deb
-Size: 3842156
-MD5sum: cc7dbeb03d79b96b8b7cde0e188392e4
-SHA1: f7adf1b040d5216cef2f0ec8104eb70226834d33
-SHA256: 63fc8e16b886d80bf1ffc3a4b33572aa1998297695f8b4a2064622ec2ee98e04
+Size: 3842292
+MD5sum: 520387391f5846bf26235317d5bcd1ba
+SHA1: 59c266eb0d45fe6fee242557974e60dd977cea37
+SHA256: 3181ebeb637e3a9ef9433e9c4debd21bb374322a2978b3dda82cc80940c8df69
 Section: Themes
 Description: The Classic Macintosh experience on your Apple TV!
 Author: iMuseum
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/1984.json
-Icon: https://github.com/Zenzeq/tv/blob/main/theme.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/81f80ddd83fab4e5b62e5483e85ac2c73e9682ee/theme.png
 Name: 1984TV
 
 Package: com.nahtedetihw.Catalina
@@ -56,15 +57,15 @@ Architecture: appletvos-arm64
 Maintainer: Ethan Whited
 Depends: com.spark.snowboardtv
 Filename: ./debs/com.nahtedetihw.Catalina.deb
-Size: 12575188
-MD5sum: a0b2542100eb8117d362a8d26706ff09
-SHA1: f6a1d0769fb50b2e62ad6a6b22ea2ab17e7dddce
-SHA256: e1c05163169b7e8641e282319ed2c12c446c21c3028fe1967dc6377b63b62a15
+Size: 12575212
+MD5sum: 98e356dce85ad743c7abc2dc7a8edfed
+SHA1: 462cb911484727386a51886b41265a22c100aa69
+SHA256: f0894c02fb9cfb1725d7af650b98651a584cc54e0a909e3b846c37735c56a237
 Section: Themes
 Description: A Catalina theme for tvOS.
 Author: Ethan Whited
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/Catalina.json
-Icon: https://github.com/Zenzeq/tv/blob/main/theme.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/81f80ddd83fab4e5b62e5483e85ac2c73e9682ee/theme.png
 Name: Catalina
 
 Package: com.spark.snowboardtv
@@ -74,15 +75,15 @@ Maintainer: Spark
 Installed-Size: 9624
 Depends: mobilesubstrate
 Filename: ./debs/com.spark.snowboardtv_0.0.3Alpha1-39.deb
-Size: 9269548
-MD5sum: 9051a6865d66e49e1c770428684b7fdf
-SHA1: 673a5790dc9a969ea063fe0d9efaa30bdde3b789
-SHA256: 18365d096dcee51a0ce4dd771c29ae5dd898e85989c6547688fc1fb34aeeb7cc
+Size: 9269520
+MD5sum: 3575e05cd1b40e74a22882710d7521aa
+SHA1: 9b89540626edc23890ffab39688b0ee0b737085f
+SHA256: c8b7e2619543931332d56246b94ff0681838cb86a58b15b5ef9b19d535680640
 Section: Tweaks
 Description: SnowBoardTV Theming Engine
 Author: Spark
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/SnowBoardTV.json
-Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/tweak.png
 Name: SnowBoardTV (ALPHA)
 
 Package: com.spark.snowboardtv
@@ -92,15 +93,15 @@ Maintainer: Spark
 Installed-Size: 14760
 Depends: mobilesubstrate
 Filename: ./debs/com.spark.snowboardtv_0.0.5Alpha1-2.deb
-Size: 14521652
-MD5sum: 15f60590581c74848faef9ddfa864367
-SHA1: b8172ea0acc90730848790a5408f3891914f527f
-SHA256: ad4e7fc76d43141f978a6e632638affa9ab8956a98312e369ad471605310513c
+Size: 14521668
+MD5sum: 3c836a12ff90d95f6391f2000a11b481
+SHA1: b632efdd17bab47f6f4b997b310639cc6ced0aa7
+SHA256: b8fd90e7a44cb9733493e6c8775190a0ef587f95080e03dc708613c1b4ab4acc
 Section: Tweaks
 Description: SnowBoardTV Theming Engine
 Author: Spark
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/SnowBoardTV.json
-Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/tweak.png
 Name: SnowBoardTV (ALPHA)
 
 Package: com.spark.snowboardtv
@@ -110,15 +111,15 @@ Maintainer: Spark
 Installed-Size: 14696
 Depends: mobilesubstrate
 Filename: ./debs/com.spark.snowboardtv_0.0.5Alpha1.deb
-Size: 14509800
-MD5sum: 237d13dd4954bda88e81169b2e534a1b
-SHA1: 69113932008633f9f545efa754156a54b5898cb4
-SHA256: 552beaf9a5707e331be0748a1063804bed5f8ae86051d23e5995359db62e7a50
+Size: 14509808
+MD5sum: 8cd9831f443249f4b427a6fcea70562a
+SHA1: 7a034b3091340082491cf8104aeb06dbb6147316
+SHA256: 758f0e755dd598ba015848136df2e9a147b0c16d9bb102ea70b4c4295f89b99d
 Section: Tweaks
 Description: SnowBoardTV Theming Engine
 Author: Spark
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/SnowBoardTV.json
-Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/tweak.png
 Name: SnowBoardTV (ALPHA)
 
 Package: com.zenzeq.TrollDecrypt
@@ -127,15 +128,15 @@ Architecture: appletvos-arm64
 Maintainer: fiore
 Depends: firmware (>= 14.0)
 Filename: ./debs/com.zenzeq.trolldecrypt.deb
-Size: 479864
-MD5sum: 4e33cae88448ef18d04942d92bba1930
-SHA1: 9885f5588af4746c235e88bb3bc6cdcbe4c37a92
-SHA256: c4fb376323b6a0d64d9d85802f85dcb7d2271567368ae94b193fc2cb4d6a7257
+Size: 479888
+MD5sum: b833c6da28aaf5d20d6fb6440122f6f5
+SHA1: 78f20dc2e234786b25b09722e2734bc962c64e08
+SHA256: 513b87b457b8d165abc129e5d01e8f5a804f712050cd2010ffd681b737d86f01
 Section: Tools
 Description: Decrypt AppStore apps to use for TrollStore.
 Author: straight-tamago
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/TrollDecrypt.json
-Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/tweak.png
 Name: TrollDecrypt
 
 Package: com.zenzeq.TrollHelper
@@ -144,15 +145,15 @@ Architecture: appletvos-arm64
 Maintainer: ZenZeq
 Depends: firmware (>= 14.0)
 Filename: ./debs/com.zenzeq.trollhelper.deb
-Size: 360320
-MD5sum: 3563ce1538bd11332268a49520a50a07
-SHA1: ff708ac00cd409986b63d79055401e460d6acd20
-SHA256: 18790ce950095d439acc55e9ddc0da1cc2b0a5b3e6e24550a9045170bf5e893a
+Size: 360408
+MD5sum: 85a896990a24f5b229927af92486f316
+SHA1: b8cf529b94b7af40028985982aab0aa5f84a5956
+SHA256: 08f65bee2fc5725433c4cb1e1abd55a0fb51d528dfee3a7f4469f6b929fa3081
 Section: Tools
 Description: Install TrollStore Persistence Helper on Apple TV HD and 4K devices. This also works after updating the device to any firmware from tvOS 14 - 17.0.
 Author: straight-tamago
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/TrollHelper.json
-Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/tweak.png
 Name: TrollHelper
 
 Package: com.zenzeq.aerial
@@ -160,14 +161,14 @@ Version: 1.0
 Architecture: appletvos-arm64
 Maintainer: ZenZeq
 Filename: ./debs/com.zenzeq.aerial.deb
-Size: 9924712
-MD5sum: f0d2b7e14efeee6b4be62410d1732b0b
-SHA1: 4b0f947fb57c40b22382a2b38c443dce3bcb0e41
-SHA256: 5e3f669c96b143c7f9cf37d388a9e0e7e6f0c25ec70412ffc72fabf38ce1cad2
+Size: 9925104
+MD5sum: 129100f5b44a1594218e55fe1367dd23
+SHA1: b0144df99453e0dc6b4fe259fd37ef8d48ebd747
+SHA256: 531edc11ea6dd458ad15b8af08ce744f974e3ecc1a129ec54dd68670d5b706fc
 Section: Entertainment
 Description: A viewing of multiple screen savers for your Apple TV.
 Author: John Coates
-Icon: https://github.com/Zenzeq/tv/blob/main/entertainment.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/81f80ddd83fab4e5b62e5483e85ac2c73e9682ee/entertainment.png
 Name: Aerial
 
 Package: com.zenzeq.doom2tv
@@ -175,15 +176,15 @@ Version: 1.3.3-1
 Architecture: appletvos-arm64
 Maintainer: ZenZeq
 Filename: ./debs/com.zenzeq.doom2tv1.3.3-1.deb
-Size: 16683272
-MD5sum: cc45334088848661cdace968de696e66
-SHA1: 43bb54bee1f02f7c5257ec0116b00f966e020253
-SHA256: 687622ec147051ebb5820b6bd5c8de8c041920d458f1c1bdbd9154d6c69ecaf5
+Size: 16682016
+MD5sum: d5df836a521f4ccececfaeda93c2cc3c
+SHA1: faabde8340bc35a38783f68eac6d4c3ca4a92b45
+SHA256: 3714fdd44e7ee93492fb7bafe838e9f90cdae96e5e667f043f19450e7e69ac9a
 Section: Games
 Description: Doom II for Apple TV
 Author: id Software
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/Doom2.json
-Icon: https://github.com/Zenzeq/tv/blob/main/game.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/game.png
 Name: Doom II TV
 
 Package: com.zenzeq.doomcc
@@ -193,13 +194,13 @@ Maintainer: ZenZeq
 Installed-Size: 248
 Depends: firmware (>=13.0), mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1), com.zenzeq.doomtv
 Filename: ./debs/com.zenzeq.doomcc1.0.deb
-Size: 181704
-MD5sum: 981f50516a92398d446ed2b485f50ca0
-SHA1: a7169b4836122c5f07d9b07e11488d0140a72176
-SHA256: d0f8c6cdb3d65e9f2e81a8cb85cace76fa6d62e60a86654972d8113a02e5ef6f
+Size: 181736
+MD5sum: 166148a8c2398bc22808f2bb1a956ea9
+SHA1: cbadb0f0517cc5eabfb387fcc37d238ba1eb0711
+SHA256: 9949e146ac02e5f86fb381c4b16fc3a46e05fdbbe9ca6d3466a1cdccdec9d36f
 Section: Tweaks
 Description: Quickly play Doom from anywhere on your Apple TV with the control center!
-Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/tweak.png
 Name: DoomCC
 
 Package: com.zenzeq.doomtv
@@ -207,15 +208,15 @@ Version: 1.3.3-1
 Architecture: appletvos-arm64
 Maintainer: ZenZeq
 Filename: ./debs/com.zenzeq.doomtv.deb
-Size: 19006944
-MD5sum: 77486c2fad3721d31192456b420eb0b5
-SHA1: 6f547ae74119faa66176e3c637449ad36a3cb6f9
-SHA256: 8626cbc85747dc59bda6a31879e6956751f9e58a9b7e0abdc9d985fd6c0eb875
+Size: 19006972
+MD5sum: 1d2080a0d46060e29683e7659b17204d
+SHA1: bfa4bb347fbebc709b5948442b849cf10cf3cdeb
+SHA256: 3d864509c03a2d58b7527f65cc13c532e4d8fc61e2c25a22494eacce3b504b9d
 Section: Games
 Description: Doom for Apple TV
 Author: id Software
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/Doom.json
-Icon: https://github.com/Zenzeq/tv/blob/main/game.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/game.png
 Name: DoomTV
 
 Package: com.zenzeq.finaldoomtv
@@ -223,15 +224,15 @@ Version: 1.3.3-1
 Architecture: appletvos-arm64
 Maintainer: ZenZeq
 Filename: ./debs/com.zenzeq.finaldoomtv1.3.3-1.deb
-Size: 13040760
-MD5sum: 7ba8589683e62743b5daabeb5625d3f1
-SHA1: 21731a200036fde128911308c7d823ec1d90214a
-SHA256: bdcfd83a947c01f6e728caa07231bea9681e0f2dd0cc9ca249463bc94a986c56
+Size: 13040780
+MD5sum: f871ab8dd05a5332c461900fce835b57
+SHA1: 2d2ed0d55219df19c70a4aca486df697b302daed
+SHA256: 09930e3dd0a614e19ef963dcced8047b519a8f3ffb912310952ddb030e26519b
 Section: Games
 Description: Final Doom for Apple TV
 Author: id Software
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/FinalDoom.json
-Icon: https://github.com/Zenzeq/tv/blob/main/game.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/game.png
 Name: Final Doom TV
 
 Package: com.zenzeq.fixdisneytv
@@ -241,14 +242,14 @@ Maintainer: Zenzeq
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.zenzeq.fixdisneytv.deb
-Size: 2796
-MD5sum: 94c600d50994061988bff484869be03f
-SHA1: 134a1c8ba5ad924f04150164334df68c62cbd26b
-SHA256: fa05b27b00a6c6ba5c29f969a5a86f702850ea3e57f11ca112613ce33d93e482
+Size: 2840
+MD5sum: 194b148705f577426a80f2744f93716c
+SHA1: dd875182e361f44cb081cd20676caaefcb90233e
+SHA256: 35dd31bf43e67bc78af8d772f1878aabcad4d77a5903f634473ae17791bc8506
 Section: Tweaks
 Description: A tweak to suppress the nagging update for Disney+
 Author: yan
-Icon: https://zenzeq.github.io/tv/tweak.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/tweak.png
 Name: FixDisneyTV
 
 Package: com.zenzeq.litt13
@@ -256,15 +257,15 @@ Version: 1.0
 Architecture: appletvos-arm64
 Maintainer: psprrom
 Filename: ./debs/com.zenzeq.litt13.deb
-Size: 7344696
-MD5sum: 1860038f1a17d99b080c4a8d394412fa
-SHA1: c1e9e0384fac85049b7c8a4607cd0f4ee9c80c98
-SHA256: b871be00d9c4c675b359a43f2ce028ad9733dcf8d37ec412e2da26a6dbfb72ec
+Size: 7344756
+MD5sum: af865afc9b429f8e5afba2747041dc21
+SHA1: 8c8d4f543ceed211f92b3f7aa7b65b4503e1794c
+SHA256: 8b54450d0950ea85c0aa24adcebabeec18630da62a9bad9f32542ebe5949c608
 Section: Themes
 Description: A Litt13 theme for tvOS.
 Author: psprrom
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/little.json
-Icon: https://github.com/Zenzeq/tv/blob/main/theme.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/81f80ddd83fab4e5b62e5483e85ac2c73e9682ee/theme.png
 Name: Litt13 tvOS
 
 Package: com.zenzeq.nobeta
@@ -274,14 +275,14 @@ Maintainer: ZenZeq
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.zenzeq.nobeta.deb
-Size: 3072
-MD5sum: ea7859559b0d7f3028deaf7a6d46de5c
-SHA1: e782a586b5714b01b0443952ba83898e24d49e75
-SHA256: 4ca25b496a947f154215f9fb4ea226616b40e6343745df50a914e5f95fbf3ad0
+Size: 3092
+MD5sum: 02dfdf12b2cea82e10cc9ece59df77a2
+SHA1: 5f993ac4fe8c24271efb11ca4129ec5f5ff013c9
+SHA256: 5d10f7c4f99edd1094f041637a0761680f40004da8e2b507ec66a9b0bfe909e0
 Section: Tweaks
 Description: Gets rid of the beta enrolment toggle to prevent beta OS updating.
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/NoBeta.json
-Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/tweak.png
 Name: No Beta Updates
 
 Package: com.zenzeq.noreset
@@ -291,14 +292,14 @@ Maintainer: ZenZeq
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.zenzeq.noreset1.0-2.deb
-Size: 3152
-MD5sum: aeb5a749e881d30c8a523390bac3f1d2
-SHA1: 63ebd6379dbb2b8cc469e4b48b646222315e9e69
-SHA256: 1cb263cf35314ceb8414dc2aeecd5308dbc16d3e435994adab1b0633329f0e10
+Size: 3176
+MD5sum: 4a0d816607999e9895273f1dbe66df49
+SHA1: cd7882e0c648fed2da8934fdd2dcc288f6024ca5
+SHA256: 600058a9318b492d2dfe904ff25dde9c6451a24d2d1124e8a3b68756f2aecc9e
 Section: Tweaks
 Description: A tweak to disable "Reset all content and settings" for Apple TV 4/4K. Compatible with tvOS 10.2.2 - 13.x
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/NoReset.json
-Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/tweak.png
 Name: No Reset
 
 Package: com.zenzeq.noreset
@@ -308,14 +309,14 @@ Maintainer: ZenZeq
 Installed-Size: 76
 Depends: mobilesubstrate
 Filename: ./debs/com.zenzeq.noreset_1.1.deb
-Size: 4304
-MD5sum: b3d73c0428bf5b1bbb63a90c7004888d
-SHA1: 9b519d064996aa78a5a73a5ec93b77f29c83da02
-SHA256: 94c4957aab9705492b065e09b3489671db78b8a57f169b0f49064dde9841b308
+Size: 4324
+MD5sum: f010f61d969006a949cd99ea26fe0684
+SHA1: bd2e1d2b9e742888856bc08eff025b011218ee61
+SHA256: 083546d2c30b83b3d9589885e89e10842649d8cae94ed29dd1ef530334ed82bf
 Section: Tweaks
 Description: A tweak to disable "Reset all content and settings" for Apple TV 4/4K. Compatible with tvOS 10.2.2 - 14.x
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/NoReset.json
-Icon: https://github.com/Zenzeq/tv/blob/main/tweak.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/tweak.png
 Name: No Reset
 
 Package: com.zenzeq.octopus
@@ -323,15 +324,15 @@ Version: 1.0-1
 Architecture: appletvos-arm64
 Maintainer: ZenZeq
 Filename: ./debs/com.zenzeq.octopus.deb
-Size: 10428232
-MD5sum: 778aa7abda7b63d2d410cf55ed7ea9cb
-SHA1: 4edbd40853b0cd65c825318730b4fe13c0d2099d
-SHA256: 7aba451c812740dcdad75f7a48fe0b8aee114b0d279f972a469ca8e91f25ca44
+Size: 10427264
+MD5sum: 1d9626afc390d83396c592df99ab4ff9
+SHA1: d55e425bf2e42182ff40cb7cb6fe94aa677643eb
+SHA256: c53b5cba48da571756201043cbf580fcbb849219fa9cb17a731c79f3016f5794
 Section: Games
 Description: Nintendo's classic Octopus for Apple TV.
 Author: Roger Wetzel
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/Octopus.json
-Icon: https://github.com/Zenzeq/tv/blob/main/game.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/game.png
 Name: Octopus
 
 Package: com.zenzeq.rebootoops
@@ -341,14 +342,14 @@ Maintainer: ZenZeq
 Installed-Size: 80
 Depends: mobilesubstrate
 Filename: ./debs/com.zenzeq.rebootoops.deb
-Size: 5944
-MD5sum: ccae23543ac5e10189a395c83ff8e37e
-SHA1: 78d789a6872c83575fe62316603e882c8caf8060
-SHA256: b7d0514786e68f7af3f1704e848c26e319ba6b28d6329ff778e510c5b852a856
+Size: 5976
+MD5sum: e32a392b02fd175e1e5dbc62a516d088
+SHA1: bfa8bb4bd6f6ce54ee3aa846a0515f151f321e53
+SHA256: 63ebde28c431aa979e77d6b2624f5a5f9e0886b1b36a0a66f0da188e2be2a3fb
 Section: Tweaks
 Description: To reboot or not to reboot, that is the question.
 Author: Unknown
 Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depictions/json/RebootOops.json
-Icon: https://zenzeq.github.io/tv/tweak.png
+Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/tweak.png
 Name: Reboot, Oops!
 
