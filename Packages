@@ -353,3 +353,385 @@ Depiction: https://raw.githubusercontent.com/Zenzeq/tv/main/depictions/repo_depi
 Icon: https://raw.githubusercontent.com/Zenzeq/tv/4219396059cb8ed6433dce0a0163ec1b2f40bdb8/tweak.png
 Name: Reboot, Oops!
 
+Package: openssh
+Version: 7.9p1-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 9496
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1
+Filename: ./debs/openssh_7.9p1-1_appletvos-arm64.deb
+Size: 625844
+MD5sum: d721683464a3a36af255af2d324385c2
+SHA1: e6815b9846be4a39731036c916ec610c8f81f6ba
+SHA256: fed0b554488ee2d4322c1a204495e3b9696f982a1f327a3536751334bc63fec0
+Section: Networking
+Priority: important
+Description: secure remote access between machines
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH
+
+Package: openssh
+Version: 8.3-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 10680
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1
+Filename: ./debs/openssh_8.3-1_appletvos-arm64.deb
+Size: 706666
+MD5sum: f32313c1bb656f033a143693ffccf8b3
+SHA1: cf9f416131e98f5fff0d5fc8545b55cc7b37fc59
+SHA256: 0254904eedbc4adf53690c3b84c61e2e539f4e76fdfad78a810c5dc162008af1
+Section: Networking
+Priority: important
+Description: secure remote access between machines
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH
+
+Package: openssh
+Version: 8.4-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 10856
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1
+Filename: ./debs/openssh_8.4-1_appletvos-arm64.deb
+Size: 714234
+MD5sum: ad4dc885c5752e3c7af434abca5b8f42
+SHA1: 9ebca4b03f393f9a2ed9b1f3b568de567f60ac2c
+SHA256: 02de3280d1558894827a8ecc706ff1303a1deb41c90b60004c68b2724db41bb8
+Section: Networking
+Priority: important
+Description: secure remote access between machines
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH
+
+Package: openssh
+Version: 8.4-2
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 8
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, openssh-server, openssh-client, openssh-global-listener
+Filename: ./debs/openssh_8.4-2_appletvos-arm64.deb
+Size: 1022
+MD5sum: 5fbf41e102a09afeb2f7dddbb650c265
+SHA1: 57fbc5c9425c9e6a94f8dcd13d57c49fa9bf33c2
+SHA256: 4aa569480b9443fd15df2dac452d8297e0cd483016fe89f78b21032a192b9d19
+Section: Networking
+Priority: important
+Description: secure shell (SSH) server, for secure access from remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides the sshd server.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH
+
+Package: openssh-client
+Version: 8.4-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 6664
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1
+Breaks: openssh (<= 8.4-1)
+Filename: ./debs/openssh-client_8.4-1_appletvos-arm64.deb
+Size: 484738
+MD5sum: fbf6ecb4db31820b78145bebd5591abe
+SHA1: 20cf98d88d71c0332298d025698155024374feb8
+SHA256: 0c6e9138ae44e6bf7419146c343388e0b759f81b425680c1d1ae9d7950436d47
+Section: Networking
+Priority: important
+Description: secure shell (SSH) client, for secure access to remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides the client binaries.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH Clients
+
+Package: openssh-client
+Version: 8.4-2
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 8960
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1
+Breaks: openssh (<= 8.4-1)
+Filename: ./debs/openssh-client_8.4-2_appletvos-arm64.deb
+Size: 570264
+MD5sum: c0991a05bdf5caac0cd4c021f47b07fa
+SHA1: c51a9d26aa3123896b81805b700b12d571f738f4
+SHA256: edb84e459c0f628119f9cd9cf6123baca1f675635e09438c9ace0e708440f164
+Section: Networking
+Priority: important
+Description: secure shell (SSH) client, for secure access to remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides the client binaries.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH Clients
+
+Package: openssh-global-listener
+Version: 8.4-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 16
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, openssh-server (>= 8.4)
+Breaks: openssh (<= 8.4-1)
+Filename: ./debs/openssh-global-listener_8.4-1_appletvos-arm64.deb
+Size: 1562
+MD5sum: 699a9c311a8148db9198b2757d393d12
+SHA1: 71c81962ec075bb6d739a1677711a1f7e38e078a
+SHA256: 11d1d5e51a974559228c3f6df818bbc3ff65218b14a4b9e8ec6184ecb199329d
+Section: Networking
+Priority: important
+Description: secure shell (SSH) server, for secure access from remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides a global listener on port 22.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH Global Listener
+
+Package: openssh-global-listener
+Version: 8.4-2
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 32
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, openssh-server (>= 8.4)
+Breaks: openssh (<= 8.4-1)
+Filename: ./debs/openssh-global-listener_8.4-2_appletvos-arm64.deb
+Size: 1762
+MD5sum: a12a60837402fe7657281e4fadccfa80
+SHA1: 88f1b12a35d011e4cca54e2c11f77ce9d22cb205
+SHA256: 5788d01828039265bfd621c5c64b145f1711bea014c0734881ddef8a67e4f123
+Section: Networking
+Priority: important
+Description: secure shell (SSH) server, for secure access from remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides a global listener on port 22.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH Global Listener
+
+Package: openssh-local-listener
+Version: 8.4-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 16
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, openssh-server (>= 8.4)
+Filename: ./debs/openssh-local-listener_8.4-1_appletvos-arm64.deb
+Size: 1554
+MD5sum: d147c73f1b817817a79a12817d677dd1
+SHA1: 7e45a14c0939304c3f7f106a098a2c60e67f18f5
+SHA256: 87e03ab29a98058504dd6552ec95b8d30231fb6ac9e5c86e436790eda47e84bf
+Section: Networking
+Priority: important
+Description: secure shell (SSH) server, for secure access from remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides a listener for only localhost on port 22.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH Localhost Listener
+
+Package: openssh-local-listener
+Version: 8.4-2
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 32
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, openssh-server (>= 8.4)
+Filename: ./debs/openssh-local-listener_8.4-2_appletvos-arm64.deb
+Size: 1752
+MD5sum: 971cffcd2ad77be0098387b853bf5c49
+SHA1: 6dc7acb23edcd3467a84e9673ab817a8cd84424b
+SHA256: 836d59698f79b5c51d8e4961a7c73fffe9a6fc2d1fc49169b112e290a020cdff
+Section: Networking
+Priority: important
+Description: secure shell (SSH) server, for secure access from remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides a listener for only localhost on port 22.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH Localhost Listener
+
+Package: openssh-server
+Version: 8.4-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1608
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, openssh-client (>= 8.4)
+Breaks: openssh (<= 8.4-1)
+Filename: ./debs/openssh-server_8.4-1_appletvos-arm64.deb
+Size: 271998
+MD5sum: d93c4e4156194c20117946c825425c93
+SHA1: 341e210bcf90ccd462f5d3627f29af84fa175cce
+SHA256: e0f1c211143313708563f455912443e9f0cdae9ec76640809e71163b15e1808d
+Section: Networking
+Priority: important
+Description: secure shell (SSH) server, for secure access from remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides the sshd server.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH Server Binaries
+
+Package: openssh-server
+Version: 8.4-2
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1880
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, openssh-client (>= 8.4)
+Breaks: openssh (<= 8.4-1)
+Filename: ./debs/openssh-server_8.4-2_appletvos-arm64.deb
+Size: 290142
+MD5sum: 6c76c5f8de06b959e316c0b00efaae5f
+SHA1: 7556a891d4e6b44c255c24b504dca783ca0255ec
+SHA256: 3d6cf97827c21a7afb84a534a2695886189a19433299f68121b49fe0d163b23f
+Section: Networking
+Priority: important
+Description: secure shell (SSH) server, for secure access from remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides the sshd server.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH Server Binaries
+
+Package: openssl
+Version: 1.1.1c-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1432
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, firmware (>=11.0) | libssl0.9.8, libssl1.0
+Filename: ./debs/openssl_1.1.1c-1_appletvos-arm64.deb
+Size: 225464
+MD5sum: d86fcea408a34b022b45c18d412e9ea0
+SHA1: 60c6ff2f089ef59369f23c43d9a47c4ffd92cb76
+SHA256: c1fedc8f1e1a62aa0d0567ecc328349e8c94f56bfce3f4f303bef62bc992fb44
+Section: Security
+Priority: standard
+Description: OpenSSL tools
+Name: OpenSSL
+
+Package: openssl
+Version: 1.1.1i-1
+Architecture: appletvos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1464
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, firmware (>=11.0) | libssl0.9.8, libssl1.0
+Filename: ./debs/openssl_1.1.1i-1_appletvos-arm64.deb
+Size: 225858
+MD5sum: f57bb76080a77a231b058e5ea96ec2e1
+SHA1: 4b3e21e94c54bd10c6545314fa4d363dba0954d1
+SHA256: 557089307b282d401715567e0bc8844a6e37f904cc3cce709762f3fc18a0a776
+Section: Security
+Priority: standard
+Description: OpenSSL tools
+Name: OpenSSL
+
