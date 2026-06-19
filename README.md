@@ -1,7 +1,7 @@
-# A temporary nitoTV repository - WIP
+# A nitoTV and Apple TV repository - WIP
 - [x] Archived old tweaks
-- [ ] Upload archived tweaks
-- [ ] Fix broken dependencies
+- [x] Upload archived tweaks
+- [x] Fix broken dependencies
 - [ ] Create easter egg
 - [x] Fix old stuff
-
+- [ ] Do something cool
